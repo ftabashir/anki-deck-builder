@@ -17,16 +17,16 @@
 
 ## Stats for B2_Kontext
 ```
-words per minute: 4.9
+words per minute: 4.8
 estimated time: ~8h
 ----------------------------------------
-en_meaning           514.0 9.4 % =
-frequency            333.0 6.1 % =
-cefr_level           315.0 5.7 % =
-part_of_speech       194.0 3.5 % 
-de_meaning           752.0 13.7% ==
-de_synonyms          1138.0 20.8% ====
-fa_meaning           635.0 11.6% ==
-de_example_sentence  1285.0 23.5% ====
-perfekt_präteritum   312.0 5.7 % =
+en_meaning           1223.0 9.2 % =
+frequency            797.0 6.0 % =
+cefr_level           751.0 5.6 % =
+part_of_speech       468.0 3.5 % 
+de_meaning           1821.0 13.7% ==
+de_synonyms          2841.0 21.4% ====
+fa_meaning           1562.0 11.7% ==
+de_example_sentence  3072.0 23.1% ====
+perfekt_präteritum   766.0 5.8 % =
 ```
