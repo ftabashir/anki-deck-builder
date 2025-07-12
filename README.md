@@ -1,4 +1,15 @@
-## Steps
+## Adding meanings and examples
+- Download .apkg file as the source of words
+- Define the apkg inside `apkg_collections`. See `B2_Kontext` as an example.
+- Run main function of `apkg_b2_kontext`.
+  - You can disable specific parts:
+    - `create_json_files` uses ollama and `gemma3` model to generate meanings, examples, etc. See `PROMPTS`.
+    - `update_json_files` updates existing jsons and adds Persian translations for `de_example_sentence`.
+    - `gen_anki` generate an `apkg` file
+    - `add_audio` gets an apkg file and generate another apkg file which the same content but adds audio files. 
+
+
+## Modifying an existing
 - Download .apkg file
 - Rename it as a .zip file
 - Extract zip file
@@ -42,9 +53,12 @@
   - https://github.com/thiswillbeyourgithub/AnkiAIUtils
 
 ## Resources
-- Extracting data from Goethe Zertifikat B1 Wortliste pdf
-    - https://github.com/aringq10/b1-goethe-anki-deck
-    - https://wejn.org/2023/12/extracting-data-from-goethe-zertifikat-b1-wortliste
+- Extracting data
+  - From B2 Kontext
+    - https://ankiweb.net/shared/info/1185202095
+  - From Goethe Zertifikat B1 Wortliste pdf
+      - https://github.com/aringq10/b1-goethe-anki-deck
+      - https://wejn.org/2023/12/extracting-data-from-goethe-zertifikat-b1-wortliste
 
 
 ## Stats for B2_Kontext

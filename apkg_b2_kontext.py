@@ -1,4 +1,3 @@
-import random
 import time
 import os
 import json
@@ -415,8 +414,11 @@ def find_redundant_words(collection):
 if __name__ == '__main__':
     collection = apkg_collections.B2_Kontext
     jsons_directory = './data/b2_kontext_jsons'
-    apkg_path = './data/collections/B2_Kontext_Words|Meanings|Examples.apkg'
-    # gen_anki(jsons_directory, apkg_path)
+    apkg_path = f'{apkg_collections.B2_Kontext_Words_Meanings_Examples.collection_path}.apkg'
+    create_json_files(collection, jsons_directory)
+    update_json_files(collection, jsons_directory)
+    gen_anki(jsons_directory, apkg_path)
+
     b2_kontext = b2_kontext_model()
     b2_kontext_deck = b2_kontext_deck()
     add_audio(
@@ -429,29 +431,3 @@ if __name__ == '__main__':
         deck_id=b2_kontext_deck.deck_id + 1,
         deck_name=f'{b2_kontext_deck.name} with Audio',
     )
-    # find_redundant_words(collection)
-    # create_json_files(collection, jsons_directory)
-    # update_json_files(collection, jsons_directory)
-    # words = all_words(apkg_collections.B2_Kontext)
-    # collection = apkg_collections.A1_B2
-    # cur = get_cursor(collection.collection_path)
-    # word_index = get_field_names(cur).index("Word")
-    # found = 0
-    # notFound = 0
-    # for index, word in enumerate(words):
-    #     word_query = word.split(',')[0]
-    #     word_query = word_query.split(' (')[0]
-    #     word_query = word_query.replace('|', '')
-    #     word_query = word_query.strip()
-    # results = search_notes_for_word(cur, word_query)
-    # word_found = len(results) > 0
-    # meaning = ''
-    # if not word_found:
-    #     meaning = get_meaning(word_query)
-    # print(index, word, "-->", word_query,
-    #       f"{len(results)} found" if word_found else f"NOT_FOUND meaning= {meaning}")
-    # if word_found:
-    #     found += 1
-    # else:
-    #     notFound += 1
-    # print(f"Found: {found} NotFound: {notFound}")

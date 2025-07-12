@@ -1,6 +1,6 @@
 ## Redundant words of B2 Kontext
 - Only 2317 of 2340 words have been generated from B2_Kontext because the rest were redundant.
-- Below is the list of redundancies:
+- Below is the list of redundancies found using `find_redundant_words`:
 
  abhängen
 -  ab|hängen (die Konkurrenz abhängen) 
