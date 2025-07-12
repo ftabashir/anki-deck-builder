@@ -9,5 +9,7 @@
     "de_example_sentence": "Wir müssen die Software gemeinsam mitentwickeln, um die Benutzerfreundlichkeit zu verbessern.\nDas Unternehmen möchte junge Talente fördern und mitentwickeln lassen, um innovative Lösungen zu schaffen.",
     "perfekt_präteritum": "entwickelt / entwickelte",
     "word": "mit|entwickeln ",
-    "word_query": "mitentwickeln"
+    "word_query": "mitentwickeln",
+    "de_example_sentence_fa": "\"ما باید نرم‌افزار را با هم توسعه دهیم تا کاربردپذیری آن را بهبود بخشیم.\nشرکت می‌خواهد استعدادهای جوان را تشویق و در توسعه با آن‌ها همکاری کند تا راهکارهای نوآورانه ایجاد کند.\"",
+    "de_meaning_fa": "همراه با دیگران، چیزی را بهبود بخشیدن یا ایجاد کردن."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Negationssilbe „nicht“ wird oft in umgangssprachlichen Redewendungen verkürzt.\nManche Verben erfordern eine bestimmte Positionierung der Negationssilbe im Satzbau.",
     "perfekt_präteritum": "",
     "word": "Negationssilbe, die, -n",
-    "word_query": "Negationssilbe"
+    "word_query": "Negationssilbe",
+    "de_example_sentence_fa": "\"Die Negationssilbe „nicht“ wird oft in umgangssprachlichen Redewendungen verkürzt.\"\n→ \"بسیاری اوقات، هجأی منفی \"nicht\" در اصطلاحات عامیانه کوتاه می‌شود.\"\n\n\"Manche Verben erfordern eine bestimmte Positionierung der Negationssilbe im Satzbau.\"\n→ \"برخی فعل‌ها نیازمند قرارگیری مشخصی از هجأی منفی در ساختار جمله هستند.\"",
+    "de_meaning_fa": "سکوت‌زدا یک آوای اضافی است که در برخی فعل‌ها در حالت منفی اضافه می‌شود، برای مثال، \"nicht kommen\" به \"nicht komma\" تبدیل می‌شود."
 }

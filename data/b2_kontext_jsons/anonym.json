@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie hinterließ eine anonyme Nachricht im Briefkasten.\nDie anonyme Spende ermöglichte die Renovierung des Kindergartens.",
     "perfekt_präteritum": "gegeben / gab",
     "word": "anonym ",
-    "word_query": "anonym"
+    "word_query": "anonym",
+    "de_example_sentence_fa": "\"Sie hinterließ eine anonyme Nachricht im Briefkasten.\"\n→ او یک پیام ناشناس در صندوق پست گذاشت.\n\n\"Die anonyme Spende ermöglichte die Renovierung des Kindergartens.\"\n→ کمک مالی ناشناس باعث بازسازی مهد کودک شد.",
+    "de_meaning_fa": "«ناشناس» به این معنی است که کسی نام یا هویت خود را فاش نمی‌کند."
 }

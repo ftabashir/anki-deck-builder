@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Unternehmen hat seine Kundendaten in einer zentralen Datenbank gespeichert.\nUm die Recherche zu verbessern, müssen wir die Datenbank optimieren.",
     "perfekt_präteritum": "",
     "word": "Datenbank, die, -en",
-    "word_query": "Datenbank"
+    "word_query": "Datenbank",
+    "de_example_sentence_fa": "شرکت داده‌های مشتریان خود را در یک پایگاه داده مرکزی ذخیره کرده است.\nبرای بهبود جستجو، باید پایگاه داده را بهینه‌سازی کنیم.",
+    "de_meaning_fa": "یک پایگاه داده مانند یک پوشه بزرگ و منظم است که اطلاعات در آن ذخیره می‌شوند."
 }

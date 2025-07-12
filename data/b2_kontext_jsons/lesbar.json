@@ -9,5 +9,7 @@
     "de_example_sentence": "Der handschriftliche Bericht war leider nicht lesbar.\nDie Schriftgröße wurde erhöht, damit der Text besser lesbar ist.",
     "perfekt_präteritum": "It's not a verb.",
     "word": "lesbar ",
-    "word_query": "lesbar"
+    "word_query": "lesbar",
+    "de_example_sentence_fa": "\"گزارش دست‌نویس متاسفانه قابل خواندن نبود.\nاندازه فونت را بزرگ‌تر کردند تا متن خواناتر شود.\"",
+    "de_meaning_fa": "\"قابل خواندن\" به این معنی است که چیزی به خوبی خوانده می‌شود."
 }

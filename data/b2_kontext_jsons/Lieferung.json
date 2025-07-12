@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Lieferung der Möbel erfolgt voraussichtlich nächste Woche.\nBitte bestätigen Sie den Erhalt der Lieferung umgehend.",
     "perfekt_präteritum": "geliefert / lieferte",
     "word": "Lieferung, die, -en",
-    "word_query": "Lieferung"
+    "word_query": "Lieferung",
+    "de_example_sentence_fa": "\"تحویل مبلمان احتمالاً هفته آینده انجام خواهد شد.\nلطفاً دریافت کالا را در اسرع وقت تایید کنید.\"",
+    "de_meaning_fa": "\"تحویل\" به معنای رساندن چیزی به یک مکان مشخص است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Daten sind durch eine starke Firewall gesichert.\nDie neue Brücke ist für extreme Wetterbedingungen gesichert.",
     "perfekt_präteritum": "gesichert / sicherte",
     "word": "gesichert ",
-    "word_query": "gesichert"
+    "word_query": "gesichert",
+    "de_example_sentence_fa": "\"Die Daten sind durch eine starke Firewall gesichert.\"\n**داده‌ها از طریق یک فایروال قوی محافظت شده‌اند.**\n\n\"Die neue Brücke ist für extreme Wetterbedingungen gesichert.\"\n**پل جدید برای شرایط آب و هوایی شدید مقاوم‌سازی شده است.**",
+    "de_meaning_fa": "\"ایمن\" به معنی استوار و مطمئن متصل یا محافظت‌شده است."
 }

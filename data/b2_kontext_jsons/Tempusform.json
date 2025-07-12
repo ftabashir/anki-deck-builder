@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Verwendung der richtigen Tempusform ist entscheidend für das Verständnis des Satzes.\nEr verwechselte die Tempusform und sagte, er werde gestern das Paket erhalten.",
     "perfekt_präteritum": "It's not a verb.",
     "word": "Tempusform, die, -en",
-    "word_query": "Tempusform"
+    "word_query": "Tempusform",
+    "de_example_sentence_fa": "\"استفاده از شکل زمان مناسب برای درک جمله حیاتی است.\nاو شکل زمان را اشتباه گرفت و گفت دیروز بسته را دریافت خواهد کرد.\"",
+    "de_meaning_fa": "یک ساختار دستوری است که نشان می‌دهد یک عمل در چه زمانی رخ می‌دهد."
 }

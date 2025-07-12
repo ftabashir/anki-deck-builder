@@ -9,5 +9,7 @@
     "de_example_sentence": "Er versuchte, seine Freude auszudrücken, aber die Worte blieben ihm im Halse stecken.\nSie konnte ihre Enttäuschung kaum ausdrucken, nachdem sie die Absage erhalten hatte.",
     "perfekt_präteritum": "ausgedrückt / drückte",
     "word": "aus|drücken ",
-    "word_query": "ausdrücken"
+    "word_query": "ausdrücken",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er versuchte, seine Freude auszudrücken, aber die Worte blieben ihm im Halse stecken.\"\n**\"او سعی کرد خوشحالی‌اش را بیان کند، اما کلمات در گلویش گیر کرد.\"**\n\n\"Sie konnte ihre Enttäuschung kaum ausdrucken, nachdem sie die Absage erhalten hatte.\"\n**\"او بعد از دریافت جواب رد، به سختی می‌تونست نارضایتی‌اش رو ابراز کنه.\"**",
+    "de_meaning_fa": "\"به معنای بیرون فشردن یا راندن چیزی است.\""
 }

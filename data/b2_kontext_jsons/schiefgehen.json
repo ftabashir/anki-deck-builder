@@ -9,5 +9,7 @@
     "de_example_sentence": "Es könnte schiefgehen, wenn wir die neuen Sicherheitsvorkehrungen ignorieren.\nIch habe Angst, dass bei dem Projekt noch etwas schiefgehen könnte.",
     "perfekt_präteritum": "ist schiefgegangen / ging schief",
     "word": "schief|gehen, geht schief, ging schief, ist schiefgegangen",
-    "word_query": "schiefgehen"
+    "word_query": "schiefgehen",
+    "de_example_sentence_fa": "Here are the Persian translations:\n\n\"ممکنه اوضاع خراب بشه اگه تدابیر امنیتی جدید رو نادیده بگیریم.\nمی‌ترسم توی این پروژه هنوز چیزی خراب بشه.\"",
+    "de_meaning_fa": "\"اشتباه پیش آمدن\" به این معنی است که چیزی طبق برنامه پیش نمی‌رود یا با شکست مواجه می‌شود."
 }

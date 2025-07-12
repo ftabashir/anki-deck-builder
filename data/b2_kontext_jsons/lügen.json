@@ -9,5 +9,7 @@
     "de_example_sentence": "Er hat gelogen, um seine Fehler zu verbergen.\nSie beschuldigt ihn, aber ich glaube nicht, dass er lügt.",
     "perfekt_präteritum": "gelogen / log",
     "word": "lügen, lügt, log, hat gelogen ",
-    "word_query": "lügen"
+    "word_query": "lügen",
+    "de_example_sentence_fa": "\"او دروغ گفت تا اشتباهاتش را پنهان کند.\nاو را متهم می‌کند، اما فکر نمی‌کنم او دروغ بگوید.\"",
+    "de_meaning_fa": "\"دروغ گفتن\" به معنای گفتن چیزی است که درست نیست."
 }

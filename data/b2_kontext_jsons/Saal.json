@@ -9,5 +9,7 @@
     "de_example_sentence": "Im Festsaal wurde eine wunderschöne Hochzeit gefeiert.\nDer Physikunterricht findet heute im großen Saal statt.",
     "perfekt_präteritum": "gesalzen / salzte",
     "word": "Saal, der, &quot;-e",
-    "word_query": "Saal"
+    "word_query": "Saal",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Im Festsaal wurde eine wunderschöne Hochzeit gefeiert.\" → در تالار جشن، یک عروسی باشکوه برگزار شد.\n\n\"Der Physikunterricht findet heute im großen Saal statt.\" → کلاس فیزیک امروز در تالار بزرگ برگزار می‌شود.",
+    "de_meaning_fa": "یک تالار یک فضای بزرگ است، اغلب برای مراسمی مانند جشن‌ها یا کنسرت‌ها."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Könnten Sie mir bitte die Unterlagen per E-Mail zuschicken?\nIch habe meine Bewerbungsunterlagen bereits per Post zugeschickt.",
     "perfekt_präteritum": "zugezickt / zickte",
     "word": "zu|schicken ",
-    "word_query": "zuschicken"
+    "word_query": "zuschicken",
+    "de_example_sentence_fa": "\"میشه لطفاً مدارک رو از طریق ایمیل برای من بفرستید؟\nمن مدارک درخواست شغلیم رو از قبل از طریق پست فرستادم.\"",
+    "de_meaning_fa": "\"ارسال کردن\" به معنای فرستادن چیزی از طریق پست یا به روش دیگری است."
 }

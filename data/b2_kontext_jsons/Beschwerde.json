@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe eine Beschwerde über den schlechten Service im Restaurant eingereicht.\nNach der Beschwerde wurde mein Problem endlich gelöst.",
     "perfekt_präteritum": "beschwert / beschwerte",
     "word": "Beschwerde, die, -n",
-    "word_query": "Beschwerde"
+    "word_query": "Beschwerde",
+    "de_example_sentence_fa": "من در مورد خدمات ضعیف در رستوران شکایت ثبت کردم.\nبعد از شکایت، مشکل من بالاخره حل شد.",
+    "de_meaning_fa": "شکایت کردن یعنی وقتی چیزی را خوب نیابید، به کسی بگویید."
 }

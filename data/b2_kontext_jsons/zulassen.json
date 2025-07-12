@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Behörde wird den Bau des neuen Einkaufszentrums wahrscheinlich nicht zulassen.\nDer Chef hat mir erlaubt, früher zu gehen, aber offiziell ist das nicht zulässig.",
     "perfekt_präteritum": "gezulassen / zuließ",
     "word": "zu|lassen, lässt zu, ließ zu, hat zugelassen ",
-    "word_query": "zulassen"
+    "word_query": "zulassen",
+    "de_example_sentence_fa": "\"اداره احتمالاً اجازه ساخت مرکز خرید جدید را نخواهد داد.\nرییس اجازه داد زودتر بروم، اما به طور رسمی این مجاز نیست.\"",
+    "de_meaning_fa": "\"اجازه دادن\" به معنی دادن اجازه به کسی یا چیزی برای انجام دادن کاری یا حضور داشتن در جایی است."
 }

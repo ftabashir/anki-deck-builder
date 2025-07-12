@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Konzert war richtig fest, die Stimmung war unglaublich.\nDie Entscheidung ist noch nicht fest, wir müssen noch ein paar Details klären.",
     "perfekt_präteritum": "gefestet / festete",
     "word": "fest ",
-    "word_query": "fest"
+    "word_query": "fest",
+    "de_example_sentence_fa": "\"The concert was really lively, the atmosphere was incredible.\" → \"کنسرت واقعاً پرانرژی بود، اتمسفرش فوق‌العاده بود.\"\n\n\"The decision isn't final yet, we still have a few details to clarify.\" → \"تصمیم هنوز قطعی نیست، هنوز چند جزئیات رو باید روشن کنیم.\"",
+    "de_meaning_fa": "\"ثابت\" به معنای پایدار و نه شل است."
 }

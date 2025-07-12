@@ -9,5 +9,7 @@
     "de_example_sentence": "Die komplexe Phrase enthielt viele Fachbegriffe, die ich nicht verstand.\nEr versuchte, seine Gedanken in eine prägnante Phrase zu fassen.",
     "perfekt_präteritum": "",
     "word": "Phrase, die, -n",
-    "word_query": "Phrase"
+    "word_query": "Phrase",
+    "de_example_sentence_fa": "\"عبارت پیچیده شامل اصطلاحات تخصصی زیادی بود که من آن‌ها را متوجه نمی‌شدم.\nاو سعی کرد افکارش را در یک عبارت مختصر بیان کند.\"",
+    "de_meaning_fa": "\"عبارت به معنای یک گروه واژگانی ثابت است که اغلب به کار می‌رود، اما معنایش لزوماً از روی کلمات تشکیل‌دهنده آن قابل استنباط نیست.\""
 }

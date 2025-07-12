@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mein Passwort für das Online-Banking vergessen und muss es zurücksetzen.\nBitte ändere regelmäßig dein Passwort, um deine Daten zu schützen.",
     "perfekt_präteritum": "",
     "word": "Passwort, das, &quot;-er",
-    "word_query": "Passwort"
+    "word_query": "Passwort",
+    "de_example_sentence_fa": "\"من رمز عبور بانکداری آنلاینم را فراموش کرده‌ام و باید آن را بازنشانی کنم.\nلطفاً رمز عبور خود را به طور منظم تغییر دهید تا از اطلاعات خود محافظت کنید.\"",
+    "de_meaning_fa": "یک رمز عبور، یک رشته کلمات مخفی است که برای دسترسی به چیزی نیاز داری."
 }

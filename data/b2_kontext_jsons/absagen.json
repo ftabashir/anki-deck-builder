@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich musste den Termin absagen, weil ich unerwartet krank geworden bin.\nWir haben die Reise absagen müssen, da das Wetter schlecht geworden ist.",
     "perfekt_präteritum": "abgesagt / sagte ab",
     "word": "ab|sagen ",
-    "word_query": "absagen"
+    "word_query": "absagen",
+    "de_example_sentence_fa": "\"من مجبور شدم وقت ملاقات رو کنسل کنم، چون یه دفعه مریض شدم.\nما مجبور شدیم سفر رو کنسل کنیم، چون هوا بد شده.\"",
+    "de_meaning_fa": "\"لغو کردن\" به معنای عدم انجام یا تایید چیزی است که برنامه ریزی شده بود."
 }

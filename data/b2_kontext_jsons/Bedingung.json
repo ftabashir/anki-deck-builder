@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Teilnahme an dem Wettbewerb setzt die Erfüllung bestimmter Bedingungen voraus.\nEine Bedingung für die Genehmigung des Bauprojekts ist der Nachweis der ausreichenden Parkmöglichkeiten.",
     "perfekt_präteritum": "",
     "word": "Bedingung, die, -en",
-    "word_query": "Bedingung"
+    "word_query": "Bedingung",
+    "de_example_sentence_fa": "\"شرکت در مسابقه نیازمند برآورده شدن شرایط خاص است.\nیکی از شرایط تایید پروژه ساختمانی، ارائه مدرک وجود پارکینگ کافی است.\"",
+    "de_meaning_fa": "یک شرط چیزی است که باید محقق شود تا اتفاق دیگری بیفتد."
 }

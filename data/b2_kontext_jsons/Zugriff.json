@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe unbefugten Zugriff auf das Firmennetzwerk festgestellt.\nDer Hacker versuchte, Zugriff auf die persönlichen Daten der Nutzer zu erlangen.",
     "perfekt_präteritum": "ist kein Verb",
     "word": "Zugriff, der, -e",
-    "word_query": "Zugriff"
+    "word_query": "Zugriff",
+    "de_example_sentence_fa": "\"من به دسترسی غیرمجاز به شبکه شرکت پی برده‌ام.\nهکر تلاش کرد تا به داده‌های شخصی کاربران دسترسی پیدا کند.\"",
+    "de_meaning_fa": "\"دسترسی\" به این معنی است که می‌توان از چیزی استفاده کرد یا به آن رسید."
 }

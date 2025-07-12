@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Programmierer musste den Code debuggen, bevor er veröffentlicht wurde.\nIch habe den Quellcode für das Projekt online gefunden.",
     "perfekt_präteritum": "gegeben / gab",
     "word": "Code, der, -s",
-    "word_query": "Code"
+    "word_query": "Code",
+    "de_example_sentence_fa": "برنامه‌نویس مجبور بود کد را اشکال‌زدایی کند قبل از اینکه منتشر شود.\n\nمن کد منبع پروژه را آنلاین پیدا کردم.",
+    "de_meaning_fa": "\"کد\" مجموعه‌ای از دستورالعمل‌هاست که به کامپیوتر می‌گوید چه کاری انجام دهد."
 }

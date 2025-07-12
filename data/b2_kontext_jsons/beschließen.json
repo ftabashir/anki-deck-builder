@@ -9,5 +9,7 @@
     "de_example_sentence": "Wir müssen heute Abend, ob wir das Projekt bis Freitag abschließen.\nNach langer Diskussion beschlossen sie, das Angebot anzunehmen.",
     "perfekt_präteritum": "beschlossen / beschloss",
     "word": "beschließen, beschließt, beschloss, hat beschlossen)",
-    "word_query": "beschließen"
+    "word_query": "beschließen",
+    "de_example_sentence_fa": "\"ما باید امشب بررسی کنیم که آیا پروژه را تا جمعه تمام می‌کنیم یا نه.\nآن‌ها بعد از بحث طولانی تصمیم گرفتند پیشنهاد را بپذیرند.\"",
+    "de_meaning_fa": "\"تصمیم گرفتن و پایبند ماندن به آن را به معناست.\""
 }

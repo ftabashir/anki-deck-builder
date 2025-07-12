@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Nutzungsdauer dieses Geräts beträgt voraussichtlich fünf Jahre.\nDie erwartete Nutzungsdauer der Solaranlage wurde durch Experten berechnet.",
     "perfekt_präteritum": "",
     "word": "Nutzungsdauer, die (Sg.)",
-    "word_query": "Nutzungsdauer"
+    "word_query": "Nutzungsdauer",
+    "de_example_sentence_fa": "\"Die Nutzungsdauer dieses Geräts beträgt voraussichtlich fünf Jahre.\"\n→ \"مدت کارکرد تخمینی این دستگاه پنج سال است.\"\n\n\"Die erwartete Nutzungsdauer der Solaranlage wurde durch Experten berechnet.\"\n→ \"مدت کارکرد مورد انتظار سیستم خورشیدی توسط کارشناسان محاسبه شده است.\"",
+    "de_meaning_fa": "مدت زمان استفاده، مدتی است که می‌توان چیزی را استفاده کرد تا اینکه فرسوده شود یا نیاز به جایگزینی پیدا کند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mir gerade ein neues Hintergrundbild heruntergeladen.\nKönnen Sie die Präsentation bitte herunterladen und für die Besprechung vorbereiten?",
     "perfekt_präteritum": "heruntergeladen / lud herunter",
     "word": "herunter|laden, lädt herunter, lud herunter, hat heruntergeladen ",
-    "word_query": "herunterladen"
+    "word_query": "herunterladen",
+    "de_example_sentence_fa": "من همین حالا یک عکس پس‌زمینه جدید دانلود کردم.\nمیشه لطفا ارائه رو دانلود کنید و برای جلسه آماده کنید؟",
+    "de_meaning_fa": "\"دانلود به معنی کپی کردن چیزی از اینترنت به دستگاه شماست.\""
 }

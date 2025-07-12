@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Konzert war ein unvergessliches Event für alle Besucher.\nDie Organisation des Events hat sich als ziemlich herausfordernd erwiesen.",
     "perfekt_präteritum": "veranstaltet / veranstaltete",
     "word": "Event, das, -s",
-    "word_query": "Event"
+    "word_query": "Event",
+    "de_example_sentence_fa": "\"The concert was an unforgettable event for all visitors.\" - کنسرتی یک رویداد فراموش‌نشدنی برای تمام شرکت‌کنندگان بود.\n\n\"The organization of the event proved to be quite challenging.\" - سازماندهی این رویداد نسبتاً چالش‌برانگیز بود.",
+    "de_meaning_fa": "یک \"رویداد\" چیزی خاص است که در زمان و مکان مشخصی اتفاق می‌افتد."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Ausstellung wird bis Ende des Monats ausgestellt.\nEr musste sein Visum ausstellen lassen, bevor er reisen konnte.",
     "perfekt_präteritum": "ausgestellt / stellte aus",
     "word": "aus|stellen (ein Rezept ausstellen) ",
-    "word_query": "ausstellen"
+    "word_query": "ausstellen",
+    "de_example_sentence_fa": "\"نمایشگاه تا پایان ماه برقرار خواهد بود.\nاو مجبور بود قبل از سفر ویزایش را صادر کند.\"",
+    "de_meaning_fa": "\"نمایش دادن\" به معنای نشان دادن یا ارائه دادن چیزی است، مانند یک نمایشگاه."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich benötige eine Rückfrage bezüglich meiner letzten Bestellung.\nFür weitere Details benötige ich eine Rückfrage beim Projektleiter.",
     "perfekt_präteritum": "ist zurückgefragt / fragte zurück",
     "word": "Rückfrage, die, -n",
-    "word_query": "Rückfrage"
+    "word_query": "Rückfrage",
+    "de_example_sentence_fa": "\"من به یک سوال در مورد سفارش قبلیم نیاز دارم.\nبرای جزئیات بیشتر، نیاز به پرسشی از مدیر پروژه دارم.\"",
+    "de_meaning_fa": "یک پرسش تکراری، سوالی‌ست که برای اطمینان یا درک بهتر چیزی مطرح می‌شود."
 }

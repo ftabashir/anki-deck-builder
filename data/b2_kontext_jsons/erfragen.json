@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich musste sie noch einmal erfragen, ob sie wirklich kommen kann.\nDie Polizei erfragte die Zeugen nach dem genauen Ablauf der Ereignisse.",
     "perfekt_präteritum": "gefragt / fragte",
     "word": "erfragen ",
-    "word_query": "erfragen"
+    "word_query": "erfragen",
+    "de_example_sentence_fa": "\"Ich musste sie noch einmal erfragen, ob sie wirklich kommen kann.\"\n→ \"من باید دوباره ازش می‌پرسیدم که آیا واقعاً می‌تواند بیاید یا نه.\"\n\n\"Die Polizei erfragte die Zeugen nach dem genauen Ablauf der Ereignisse.\"\n→ \"پلیس از شاهدان درباره‌ی روند دقیق وقایع سوال کرد.\"",
+    "de_meaning_fa": "\"پرسیدن\" به معنای پرسیدن دوباره یا سؤال کردن است."
 }

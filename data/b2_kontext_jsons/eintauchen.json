@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich tauchte in das Buch ein und vergaß die Zeit um mich herum.\nNach dem anstrengenden Tag wollte ich in eine heiße Dusche eintauchen.",
     "perfekt_präteritum": "ge**taucht** / tauchte",
     "word": "ein|tauchen (in + A.) ",
-    "word_query": "eintauchen"
+    "word_query": "eintauchen",
+    "de_example_sentence_fa": "\"من در کتاب غرق شدم و غافل از گذر زمان.\nبعد از روز پرمشغله، می‌خواستم در دوش آب گرم فرو بروم.\"",
+    "de_meaning_fa": "\"غوطه‌ور شدن\" به معنای رفتن زیر آب یا ورود به چیزی است تا آن را از نزدیک‌تر بشناسید."
 }

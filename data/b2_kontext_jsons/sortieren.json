@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meine Fotos nach Datum sortieren, bevor ich sie hochlade.\nKönnen Sie bitte die Dokumente alphabetisch sortieren?",
     "perfekt_präteritum": "sortiert / sortierte",
     "word": "sortieren ",
-    "word_query": "sortieren"
+    "word_query": "sortieren",
+    "de_example_sentence_fa": "\"من باید عکس‌هایم را بر اساس تاریخ مرتب کنم قبل از اینکه آن‌ها را آپلود کنم.\nلطفاً اسناد را به ترتیب حروف الفبا مرتب کنید؟\"",
+    "de_meaning_fa": "\"مرتب کردن\" یعنی چیزها را در یک ترتیب مشخص قرار دادن."
 }

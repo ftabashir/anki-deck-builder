@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Erstellung des Berichts hat sich aufgrund fehlender Daten verzögert.\nFür die Erstellung des Prototypen benötige ich Ihre Rückmeldung.",
     "perfekt_präteritum": "Nicht",
     "word": "Erstellung, die, -en",
-    "word_query": "Erstellung"
+    "word_query": "Erstellung",
+    "de_example_sentence_fa": "تهیه گزارش به دلیل کمبود داده‌ها به تعویق افتاده است.\nبرای تهیه نمونه اولیه، نیاز به بازخورد شما دارم.",
+    "de_meaning_fa": "\"ایجاد کردن یا ساختن چیزی را \"ایجاد\" می‌گویند.\""
 }

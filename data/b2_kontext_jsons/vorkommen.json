@@ -9,5 +9,7 @@
     "de_example_sentence": "Es kommt häufig vor, dass sich die Pläne kurzfristig ändern.\nIn dieser Gegend kommen seltene Vogelarten vor.",
     "perfekt_präteritum": "gekommen / kam",
     "word": "vor|kommen, kommt vor, kam vor, ist vorgekommen (komisch vorkommen) ",
-    "word_query": "vorkommen"
+    "word_query": "vorkommen",
+    "de_example_sentence_fa": "\"Es kommt häufig vor, dass sich die Pläne kurzfristig ändern.\"\n→ \"اغلب اوقات، برنامه‌ها به طور ناگهانی تغییر می‌کنند.\"\n\n\"In dieser Gegend kommen seltene Vogelarten vor.\"\n→ \"در این منطقه، گونه‌های نادر پرندگان یافت می‌شوند.\"",
+    "de_meaning_fa": "\"وجود\" به معنای پیدا شدن چیزی در طبیعت یا جایی است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie wurde als neue Leiterin der Marketingabteilung berufen.\nEr hat sich berufen gefühlt, sich für die Belange der Gemeinde einzusetzen.",
     "perfekt_präteritum": "geworden / wurde berufen",
     "word": "berufen werden ",
-    "word_query": "berufen werden"
+    "word_query": "berufen werden",
+    "de_example_sentence_fa": "\"Sie wurde als neue Leiterin der Marketingabteilung berufen.\"\n→ **او به عنوان مدیر جدید بخش بازاریابی منصوب شد.**\n\n\"Er hat sich berufen gefühlt, sich für die Belange der Gemeinde einzusetzen.\"\n→ **او احساس کرد که وظیفه دارد از منافع جامعه دفاع کند.**",
+    "de_meaning_fa": "\"به یک سمت یا وظیفه خاص پیشنهاد داده شدن، معمولاً یک موقعیت شغلی مهم.\""
 }

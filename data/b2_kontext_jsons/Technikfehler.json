@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Flug wurde aufgrund eines Technikfehlers verschoben.\nEin Technikfehler in der Software führte zu Datenverlust.",
     "perfekt_präteritum": "",
     "word": "Technikfehler, der, -",
-    "word_query": "Technikfehler"
+    "word_query": "Technikfehler",
+    "de_example_sentence_fa": "پرواز به دلیل نقص فنی به تعویق افتاد.\nیک نقص فنی در نرم‌افزار منجر به از دست رفتن اطلاعات شد.",
+    "de_meaning_fa": "یک نقص فنی، مشکلی است که توسط یک دستگاه معیوب یا وسیله الکترونیکی ایجاد می‌شود."
 }

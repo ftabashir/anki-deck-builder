@@ -9,5 +9,7 @@
     "de_example_sentence": "Die wissenschaftliche Studie hat die Wirksamkeit des Medikaments erwiesen.\nEs ist erwiesen, dass regelmäßige Bewegung positive Auswirkungen auf die Gesundheit hat.",
     "perfekt_präteritum": "bewiesen / bewies",
     "word": "erwiesen ",
-    "word_query": "erwiesen"
+    "word_query": "erwiesen",
+    "de_example_sentence_fa": "\"Die wissenschaftliche Studie hat die Wirksamkeit des Medikaments erwiesen.\"\n→ \"مطالعه علمی اثربخشی دارو را ثابت کرده است.\"\n\n\"Es ist erwiesen, dass regelmäßige Bewegung positive Auswirkungen auf die Gesundheit hat.\"\n→ \"ثابت شده است که ورزش منظم تأثیرات مثبتی بر سلامتی دارد.\"",
+    "de_meaning_fa": "\"اثبات شده\" به معنی آن است که چیزی ثابت یا نشان داده شده است."
 }

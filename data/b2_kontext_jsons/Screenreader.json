@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe meinen Screenreader so eingestellt, dass er die Überschriften besser vorliest.\nUm die Website barrierefrei zu nutzen, benötige ich einen Screenreader.",
     "perfekt_präteritum": "",
     "word": "Screenreader, der, -",
-    "word_query": "Screenreader"
+    "word_query": "Screenreader",
+    "de_example_sentence_fa": "\"من ریڈر صفحه نمایشم را طوری تنظیم کرده‌ام که عناوین را بهتر بخواند.\nبرای استفاده‌ی دسترس‌پذیر از وب‌سایت، به یک ریڈر صفحه نمایش نیاز دارم.\"",
+    "de_meaning_fa": "یک برنامه خوانشگر صفحه نمایش، متنی را که روی صفحه نمایش وجود دارد، با صدای بلند می‌خواند تا افراد دارای معلولیت بینایی بتوانند آن را بشنوند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die kalte Luft ließ die Nasenspitze rot werden.\nEr konnte die Spitze der Pyramide gerade noch mit der Nasenspitze berühren.",
     "perfekt_präteritum": "Nasenspitze is not a verb.",
     "word": "Nasenspitze, die, -n",
-    "word_query": "Nasenspitze"
+    "word_query": "Nasenspitze",
+    "de_example_sentence_fa": "\"Die kalte Luft ließ die Nasenspitze rot werden.\"\n→ \"هواى سرد باعث سرخ شدن نوک دماغش شد.\"\n\n\"Er konnte die Spitze der Pyramide gerade noch mit der Nasenspitze berühren.\"\n→ \"او به زور می توانست نوک هرم را با نوک دماغش لمس کند.\"",
+    "de_meaning_fa": "انتهای نوک بینی‌ات."
 }

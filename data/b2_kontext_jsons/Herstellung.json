@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Herstellung des Autos erfolgt in einer modernen Fabrik.\nDie Herstellung von Lebensmitteln muss strengen Qualitätskontrollen unterliegen.",
     "perfekt_präteritum": "ist hergestellt / stellte her",
     "word": "Herstellung, die, -en",
-    "word_query": "Herstellung"
+    "word_query": "Herstellung",
+    "de_example_sentence_fa": "\"Die Herstellung des Autos erfolgt in einer modernen Fabrik.\" → \"ساخت خودرو در یک کارخانه مدرن انجام می‌شود.\"\n\n\"Die Herstellung von Lebensmitteln muss strengen Qualitätskontrollen unterliegen.\" → \"تولید مواد غذایی باید تحت کنترل کیفیت سختگیرانه باشد.\"",
+    "de_meaning_fa": "تولید به معنای ساختن یا ساخت‌یافتن چیزی است."
 }

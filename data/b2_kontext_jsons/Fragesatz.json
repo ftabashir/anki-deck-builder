@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Dozent erklärte die Struktur des Fragesatzes anhand eines Beispiels.\nUm den Fragesatz korrekt zu bilden, muss man die Wortstellung beachten.",
     "perfekt_präteritum": "",
     "word": "Fragesatz, der, &quot;-e",
-    "word_query": "Fragesatz"
+    "word_query": "Fragesatz",
+    "de_example_sentence_fa": "\"استاد ساختار جمله پرسشی را با یک مثال توضیح داد.\nبرای ساختن جمله پرسشی به صورت صحیح، باید ترتیب کلمات را رعایت کرد.\"",
+    "de_meaning_fa": "یک جمله پرسشی، جمله‌ای است که سوال می‌پرسد."
 }

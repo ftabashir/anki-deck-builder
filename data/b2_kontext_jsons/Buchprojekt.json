@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Buchprojekt hat sich als sehr zeitaufwendig herausgestellt.\nWir müssen das Buchprojekt bis Ende des Jahres finalisieren.",
     "perfekt_präteritum": "",
     "word": "Buchprojekt, das, -e",
-    "word_query": "Buchprojekt"
+    "word_query": "Buchprojekt",
+    "de_example_sentence_fa": "\"کتاب پروژه خیلی زمان‌بر شده است.\nما باید کتاب پروژه را تا پایان سال نهایی کنیم.\"",
+    "de_meaning_fa": "یک پروژه کتاب، برنامه‌ای یا ایده‌ای برای نوشتن و انتشار یک کتاب است."
 }

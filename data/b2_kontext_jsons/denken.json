@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich denke, wir sollten das Projekt neu bewerten, da die Ergebnisse nicht zufriedenstellend sind.\nSie denkt oft über ihre Kindheit nach und erinnert sich an glückliche Momente.",
     "perfekt_präteritum": "gedacht / dachte",
     "word": "denken (2), denkt, dachte, hat gedacht ",
-    "word_query": "denken"
+    "word_query": "denken",
+    "de_example_sentence_fa": "\"فکر می‌کنم باید پروژه را دوباره ارزیابی کنیم، چون نتایج رضایت‌بخش نیستند.\nاو اغلب به دوران کودکی‌اش فکر می‌کند و خاطرات خوش را به یاد می‌آورد.\"",
+    "de_meaning_fa": "\"فکر کردن\" به معنی تصور کردن چیزی در ذهن یا تفکر درباره آن است."
 }

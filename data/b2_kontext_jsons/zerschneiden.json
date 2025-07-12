@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe das Papier mit der Schere zerschneiden müssen, weil es zu groß war.\nDer Zimmermann zerschneidet das Holz für den neuen Tisch präzise.",
     "perfekt_präteritum": "geschnitten / schnitt",
     "word": "zerschneiden, zerschneidet, zerschnitt, hat zerschnitten",
-    "word_query": "zerschneiden"
+    "word_query": "zerschneiden",
+    "de_example_sentence_fa": "\"من مجبور بودم کاغذ را با قیچی پاره کنم، چون خیلی بزرگ بود.\nنجار چوب را برای میز جدید با دقت برش می‌دهد.\"",
+    "de_meaning_fa": "\"برش دادن\" به معنی بریدن چیزی به قطعات است."
 }

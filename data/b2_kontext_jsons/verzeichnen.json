@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Behörden verzeichnen einen Anstieg von Einbrüchen in der Innenstadt.\nDas Unternehmen verzeichnete einen deutlichen Umsatzrückgang im letzten Quartal.",
     "perfekt_präteritum": "gezeichnet / zeichnete",
     "word": "verzeichnen ",
-    "word_query": "verzeichnen"
+    "word_query": "verzeichnen",
+    "de_example_sentence_fa": "\"Die Behörden verzeichnen einen Anstieg von Einbrüchen in der Innenstadt.\"\n→ \"اداره‌ها افزایش سرقت‌ها را در مرکز شهر ثبت کرده‌اند.\"\n\n\"Das Unternehmen verzeichnete einen deutlichen Umsatzrückgang im letzten Quartal.\"\n→ \"شرکت در آخرین سه‌ماهه کاهش چشمگیری در فروش داشته است.\"",
+    "de_meaning_fa": "\"ثبت کردن\" به معنای یادداشت کردن یا ضبط کردن چیزی است، مانند یک فهرست یا اعداد."
 }

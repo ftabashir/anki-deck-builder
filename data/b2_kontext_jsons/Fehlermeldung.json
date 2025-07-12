@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe eine Fehlermeldung erhalten, als ich versucht habe, mich in mein Online-Banking einzuloggen.\nDie Fehlermeldung war ziemlich kryptisch, daher konnte ich nicht erkennen, was genau das Problem war.",
     "perfekt_präteritum": "",
     "word": "Fehlermeldung, die, -en",
-    "word_query": "Fehlermeldung"
+    "word_query": "Fehlermeldung",
+    "de_example_sentence_fa": "\"من هنگام تلاش برای ورود به بانکداری آنلاینم، یک پیام خطا دریافت کردم.\nپیام خطا خیلی مبهم بود، بنابراین نتوانستم تشخیص دهم دقیقاً مشکل چیست.\"",
+    "de_meaning_fa": "پیام خطا، پیامی است که به شما می‌گوید چیزی در کامپیوتر یا دستگاه درست کار نکرده است."
 }

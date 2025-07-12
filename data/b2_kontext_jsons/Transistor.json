@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Elektronik-Kurs hat uns die Funktionsweise des Transistors erklärt.\nEin defekter Transistor kann dazu führen, dass ein Gerät nicht mehr funktioniert.",
     "perfekt_präteritum": "",
     "word": "Transistor, der, -en",
-    "word_query": "Transistor"
+    "word_query": "Transistor",
+    "de_example_sentence_fa": "\"The Elektronik-Kurs hat uns die Funktionsweise des Transistors erklärt.\" - دوره الکترونیک نحوه عملکرد ترانزیستور را برای ما توضیح داد.\n\n\"Ein defekter Transistor kann dazu führen, dass ein Gerät nicht mehr funktioniert.\" - یک ترانزیستور خراب می‌تواند باعث شود یک دستگاه دیگر کار نکند.",
+    "de_meaning_fa": "یک ترانزیستور یک قطعه‌ی الکترونیکی بسیار کوچک است که می‌تواند جریان را تقویت یا قطع کند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Straße war aufgrund eines Unfalls stark verstellt.\nIch habe mich verlaufen und musste eine unbekannte Straße entlanggehen.",
     "perfekt_präteritum": "",
     "word": "Straße, die, -n",
-    "word_query": "Straße"
+    "word_query": "Straße",
+    "de_example_sentence_fa": "\"خیابان به دلیل تصادف خیلی شلوغ بود.\nگم شدم و مجبور شدم در یک خیابان نامعلوم راه بروم.\"",
+    "de_meaning_fa": "یک راه، مسیری آسفالته یا سخت است که می‌توان با ماشین، دوچرخه یا پیاده‌روی از آن عبور کرد."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Schiff befand sich in Seenot und wurde von der Küstenwache geborgen.\nDie Untersuchung ergab, dass sich der Verdächtige zum Tatzeitpunkt in einem anderen Bundesland befand.",
     "perfekt_präteritum": "ist gewesen / war",
     "word": "begeben (sich auf + A.), begibt sich, begab sich, hat sich begeben ",
-    "word_query": "begeben"
+    "word_query": "begeben",
+    "de_example_sentence_fa": "\"کشتی در وضعیت اضطراری دریایی بود و توسط گارد ساحلی نجات یافت.\nتحقیقات نشان داد که مظنون در زمان وقوع جرم در ایالت دیگری حضور داشته است.\"",
+    "de_meaning_fa": "\"به معنی حرکت به جایی یا در راه قرار گرفتن است.\""
 }

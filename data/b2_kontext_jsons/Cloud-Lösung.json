@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Unternehmen hat entschieden, eine Cloud-Lösung für die Datensicherung einzuführen.\nWir evaluieren verschiedene Cloud-Lösungen, um die beste Option für unsere Bedürfnisse zu finden.",
     "perfekt_präteritum": "",
     "word": "Cloud-Lösung, die, -en",
-    "word_query": "Cloud-Lösung"
+    "word_query": "Cloud-Lösung",
+    "de_example_sentence_fa": "شرکت تصمیم گرفته است یک راهکار ابری برای پشتیبان‌گیری از داده‌ها را پیاده‌سازی کند.\nما در حال بررسی راهکارهای ابری مختلف هستیم تا بهترین گزینه را برای نیازهای خود پیدا کنیم.",
+    "de_meaning_fa": "یک راهکار ابری، برنامه‌ای یا خدمتی است که از طریق اینترنت استفاده می‌شود، به جای اینکه روی کامپیوتر شخصی نصب شود."
 }

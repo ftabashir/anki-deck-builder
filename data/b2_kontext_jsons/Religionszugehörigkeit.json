@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Umfrage erfragte die Religionszugehörigkeit der Teilnehmer.\nDie Religionszugehörigkeit sollte bei der Bewerbung nicht berücksichtigt werden.",
     "perfekt_präteritum": "",
     "word": "Religionszugehörigkeit, die, -en",
-    "word_query": "Religionszugehörigkeit"
+    "word_query": "Religionszugehörigkeit",
+    "de_example_sentence_fa": "\"Die Umfrage erfragte die Religionszugehörigkeit der Teilnehmer.\"\n→ \"نظرسنجی از مذهب شرکت‌کنندگان سوال کرد.\"\n\n\"Die Religionszugehörigkeit sollte bei der Bewerbung nicht berücksichtigt werden.\"\n→ \"نباید به مذهب در هنگام درخواست توجه می‌شد.\"",
+    "de_meaning_fa": "\"پیروان یک دین\" به معنای تعلق داشتن به یک دین است، برای مثال کاتولیک، پروتستانتی یا مسلمان."
 }

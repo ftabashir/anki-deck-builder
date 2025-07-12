@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich konnte letzte Nacht leider nicht durchschlafen, weil die Nachbarn sehr laut waren.\nNach der anstrengenden Wanderung habe ich endlich durchgeschlafen.",
     "perfekt_präteritum": "ge-schlafen / schlief",
     "word": "durch|schlafen, schläft durch, schlief durch, hat durchgeschlafen ",
-    "word_query": "durchschlafen"
+    "word_query": "durchschlafen",
+    "de_example_sentence_fa": "\"من دیشب متاسفانه نتوانستم بخوابم، چون همسایه‌ها خیلی پر سر و صدا بودند.\nبعد از پیاده‌روی خسته‌کننده بالاخره خوب خوابیدم.\"",
+    "de_meaning_fa": "\"خوابیدنِ یک‌شبه بدون بیدار شدن.\""
 }

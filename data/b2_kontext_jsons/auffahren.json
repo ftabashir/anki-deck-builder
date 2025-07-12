@@ -9,5 +9,7 @@
     "de_example_sentence": "Er fuhr auf und parkte vor dem Café.\nSie hat ihm aufgefahren, um ihn zu warnen.",
     "perfekt_präteritum": "gefahren / fuhr",
     "word": "auf|fahren, fährt auf, fuhr auf, ist aufgefahren ",
-    "word_query": "auffahren"
+    "word_query": "auffahren",
+    "de_example_sentence_fa": "\"Er fuhr auf und parkte vor dem Café.\" → او جلو کافه پارک کرد.\n\n\"Sie hat ihm aufgefahren, um ihn zu warnen.\" → او برای هشدار دادن به او رفت.",
+    "de_meaning_fa": "\"Auffahren\" به معنی نزدیک شدن سریع از پشت به وسیله نقلیهٔ دیگر است."
 }

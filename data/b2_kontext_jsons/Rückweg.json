@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Rückweg vom Konzert war leider sehr voll.\nWir haben uns verlaufen und den Rückweg länger gebraucht als gedacht.",
     "perfekt_präteritum": "ist kein Verb.",
     "word": "Rückweg, der, -e",
-    "word_query": "Rückweg"
+    "word_query": "Rückweg",
+    "de_example_sentence_fa": "\"راه برگشت از کنسرت متاسفانه خیلی شلوغ بود.\nگم شدیم و راه برگشت طولانی‌تر از چیزی که فکر می‌کردیم شد.\"",
+    "de_meaning_fa": "\"بازگشت\" به معنای راه بازگشت به نقطه شروع است."
 }

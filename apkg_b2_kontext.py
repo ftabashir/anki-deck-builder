@@ -43,6 +43,14 @@ PROMPTS = {
 
 }
 
+FA_TRANSLATE_SENTENCE_PROMPT = {
+    'de_example_sentence_fa': 'Translate these German sentences into Persian without extra explanation: "{}"',
+}
+
+FA_TRANSLATE_MEANING_PROMPT = {
+    'de_meaning_fa': 'Translate this German text into Persian without extra explanation and do not bring original text in the output: "{}"'
+}
+
 _times = {}
 
 
@@ -82,9 +90,9 @@ def run_prompt(prompt_key, prompt, word):
     return response
 
 
-def run_all_prompts(word):
+def run_prompts(prompts, word):
     result = {}
-    for prompt_key, prompt in PROMPTS.items():
+    for prompt_key, prompt in prompts.items():
         result[prompt_key] = run_prompt(prompt_key, prompt, word)
     return result
 
@@ -112,7 +120,7 @@ def create_json_files():
             print(f'{word_query} already exist')
             continue
 
-        word_data = run_all_prompts(word_query)
+        word_data = run_prompts(PROMPTS, word_query)
         word_data['word'] = word
         word_data['word_query'] = word_query
 
@@ -120,6 +128,52 @@ def create_json_files():
 
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(word_data, f, indent=4, ensure_ascii=False)
+
+        total = sum(_times.values())
+        count += 1
+        print('-' * 40)
+        print(f'word_query:{word_query}')
+        print(f'word: {word}')
+        print(f'index {index} of {len(words)}')
+        print(f'generated: {count}')
+        print(f'skipped: {index + 1 - count}')
+        print(f'total time: {format_duration(total)}')
+        print(f'words per minute: {round(60 / (total / count), 1)}')
+        print(f'estimated remaining time: {format_duration((len(words) - index) * (total / count))}')
+        print('-' * 40)
+        for key, time in _times.items():
+            percentage = round((time / total) * 100, 1)
+            print(f"{key:<20} {round(time, 0):<5} {percentage:<4}% {'=' * int(percentage / 5)}")
+        print('-' * 40)
+
+
+def update_json_files():
+    words = all_words()
+    _times.clear()
+    count = 0
+    for index, word in enumerate(words):
+        word_query = word.split(',')[0]
+        word_query = word_query.split(' (')[0]
+        word_query = word_query.replace('|', '')
+        word_query = word_query.strip()
+
+        file_path = f'{jsons_directory}/{word_query}.json'
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                word_data = json.load(f)
+
+                update_data = run_prompts(FA_TRANSLATE_SENTENCE_PROMPT, word_data['de_example_sentence'])
+                for key, value in update_data.items():
+                    word_data[key] = value
+
+                update_data = run_prompts(FA_TRANSLATE_MEANING_PROMPT, word_data['de_meaning'])
+                for key, value in update_data.items():
+                    word_data[key] = value
+
+                print(json.dumps(word_data, indent=4))
+
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(word_data, f, indent=4, ensure_ascii=False)
 
         total = sum(_times.values())
         count += 1
@@ -148,14 +202,24 @@ def card_template():
             """,
         'afmt': """
                 {{FrontSide}}<hr>
-                <div><b>🧠 Bedeutung (DE)</b> <br/> {{de_meaning}}</div><br/>
+                <div><b>🧠 Bedeutung (DE)</b> <br/> {{de_meaning}}
+                <div style="color: #999999; font-size: 16px;text-align: right;">{{de_meaning_fa}}</div>
+                </div><br/>
                 <div><b>💬 Beispiel</b> <br/> 
                 <ul style="margin-top: 4px;">
                 {{#de_example_sentence_1}}
-                <li style="font-size: 16px;">{{de_example_sentence_1}}</li>
+                <li style="font-size: 16px;">{{de_example_sentence_1}}
+                {{#de_example_sentence_fa_1}}
+                <br/><div style="color: #999999; font-size: 16px;text-align: right;">{{de_example_sentence_fa_1}}</div>
+                {{/de_example_sentence_fa_1}}
+                </li>
                 {{/de_example_sentence_1}}
                 {{#de_example_sentence_2}}
-                <li style="margin-top: 8px;font-size: 16px;">{{de_example_sentence_2}}</li>
+                <li style="margin-top: 8px;font-size: 16px;">{{de_example_sentence_2}}
+                {{#de_example_sentence_fa_2}}
+                <br/><div style="color: #999999; font-size: 16px;text-align: right;">{{de_example_sentence_fa_2}}</div>
+                {{/de_example_sentence_fa_2}}
+                </li>
                 {{/de_example_sentence_2}}
                 </ul>
                 </div><br/>
@@ -188,9 +252,12 @@ def gen_anki():
         {'name': 'word_query'},
         {'name': 'word'},
         {'name': 'de_meaning'},
+        {'name': 'de_meaning_fa'},
         {'name': 'de_synonyms'},
         {'name': 'de_example_sentence_1'},
+        {'name': 'de_example_sentence_fa_1'},
         {'name': 'de_example_sentence_2'},
+        {'name': 'de_example_sentence_fa_2'},
         {'name': 'fa_meaning'},
         {'name': 'en_meaning'},
         {'name': 'part_of_speech'},
@@ -242,6 +309,14 @@ def gen_anki():
                 de_examples = data.get("de_example_sentence", "").strip().split("\n")
                 de_example_1 = de_examples[0] if len(de_examples) > 0 else ''
                 de_example_2 = de_examples[1] if len(de_examples) > 1 else ''
+
+                de_example_sentence_fa = data.get("de_example_sentence_fa", "").strip()
+                de_example_sentence_fa = de_example_sentence_fa.replace('\n\n', '\n') # remove duplicate new lines
+                de_example_sentence_fa = de_example_sentence_fa.replace('"', '') # remove quotation marks
+                de_examples_fa = de_example_sentence_fa.split("\n")
+                de_example_fa_1 = de_examples_fa[0] if len(de_examples_fa) > 0 else ''
+                de_example_fa_2 = de_examples_fa[1] if len(de_examples_fa) > 1 else ''
+
                 is_verb = "Verb" in data.get("part_of_speech", "")
 
                 word = data.get("word", "")
@@ -266,9 +341,12 @@ def gen_anki():
                     data.get('word_query', ''),
                     data.get('word', ''),
                     data.get('de_meaning', ''),
+                    data.get('de_meaning_fa', ''),
                     data.get('de_synonyms', ''),
                     de_example_1,
+                    de_example_fa_1,
                     de_example_2,
+                    de_example_fa_2,
                     data.get('fa_meaning', ''),
                     data.get('en_meaning', ''),
                     data.get('part_of_speech', ''),
@@ -291,7 +369,8 @@ def gen_anki():
 
 if __name__ == '__main__':
     # gen_anki()
-    create_json_files()
+    # create_json_files()
+    update_json_files()
     # words = all_words()
     # collection = apkg_collections.A1_B2
     # cur = get_cursor(collection.collection_path)

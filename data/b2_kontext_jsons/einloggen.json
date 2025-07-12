@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss mich in mein Online-Banking-Konto einloggen, um meine Rechnungen zu bezahlen.\nBevor du das Forum nutzen kannst, musst du dich zuerst einloggen.",
     "perfekt_präteritum": "eingeloggt / loggte",
     "word": "einloggen (sich) ",
-    "word_query": "einloggen"
+    "word_query": "einloggen",
+    "de_example_sentence_fa": "\"Ich muss mich in mein Online-Banking-Konto einloggen, um meine Rechnungen zu bezahlen.\"\n\n**باید وارد حساب بانکی آنلاینم بشم تا قبض‌هام رو پرداخت کنم.**\n\n\"Bevor du das Forum nutzen kannst, musst du dich zuerst einloggen.\"\n\n**قبل از اینکه بتونی از فروم استفاده کنی، اول باید وارد شدی.**",
+    "de_meaning_fa": "ورود به معنای ثبت نام در یک حساب آنلاین است، مانند یک وب‌سایت یا اپلیکیشن."
 }

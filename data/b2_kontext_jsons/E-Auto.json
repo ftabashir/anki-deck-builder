@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich überlege, mir ein E-Auto zu kaufen, weil ich umweltbewusster leben möchte.\nDie Regierung fördert den Kauf von E-Autos mit attraktiven Steuervergünstigungen.",
     "perfekt_präteritum": "",
     "word": "E-Auto, das, -s",
-    "word_query": "E-Auto"
+    "word_query": "E-Auto",
+    "de_example_sentence_fa": "\"من دارم فکر می‌کنم یک ماشین برقی بخرم، چون می‌خوام آگاهانه‌تر به محیط زیست زندگی کنم.\nدولت خرید ماشین‌های برقی رو با معافیت‌های مالی جذاب تشویق می‌کنه.\"",
+    "de_meaning_fa": "یک خودروی الکتریکی، ماشینی است که با برق به جای بنزین یا گازوئیل حرکت می‌کند."
 }

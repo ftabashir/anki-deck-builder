@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Geschäft ist heute bis 18 Uhr geöffnet.\nDie Galerie bleibt bis nächste Woche geöffnet.",
     "perfekt_präteritum": "geöffnet / öffnete",
     "word": "geöffnet ",
-    "word_query": "geöffnet"
+    "word_query": "geöffnet",
+    "de_example_sentence_fa": "\"Das Geschäft ist heute bis 18 Uhr geöffnet.\"\n➡️ \"مغازه امروز تا ساعت ۱۸ باز است.\"\n\n\"Die Galerie bleibt bis nächste Woche geöffnet.\"\n➡️ \"گالری تا هفته آینده باز می‌ماند.\"",
+    "de_meaning_fa": "\"باز بودن\" به این معنی است که چیزی قفل نیست و می‌توان وارد آن شد یا از آن استفاده کرد."
 }

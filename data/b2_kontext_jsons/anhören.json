@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe ihm seine neue Idee angehört, aber ich bin nicht überzeugt.\nSie hat sich entschieden, die Beschwerde anzuhören, bevor sie eine Entscheidung trifft.",
     "perfekt_präteritum": "gehört / hörte",
     "word": "an|hören (sich) ",
-    "word_query": "anhören"
+    "word_query": "anhören",
+    "de_example_sentence_fa": "\"من ایده جدیدش را شنیدم، اما قانع نشدم.\nاو تصمیم گرفت قبل از تصمیم‌گیری، شکایت را بشنود.\"",
+    "de_meaning_fa": "به حرف كشيدن كسي، به آنچه كه مي خواهد بگويد، گوش دادن."
 }

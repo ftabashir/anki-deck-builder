@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich gehe heute ins Kino, nämlich ich möchte den neuen Marvel-Film sehen.\nEr hat sich für das Studium der Medizin entschieden, nämlich er möchte Menschen helfen.",
     "perfekt_präteritum": "",
     "word": "nämlich ",
-    "word_query": "nämlich"
+    "word_query": "nämlich",
+    "de_example_sentence_fa": "\"من امروز به سینما می‌روم، چون می‌خواهم فیلم جدید مارول را ببینم.\nاو تصمیم گرفته است پزشکی بخواند، چون می‌خواهد به مردم کمک کند.\"",
+    "de_meaning_fa": "به‌طور دقیق‌تر، یعنی \"در واقع\" یا \"یعنی\"."
 }

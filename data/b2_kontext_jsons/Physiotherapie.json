@@ -9,5 +9,7 @@
     "de_example_sentence": "Nach dem Unfall hat sie regelmäßig Physiotherapie zur Rehabilitation gemacht.\nDer Arzt hat eine Überweisung für Physiotherapie wegen meines Rückenschmerzes ausgestellt.",
     "perfekt_präteritum": "",
     "word": "Physiotherapie, die, -n",
-    "word_query": "Physiotherapie"
+    "word_query": "Physiotherapie",
+    "de_example_sentence_fa": "\"بعد از تصادف، او به طور منظم فیزیوتراپی برای توانبخشی انجام داد.\nپزشک برای درمان درد کمرم، دستور ارجاع به فیزیوتراپی نوشت.\"",
+    "de_meaning_fa": "فیزیوتراپی کمک به افرادی است که مشکلات حرکتی یا درد دارند."
 }

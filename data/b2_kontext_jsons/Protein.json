@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich versuche, mehr Protein in meine Ernährung zu integrieren, um Muskeln aufzubauen.\nDer Sportler achtet auf eine ausreichende Proteinaufnahme zur Regeneration nach dem Training.",
     "perfekt_präteritum": "",
     "word": "Protein, das, -e",
-    "word_query": "Protein"
+    "word_query": "Protein",
+    "de_example_sentence_fa": "\"Ich versuche, mehr Protein in meine Ernährung zu integrieren, um Muskeln aufzubauen.\"\n\n**من سعی می‌کنم پروتئین بیشتری را در رژیم غذاییم بگنجانم تا عضله بسازم.**\n\n\"Der Sportler achtet auf eine ausreichende Proteinaufnahme zur Regeneration nach dem Training.\"\n\n**ورزشکار به دریافت کافی پروتئین برای ریکاوری بعد از تمرین اهمیت می‌دهد.**",
+    "de_meaning_fa": "پروتئین یک ماده سازنده مهم برای بدن ماست که ماهیچه‌ها از آن تشکیل شده‌اند."
 }

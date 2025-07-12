@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich versuche, jeden Tag gesund zu frühstücken, um Energie für den Tag zu haben.\nEs ist wichtig, eine gesunde Work-Life-Balance zu finden, um Stress abzubauen.",
     "perfekt_präteritum": "gesund is not a verb.",
     "word": "gesund ",
-    "word_query": "gesund"
+    "word_query": "gesund",
+    "de_example_sentence_fa": "\"Ich versuche, jeden Tag gesund zu frühstücken, um Energie für den Tag zu haben.\"\n→ \"من سعی می‌کنم هر روز صبحانه سالم بخورم تا انرژی برای روز داشته باشم.\"\n\n\"Es ist wichtig, eine gesunde Work-Life-Balance zu finden, um Stress abzubauen.\"\n→ \"پیدا کردن تعادل سالم بین کار و زندگی برای کاهش استرس مهم است.\"",
+    "de_meaning_fa": "\"سالم\" به معنی حال خوب بودن یک شخص یا چیز و نداشتن بیماری است."
 }

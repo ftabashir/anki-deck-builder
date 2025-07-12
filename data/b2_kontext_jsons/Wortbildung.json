@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Analyse der Wortbildung in diesem Text verdeutlicht die Entwicklung der Fachsprache.\nEine präzise Wortbildung ist entscheidend für eine klare und verständliche Kommunikation.",
     "perfekt_präteritum": "geworden / wurde",
     "word": "Wortbildung, die, en",
-    "word_query": "Wortbildung"
+    "word_query": "Wortbildung",
+    "de_example_sentence_fa": "\"تجزیه و تحلیل واژه‌سازی در این متن، تکامل زبان تخصصی را نشان می‌دهد.\nواژه‌سازی دقیق برای ارتباط واضح و قابل فهم، حیاتی است.\"",
+    "de_meaning_fa": "واژه‌سازی، فرایندی‌ست که در آن واژه‌های جدید از واژه‌های کهن ساخته می‌شوند."
 }

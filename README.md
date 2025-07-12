@@ -30,3 +30,13 @@ fa_meaning           1562.0 11.7% ==
 de_example_sentence  3072.0 23.1% ====
 perfekt_präteritum   766.0 5.8 % =
 ```
+
+```
+total time: 5h 19m 33s
+words per minute: 7.3
+----------------------------------------
+de_example_sentence_fa 14573.0 76.0% ===============
+de_meaning_fa        4601.0 24.0% ====
+----------------------------------------
+
+```

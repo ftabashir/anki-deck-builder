@@ -9,5 +9,7 @@
     "de_example_sentence": "Mein Akku ist leer, ich muss ihn jetzt aufladen.\nDer Akku meines Smartphones hält leider nicht mehr so lange wie früher.",
     "perfekt_präteritum": "",
     "word": "Akku, der, -s",
-    "word_query": "Akku"
+    "word_query": "Akku",
+    "de_example_sentence_fa": "باطری من خالی شده، باید الان شارژش کنم.\nباطری گوشی هوشمندم متاسفانه دیگه مثل قبل دووم نمیاره.",
+    "de_meaning_fa": "یک باتری دستگاهی است که می‌تواند برق را ذخیره کند تا وسایل الکترونیکی مانند تلفن همراه یا خودرو را روشن کند."
 }

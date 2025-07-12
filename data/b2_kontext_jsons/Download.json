@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe gerade ein neues Lied heruntergeladen.\nBevor du das Programm installierst, lade die neueste Version herunter.",
     "perfekt_präteritum": "geladen / lud",
     "word": "Download, der, -s",
-    "word_query": "Download"
+    "word_query": "Download",
+    "de_example_sentence_fa": "\"من همین حالا یک آهنگ جدید دانلود کردم.\nقبل از اینکه برنامه را نصب کنی، آخرین نسخه را دانلود کن.\"",
+    "de_meaning_fa": "\"دانلود\" به این معنی است که شما یک فایل را از یک کامپیوتر به اینترنت منتقل می‌کنید."
 }

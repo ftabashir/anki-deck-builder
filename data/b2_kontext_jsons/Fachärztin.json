@@ -9,5 +9,7 @@
     "de_example_sentence": "Meine Tochter möchte später eine Fachärztin für Augenheilkunde werden.\nDie Fachärztin hat mir eine detaillierte Erklärung zu meiner Diagnose gegeben.",
     "perfekt_präteritum": "",
     "word": "Fachärztin, die, -nen",
-    "word_query": "Fachärztin"
+    "word_query": "Fachärztin",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Meine Tochter möchte später eine Fachärztin für Augenheilkunde werden.\"\n**دخترم دوست دارد بعداً متخصص چشم شود.**\n\n\"Die Fachärztin hat mir eine detaillierte Erklärung zu meiner Diagnose gegeben.\"\n**متخصص چشم، توضیح مفصلی در مورد تشخیص من به من داد.**",
+    "de_meaning_fa": "یک پزشک متخصص، پزشکی است که در یک حوزه خاص پزشکی تخصص یافته است."
 }

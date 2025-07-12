@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich möchte noch meinen Namen dazuschreiben, damit du weißt, wer es ist.\nUm die Bewerbung zu verbessern, solltest du noch relevante Erfahrungen dazuschreiben.",
     "perfekt_präteritum": "geschrieben / schrieb",
     "word": "dazu|schreiben, schreibt dazu, schrieb dazu, hat dazugeschrieben ",
-    "word_query": "dazuschreiben"
+    "word_query": "dazuschreiben",
+    "de_example_sentence_fa": "\"می‌خوام هنوز اسمم رو هم بنویسم تا بدونی کیه.\nبرای بهتر شدن درخواست کار، بهتره تجربه‌های مرتبط رو هم اضافه کنی.\"",
+    "de_meaning_fa": "اضافه کردن به متن یا نوشته‌ای."
 }

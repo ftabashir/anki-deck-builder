@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss abnehmen, weil ich mich in letzter Zeit sehr ungesund ernährt habe.\nSie hat beschlossen, abnehmen zu wollen, um gesünder zu sein und sich wohler zu fühlen.",
     "perfekt_präteritum": "bin abgenommen / nahm ab",
     "word": "ab|nehmen, nimmt ab, nahm ab, hat abgenommen ",
-    "word_query": "abnehmen"
+    "word_query": "abnehmen",
+    "de_example_sentence_fa": "\"من باید وزن کم کنم، چون اخیراً خیلی نامناسب غذا خورده‌ام.\nاو تصمیم گرفته که بخواهد وزن کم کند تا سالم‌تر باشد و احساس بهتری داشته باشد.\"",
+    "de_meaning_fa": "کاهش وزن به معنای کمتر شدن وزن یا از دست دادن وزن است."
 }

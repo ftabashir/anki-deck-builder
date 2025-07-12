@@ -9,5 +9,7 @@
     "de_example_sentence": "Wir haben heute ein Online-Meeting mit unserem Team in Berlin.\nDas Online-Meeting war aufgrund technischer Probleme etwas holprig.",
     "perfekt_präteritum": "",
     "word": "Online-Meeting, das, -s",
-    "word_query": "Online-Meeting"
+    "word_query": "Online-Meeting",
+    "de_example_sentence_fa": "\"ما امروز یک جلسه آنلاین با تیم‌مان در برلین داریم.\nجلسه آنلاین به دلیل مشکلات فنی کمی مشکل‌دار بود.\"",
+    "de_meaning_fa": "یک جلسه آنلاین، دیداری است که از طریق اینترنت برگزار می‌شود."
 }

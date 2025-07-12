@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Rechner hat gestern eine Fehlermeldung angezeigt.\nIch habe meinen alten Rechner durch ein neueres Modell ersetzt.",
     "perfekt_präteritum": "",
     "word": "Rechner, der, -",
-    "word_query": "Rechner"
+    "word_query": "Rechner",
+    "de_example_sentence_fa": "\"کامپیوتر دیروز یک پیغام خطا نشان داد.\nمن کامپیوتر قدیمی‌ام را با یک مدل جدیدتر عوض کردم.\"",
+    "de_meaning_fa": "یک محاسبه‌گر ماشینی است که می‌تواند اطلاعات را پردازش کند، مانند کامپیوتر."
 }

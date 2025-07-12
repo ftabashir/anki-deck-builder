@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Altstadt von Prag ist ein historisch bedeutendes Stadtzentrum.\nDas Gebäude ist historisch gesehen ein ehemaliges Kloster.",
     "perfekt_präteritum": "",
     "word": "historisch ",
-    "word_query": "historisch"
+    "word_query": "historisch",
+    "de_example_sentence_fa": "\"شهر قدیمی پراگ یک مرکز شهر تاریخی و مهم است.\nاین ساختمان از نظر تاریخی یک صومعه سابق بوده است.\"",
+    "de_meaning_fa": "\"تاریخی\" به این معنی است که چیزی از گذشته آمده یا دارای یک تاریخ طولانی است."
 }

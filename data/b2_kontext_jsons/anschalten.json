@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe den Fernseher angeschaltet, aber es kommt kein Bild.\nKönnen Sie bitte die Maschine anschalten, bevor wir mit der Produktion beginnen?",
     "perfekt_präteritum": "angeschaltet / schaltete an",
     "word": "an|schalten ",
-    "word_query": "anschalten"
+    "word_query": "anschalten",
+    "de_example_sentence_fa": "\"من تلویزیون رو روشن کردم، ولی تصویر نمیاد.\nمیشه لطفا دستگاه رو روشن کنید قبل از اینکه با تولید شروع کنیم؟\"",
+    "de_meaning_fa": "روشن کردن به معنای روشن ساختن چیزی است."
 }

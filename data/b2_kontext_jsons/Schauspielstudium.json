@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie hat beschlossen, ein Schauspielstudium in Berlin zu beginnen.\nNach ihrem Schauspielstudium möchte er als freier Schauspieler arbeiten.",
     "perfekt_präteritum": "",
     "word": "Schauspielstudium, das (Sg.)",
-    "word_query": "Schauspielstudium"
+    "word_query": "Schauspielstudium",
+    "de_example_sentence_fa": "\"Sie hat beschlossen, ein Schauspielstudium in Berlin zu beginnen.\"\n→ \"او تصمیم گرفته بازیگری در برلین شروع کند.\"\n\n\"Nach ihrem Schauspielstudium möchte er als freier Schauspieler arbeiten.\"\n→ \"بعد از اتمام تحصیل بازیگری، می‌خواهد به عنوان بازیگر آزاد کار کند.\"",
+    "de_meaning_fa": "مطالعه بازیگری، آموزشی است که در آن یاد می‌گیریم بازیگر شویم."
 }

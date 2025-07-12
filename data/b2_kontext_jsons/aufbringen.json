@@ -9,5 +9,7 @@
     "de_example_sentence": "Er konnte die nötige Energie nicht aufbringen, um das Projekt zu beenden.\nEs ist schwer, die Kraft aufzubringen, nachdem man so lange gearbeitet hat.",
     "perfekt_präteritum": "gebracht / brachte",
     "word": "auf|bringen, bringt auf, brachte auf, hat aufgebracht (Verständnis aufbringen) ",
-    "word_query": "aufbringen"
+    "word_query": "aufbringen",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er konnte die nötige Energie nicht aufbringen, um das Projekt zu beenden.\"\n→ او نتوانست انرژی لازم را برای اتمام پروژه پیدا کند.\n\n\"Es ist schwer, die Kraft aufzubringen, nachdem man so lange gearbeitet hat.\"\n→ بعد از این‌همه کار کردن، جمع کردن نیرو سخت است.",
+    "de_meaning_fa": "\"به دست آوردن\" به معنای پیدا کردن، تهیه کردن یا برانگیختن چیزی با زحمت یا تلاش است."
 }

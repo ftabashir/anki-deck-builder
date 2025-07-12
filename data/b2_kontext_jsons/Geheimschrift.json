@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Spionageagenten nutzten eine komplexe Geheimschrift, um ihre Botschaften zu verschlüsseln.\nDer Historiker versuchte, die Geheimschrift in den alten Dokumenten zu entschlüsseln, um die Wahrheit aufzudecken.",
     "perfekt_präteritum": "",
     "word": "Geheimschrift, die, -en",
-    "word_query": "Geheimschrift"
+    "word_query": "Geheimschrift",
+    "de_example_sentence_fa": "\"چاقوهای جاسوسی از یک کد پیچیده برای رمزگذاری پیام‌هایشان استفاده کردند.\nتاریخ‌دان سعی کرد کد را در اسناد باستانی رمزگشایی کند تا حقیقت را فاش کند.\"",
+    "de_meaning_fa": "یک رمزنگاری، نوعی خاص نوشتن پیام‌هاست که فقط توسط افرادی قابل خوانده می‌شود که رمز را بدانند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Dozent hat seine Präsentation auf einem Beamer gezeigt.\nWir brauchen einen neuen Beamer für das Meeting.",
     "perfekt_präteritum": "gebeamt / beamte",
     "word": "Beamer, der, -",
-    "word_query": "Beamer"
+    "word_query": "Beamer",
+    "de_example_sentence_fa": "\"استاد ارائه خود را با پروژکتور نشان داد.\nما به یک پروژکتور جدید برای جلسه نیاز داریم.\"",
+    "de_meaning_fa": "پروژکتور دستگاهی است که تصاویر و متن‌ها را بر روی صفحه نمایش یا دیوار به تصویر در می‌آورد."
 }

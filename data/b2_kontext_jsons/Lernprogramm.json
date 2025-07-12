@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Lernprogramm hat mir geholfen, die Grammatik besser zu verstehen.\nMit dem interaktiven Lernprogramm konnte ich mein Vokabular effektiv erweitern.",
     "perfekt_präteritum": "gelernt / lernte",
     "word": "Lernprogramm, das, -e",
-    "word_query": "Lernprogramm"
+    "word_query": "Lernprogramm",
+    "de_example_sentence_fa": "\"این برنامه آموزشی به من کمک کرد تا گرامر را بهتر بفهمم.\nبا این برنامه آموزشی تعاملی توانستم دایره لغاتم را به طور موثری گسترش دهم.\"",
+    "de_meaning_fa": "یک نرم‌افزار آموزشی، برنامه‌ای کامپیوتری است که به شما کمک می‌کند چیز جدیدی یاد بگیرید."
 }

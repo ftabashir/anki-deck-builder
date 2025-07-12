@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte überprüfe die Zeilennummer, um sicherzustellen, dass sie mit dem Index übereinstimmt.\nDie Zeilennummer in der Codezeile muss manuell angepasst werden.",
     "perfekt_präteritum": "",
     "word": "Zeilennummer, die, -n",
-    "word_query": "Zeilennummer"
+    "word_query": "Zeilennummer",
+    "de_example_sentence_fa": "لطفاً شماره سطر را بررسی کنید تا مطمئن شوید با فهرست مطابقت دارد.\nشماره سطر در خط کد باید به صورت دستی تنظیم شود.",
+    "de_meaning_fa": "شماره خط فقط یک عدد ترتیبی است که در ابتدای هر خط از متن قرار می‌گیرد."
 }

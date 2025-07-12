@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe meinen Freund angerufen, weil ich ihn dringend brauchte.\nSie rief mich gestern an, um sich nach dem Projekt zu erkundigen.",
     "perfekt_präteritum": "gerufen / rief",
     "word": "rufen, ruft, rief, hat gerufen ",
-    "word_query": "rufen"
+    "word_query": "rufen",
+    "de_example_sentence_fa": "\"من دوستم رو زنگ زدم، چون خیلی بهش احتیاج داشتم.\nاون دیروز به من زنگ زد تا در مورد پروژه خبر بگیره.\"",
+    "de_meaning_fa": "\"فریاد زدن\" به معنای صدا زدن یا نام بردن کسی به صورت بلند است."
 }

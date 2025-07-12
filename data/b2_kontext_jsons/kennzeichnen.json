@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neuen Sicherheitsmaßnahmen sollen verdächtige Aktivitäten eindeutig kennzeichnen.\nEine klare Kennzeichnung der Produkte hilft den Kunden, eine informierte Entscheidung zu treffen.",
     "perfekt_präteritum": "gekennzeichnet / kennzeichnete",
     "word": "kennzeichnen ",
-    "word_query": "kennzeichnen"
+    "word_query": "kennzeichnen",
+    "de_example_sentence_fa": "\"Die neuen Sicherheitsmaßnahmen sollen verdächtige Aktivitäten eindeutig kennzeichnen.\"\n→ \"اقدامات امنیتی جدید باید فعالیت‌های مشکوک را به طور واضح مشخص کنند.\"\n\n\"Eine klare Kennzeichnung der Produkte hilft den Kunden, eine informierte Entscheidung zu treffen.\"\n→ \"برچسب‌گذاری واضح محصولات به مشتریان کمک می‌کند تا تصمیم آگاهانه‌ای بگیرند.\"",
+    "de_meaning_fa": "\"نشانه‌گذاری\" به معنای علامت‌گذاری چیزی است به گونه‌ای که آن را از چیزهای دیگر متمایز کند."
 }

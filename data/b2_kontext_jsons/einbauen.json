@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich möchte eine neue Küche einbauen lassen, sobald ich das Geld dafür habe.\nDer Techniker musste das defekte Bauteil im Gerät schnell einbauen, um die Reparatur abzuschließen.",
     "perfekt_präteritum": "eingebaut / baute",
     "word": "ein|bauen ",
-    "word_query": "einbauen"
+    "word_query": "einbauen",
+    "de_example_sentence_fa": "\"من می‌خواهم به محض اینکه پولش را داشته باشم، یک آشپزخانه جدید نصب کنم.\nتکنسین باید قطعه خراب دستگاه را سریعاً تعویض می‌کرد تا تعمیرات به پایان برسد.\"",
+    "de_meaning_fa": "\"نصب کردن\" به معنای قرار دادن چیزی درون چیز دیگر یا ثابت کردن آن است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Buchstabe \"S\" ist ein Konsonant im Deutschen.\nUm das Wort korrekt auszusprechen, muss man auf die Position der Konsonanten achten.",
     "perfekt_präteritum": "It’s not a verb.",
     "word": "Konsonant, der, -en",
-    "word_query": "Konsonant"
+    "word_query": "Konsonant",
+    "de_example_sentence_fa": "حرف \"S\" یک مصوت در آلمانی نیست.\nبرای تلفظ صحیح کلمه، باید به جایگاه مصوت‌ها دقت کرد.",
+    "de_meaning_fa": "یک همخوان، صدایی است که مانند واکه آزادانه از دهان عبور نمی‌کند، بلکه توسط زبان یا لب‌ها شکل می‌گیرد."
 }

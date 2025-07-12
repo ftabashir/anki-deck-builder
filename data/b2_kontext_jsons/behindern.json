@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Bauarbeiten behindern den morgendlichen Verkehr erheblich.\nStarke Regenfälle könnten die Erntearbeiten behindern.",
     "perfekt_präteritum": "gehindert / hinderte",
     "word": "behindern ",
-    "word_query": "behindern"
+    "word_query": "behindern",
+    "de_example_sentence_fa": "\"Die Bauarbeiten behindern den morgendlichen Verkehr erheblich.\"\n→ \"کارهای ساختمانی ترافیک صبح را به شدت مختل می‌کنند.\"\n\n\"Starke Regenfälle könnten die Erntearbeiten behindern.\"\n→ \"باران‌های شدید ممکن است برداشت محصول را مختل کنند.\"",
+    "de_meaning_fa": "\"به معنای جلوگیری کردن از پیشرفت چیزی یا کسی یا مانع شدن راه اوست.\""
 }

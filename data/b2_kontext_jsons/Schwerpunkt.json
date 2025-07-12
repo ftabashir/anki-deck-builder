@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Schwerpunkt der Diskussion lag auf den Auswirkungen des Klimawandels.\nEin Schwerpunkt unserer Arbeit im nächsten Quartal wird die Verbesserung der Kundenkommunikation sein.",
     "perfekt_präteritum": "",
     "word": "Schwerpunkt, der, -e",
-    "word_query": "Schwerpunkt"
+    "word_query": "Schwerpunkt",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Der Schwerpunkt der Diskussion lag auf den Auswirkungen des Klimawandels.\"\n→ تمرکز بحث بر روی اثرات تغییرات آب‌وهوایی بود.\n\n\"Ein Schwerpunkt unserer Arbeit im nächsten Quartal wird die Verbesserung der Kundenkommunikation sein.\"\n→ تمرکز اصلی کار ما در فصل بعد، بهبود ارتباط با مشتریان خواهد بود.",
+    "de_meaning_fa": "نقطهٔ اصلی یا مرکزی چیزی، اهمیت ویژه‌ای دارد."
 }

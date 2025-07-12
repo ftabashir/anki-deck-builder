@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Schüler müssen ihre Präsentationen selbst bewerten.\nEs ist wichtig, die Risiken des Projekts objektiv zu bewerten.",
     "perfekt_präteritum": "gebewertet / bewertete",
     "word": "bewerten ",
-    "word_query": "bewerten"
+    "word_query": "bewerten",
+    "de_example_sentence_fa": "\"Die Schüler müssen ihre Präsentationen selbst bewerten.\" → دانش‌آموزان باید ارزیابی ارائه خود را شخصاً انجام دهند.\n\n\"Es ist wichtig, die Risiken des Projekts objektiv zu bewerten.\" → ارزیابی ریسک‌های پروژه به صورت عینی مهم است.",
+    "de_meaning_fa": "\"امتیاز دادن\" یعنی دادن نظر یا نمره به چیزی."
 }

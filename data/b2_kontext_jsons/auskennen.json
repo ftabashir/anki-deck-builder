@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich kenne mich in dieser Stadt gut aus.\nSie sollte sich vor dem Vorstellungsgespräch mit dem Unternehmen auskennen.",
     "perfekt_präteritum": "ausgekannt / kannte",
     "word": "aus|kennen (sich), kennt sich aus, kannte sich aus, hat sich ausgekannt ",
-    "word_query": "auskennen"
+    "word_query": "auskennen",
+    "de_example_sentence_fa": "\"من در این شهر خیلی خوب راه می‌کنم.\"\n\"او باید قبل از مصاحبه با شرکت، با آن آشنا باشد.\"",
+    "de_meaning_fa": "\"آشنا بودن\" به معنای خوب دانستن چیزی یا کسی است."
 }

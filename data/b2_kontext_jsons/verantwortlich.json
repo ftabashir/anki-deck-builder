@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Projektleiter ist für die Einhaltung des Zeitplans verantwortlich.\nDie Regierung trägt die Verantwortung für die steigende Inflation.",
     "perfekt_präteritum": "getragen / trug",
     "word": "verantwortlich ",
-    "word_query": "verantwortlich"
+    "word_query": "verantwortlich",
+    "de_example_sentence_fa": "\"رهبر پروژه مسئول رعایت برنامه زمانی است.\nدولت مسئول افزایش تورم است.\"",
+    "de_meaning_fa": "مسئولیت یعنی باید اطمینان حاصل کرد که کاری به درستی انجام شود و باید تبعات آن را پذیرفت."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Fragestellung der Arbeit war sehr komplex und erforderte eine gründliche Recherche.\nEine klare Fragestellung ist entscheidend für eine erfolgreiche wissenschaftliche Untersuchung.",
     "perfekt_präteritum": "fragestellung",
     "word": "Fragestellung, die, -en",
-    "word_query": "Fragestellung"
+    "word_query": "Fragestellung",
+    "de_example_sentence_fa": "\"Die Fragestellung der Arbeit war sehr komplex und erforderte eine gründliche Recherche.\"\n→ \"سوال اصلی این پژوهش بسیار پیچیده بود و نیازمند بررسی دقیق بود.\"\n\n\"Eine klare Fragestellung ist entscheidend für eine erfolgreiche wissenschaftliche Untersuchung.\"\n→ \"یک مسئله‌ی روشن برای یک تحقیق علمی موفق حیاتی است.\"",
+    "de_meaning_fa": "سوال، دقیقاً همان سوالی است که می‌خواهیم به آن پاسخ دهیم."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Temperaturen können bis zu 30 Grad Celsius erreichen.\nDas Projekt hat bis zu 100.000 Euro an Fördermitteln erhalten.",
     "perfekt_präteritum": "",
     "word": "bis zu ",
-    "word_query": "bis zu"
+    "word_query": "bis zu",
+    "de_example_sentence_fa": "\"دمای هوا می‌تواند تا ۳۰ درجه سانتی‌گراد برسد.\nاین پروژه تا ۱۰۰,۰۰۰ یورو اعتبار دریافت کرده است.\"",
+    "de_meaning_fa": "\"تا\" به معنای \"حداکثر\" یا \"به اندازه‌ی\" است."
 }

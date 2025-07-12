@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss den Bericht bis Freitag fertigstellen.\nWir hoffen, das Projekt im nächsten Monat fertigstellen zu können.",
     "perfekt_präteritum": "gefertigt / fertigte",
     "word": "fertig|stellen ",
-    "word_query": "fertigstellen"
+    "word_query": "fertigstellen",
+    "de_example_sentence_fa": "من باید گزارش را تا جمعه تمام کنم.\nامیدواریم بتوانیم پروژه را در ماه آینده به پایان برسانیم.",
+    "de_meaning_fa": "\"به اتمام رساندن\" به معنی پایان دادن یا تکمیل کردن چیزی است."
 }

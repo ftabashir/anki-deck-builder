@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Versammlung wurde aufgrund des Schneefalls aufgehoben.\nDer Richter hat das Urteil aufgehoben und den Angeklagten freigelassen.",
     "perfekt_präteritum": "gehoben / hob",
     "word": "auf|heben, hebt auf, hob auf, hat aufgehoben ",
-    "word_query": "aufheben"
+    "word_query": "aufheben",
+    "de_example_sentence_fa": "\"گردهمایی به دلیل بارش برف لغو شد.\nقاضی حکم را باطل کرد و متهم را آزاد کرد.\"",
+    "de_meaning_fa": "\"برداشتن\" به معنی جابه‌جا کردن یا حذف کردن چیزی است."
 }

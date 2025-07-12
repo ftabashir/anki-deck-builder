@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich steige an der nächsten Haltestelle aus.\nDie Bushaltestelle ist leider kaputt und muss repariert werden.",
     "perfekt_präteritum": "",
     "word": "Haltestelle, die, -n",
-    "word_query": "Haltestelle"
+    "word_query": "Haltestelle",
+    "de_example_sentence_fa": "\"من در ایستگاه بعدی پیاده می‌شوم.\nایستگاه اتوبوس متاسفانه خراب است و باید تعمیر شود.\"",
+    "de_meaning_fa": "ایستگاه مکانی است که اتوبوس‌ها یا قطارها در آن توقف می‌کنند تا مسافران سوار و پیاده شوند."
 }

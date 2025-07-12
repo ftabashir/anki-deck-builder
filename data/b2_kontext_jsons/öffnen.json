@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte öffne das Fenster, es ist stickig hier.\nKönnten Sie bitte die Tür öffnen, ich möchte rein?",
     "perfekt_präteritum": "geöffnet / öffnete",
     "word": "öffnen ",
-    "word_query": "öffnen"
+    "word_query": "öffnen",
+    "de_example_sentence_fa": "\"لطفا پنجره رو باز کن، اینجا هواگیره.\nلطفا در رو باز کنین، می‌خوام داخل برم؟\"",
+    "de_meaning_fa": "\"باز کردن\" به معنای انجام کاری است تا چیزی قابل دیدن یا ورود به آن باشد."
 }

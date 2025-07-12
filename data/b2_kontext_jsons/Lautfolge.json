@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Lautfolge des Wortes \"scheinbar\" ist für viele Deutschlerner schwierig zu meistern.\nEine falsche Lautfolge kann dazu führen, dass das gesprochene Wort unverständlich wird.",
     "perfekt_präteritum": "gegeben / gab",
     "word": "Lautfolge, die, -n",
-    "word_query": "Lautfolge"
+    "word_query": "Lautfolge",
+    "de_example_sentence_fa": "\"Die Lautfolge des Wortes \"scheinbar\" ist für viele Deutschlerner schwierig zu meistern.\"\n→ \"تلفظ واژهٔ \"scheinbar\" برای بسیاری از زبان‌آموزان آلمانی دشوار است.\"\n\n\"Eine falsche Lautfolge kann dazu führen, dass das gesprochene Wort unverständlich wird.\"\n→ \"یک تلفظ نادرست می‌تواند باعث شود که واژهٔ تلفظ شده ناواضح گردد.\"",
+    "de_meaning_fa": "یک دنباله آوایی، دنباله‌ای از آواها در یک کلمه یا گفتار است."
 }

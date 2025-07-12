@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie hat sich bei ihrer Recherche hierbei sehr angestrengt.\nEr hat sich hierbei einen Vorteil verschafft, der nicht fair war.",
     "perfekt_präteritum": "",
     "word": "hierbei ",
-    "word_query": "hierbei"
+    "word_query": "hierbei",
+    "de_example_sentence_fa": "\"Sie hat sich bei ihrer Recherche hierbei sehr angestrengt.\" → \"او در تحقیقاتش خیلی تلاش کرده است.\"\n\n\"Er hat sich hierbei einen Vorteil verschafft, der nicht fair war.\" → \"او با این کار به نفعی دست یافت که منصفانه نبود.\"",
+    "de_meaning_fa": "این عبارت به معنای \"اینجا\" یا \"در این وضعیت\" است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Seine grösste Schwäche ist, dass er zu schnell aufgibt.\nDie Firma musste ihre Schwäche in der Kundenbetreuung eingestehen.",
     "perfekt_präteritum": "",
     "word": "Schwäche, die, -n",
-    "word_query": "Schwäche"
+    "word_query": "Schwäche",
+    "de_example_sentence_fa": "\"His greatest weakness is that he gives up too quickly.\nThe company had to admit its weakness in customer service.\"\n\nbecomes:\n\n\"ضعف بزرگش اینه که خیلی زود دست از کار می‌کشه.\nشرکت مجبور شد ضعفش رو در پشتیبانی مشتریان بپذیره.\"",
+    "de_meaning_fa": "\"ضعف\" به این معنی است که چیزی یا کسی به اندازه کافی قوی نیست."
 }

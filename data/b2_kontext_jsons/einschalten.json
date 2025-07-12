@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte schalte das Radio ein, ich möchte die Nachrichten hören.\nEr hat den Fernseher eingeschaltet, um das Fußballspiel zu sehen.",
     "perfekt_präteritum": "eingeschaltet / schaltete",
     "word": "ein|schalten ",
-    "word_query": "einschalten"
+    "word_query": "einschalten",
+    "de_example_sentence_fa": "لطفاً رادیو رو روشن کن، می‌خوام خبرها رو بشنوم.\nاون تلویزیون رو روشن کرد تا بازی فوتبال رو ببینه.",
+    "de_meaning_fa": "روشن کردن به معنای فعال کردن چیزی است، مثل یک چراغ یا تلویزیون."
 }

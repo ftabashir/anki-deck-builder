@@ -9,5 +9,7 @@
     "de_example_sentence": "Nach dem langen Flug ist sie im Flugzeug eingeschlafen.\nEr hat ein Buch gelesen, bis er schließlich eingeschlafen ist.",
     "perfekt_präteritum": "eingeschlafen / schlief",
     "word": "ein|schlafen, schläft ein, schlief ein, ist eingeschlafen",
-    "word_query": "einschlafen"
+    "word_query": "einschlafen",
+    "de_example_sentence_fa": "\"Nach dem langen Flug ist sie im Flugzeug eingeschlafen.\" → \"بعد از پرواز طولانی، او در هواپیما خوابید.\"\n\n\"Er hat ein Buch gelesen, bis er schließlich eingeschlafen ist.\" → \"او تا اینکه بالاخره خوابش برد، کتاب خواند.\"",
+    "de_meaning_fa": "خوابیدن به این معنی است که خسته می‌شوید و آرام می‌گیرید تا بخوابید."
 }

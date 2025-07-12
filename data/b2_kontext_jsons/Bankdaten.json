@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte teile mir deine Bankdaten mit, damit ich die Zahlung veranlassen kann.\nFür die Überweisung benötige ich deine vollständigen Bankdaten, einschließlich der Bankleitzahl.",
     "perfekt_präteritum": "",
     "word": "Bankdaten, die (Pl.)",
-    "word_query": "Bankdaten"
+    "word_query": "Bankdaten",
+    "de_example_sentence_fa": "لطفاً اطلاعات بانکی خود را با من در میان بگذارید تا بتوانم پرداخت را انجام دهم.\nبرای انتقال وجه، به اطلاعات کامل بانکی شما، از جمله کد بانک نیاز دارم.",
+    "de_meaning_fa": "اطلاعات بانکی، اطلاعاتی است که برای انتقال وجه به یک حساب مورد نیاز است."
 }

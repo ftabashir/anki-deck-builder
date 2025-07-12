@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Superblock des Dateisystems wurde beschädigt, daher können wir die Daten nicht wiederherstellen.\nWir müssen den Superblock überprüfen, um sicherzustellen, dass die Partition korrekt gemountet ist.",
     "perfekt_präteritum": "",
     "word": "Superblock, der, &quot;-e",
-    "word_query": "Superblock"
+    "word_query": "Superblock",
+    "de_example_sentence_fa": "\"بلوک فوق‌بنای سیستم فایل آسیب دیده است، بنابراین نمی‌توانیم داده‌ها را بازیابی کنیم.\nما باید بلوک فوق‌بنا را بررسی کنیم تا مطمئن شویم پارتیشن به درستی مونت شده است.\"",
+    "de_meaning_fa": "یک ابربلاک ناحیه‌ای ویژه از داده‌ها در یک دیسک سخت است که حاوی اطلاعاتی درباره ساختار فایل‌ها می‌باشد."
 }

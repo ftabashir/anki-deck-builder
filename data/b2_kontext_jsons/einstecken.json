@@ -9,5 +9,7 @@
     "de_example_sentence": "Er musste seine Kritik einstecken, nachdem er den Bericht präsentiert hatte.\nSie konnte es nicht einstecken, als sie von der Jobkündigung erfahren hat.",
     "perfekt_präteritum": "eingesteckt / steckte ein",
     "word": "ein|stecken ",
-    "word_query": "einstecken"
+    "word_query": "einstecken",
+    "de_example_sentence_fa": "\"Er musste seine Kritik einstecken, nachdem er den Bericht präsentiert hatte.\"\n\nاو مجبور شد انتقادها را تحمل کند، بعد از اینکه گزارش را ارائه داد.\n\n\"Sie konnte es nicht einstecken, als sie von der Jobkündigung erfahren hat.\"\n\nاو نتوانست آن را تحمل کند، وقتی خبر اخراج از کار را شنید.",
+    "de_meaning_fa": "\"گذاشتن\" به معنای قرار دادن چیزی با احتیاط در جیب یا ظرف دیگر است."
 }

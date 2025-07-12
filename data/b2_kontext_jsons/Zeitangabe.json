@@ -9,5 +9,7 @@
     "de_example_sentence": "Die genaue Zeitangabe für den Termin ist noch nicht bekannt.\nFür die Bewerbung ist eine detaillierte Zeitangabe des Beschäftigungszeitraums erforderlich.",
     "perfekt_präteritum": "Zeitangabe is not a verb.",
     "word": "Zeitangabe, die, -n",
-    "word_query": "Zeitangabe"
+    "word_query": "Zeitangabe",
+    "de_example_sentence_fa": "\"زمان دقیق برای قرار ملاقات هنوز مشخص نیست.\nبرای درخواست استخدام، ارائه زمان‌بندی دقیق مدت زمان اشتغال ضروری است.\"",
+    "de_meaning_fa": "یک زمان‌بندی، صرفاً اعلام این است که چه چیزی چه زمانی رخ می‌دهد یا اتفاق می‌افتد."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die elektrische Schaltung muss vor dem Start überprüft werden.\nEine komplexe Schaltung ermöglicht eine präzise Steuerung des Systems.",
     "perfekt_präteritum": "",
     "word": "Schaltung, die, -en",
-    "word_query": "Schaltung"
+    "word_query": "Schaltung",
+    "de_example_sentence_fa": "\"مدار الکتریکی باید قبل از شروع بررسی شود.\nیک مدار پیچیده امکان کنترل دقیق سیستم را فراهم می‌کند.\"",
+    "de_meaning_fa": "یک مدار، جانمایی از قطعات است که با همکاری، کاری را انجام می‌دهند."
 }

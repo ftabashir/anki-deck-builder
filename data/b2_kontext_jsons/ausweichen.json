@@ -9,5 +9,7 @@
     "de_example_sentence": "Er musste schnell ausweichen, um den herannahenden Radfahrer nicht zu überfahren.\nUm den Hagel zu vermeiden, suchten wir uns einen Platz und versuchten, uns gut auszuweichen.",
     "perfekt_präteritum": "ausgewichen / wich",
     "word": "aus|weichen, weicht aus, wich aus, ist ausgewichen",
-    "word_query": "ausweichen"
+    "word_query": "ausweichen",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er musste schnell ausweichen, um den herannahenden Radfahrer nicht zu überfahren.\"\n→  \"برای اینکه به دوچرخه‌سوار نزدیک‌شونده نزنه، مجبور شد سریع جا خالی بده.\"\n\n\"Um den Hagel zu vermeiden, suchten wir uns einen Platz und versuchten, uns gut auszuweichen.\"\n→ \"تا از تگرگ در امان باشیم، دنبال یه جای مناسب گشتیم و سعی کردیم خوب جا خالی بدیم.\"",
+    "de_meaning_fa": "«دوری کردن» به معنای فرار از خطر یا مانعی با یک حرکت سریع است."
 }

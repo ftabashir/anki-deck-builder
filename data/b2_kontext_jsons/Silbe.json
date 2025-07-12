@@ -9,5 +9,7 @@
     "de_example_sentence": "Jedes Wort besteht aus mindestens einer Silbe.\nDie Silbe \"tion\" kommt oft in lateinischen Wörtern vor.",
     "perfekt_präteritum": "gesiebt / siebte",
     "word": "Silbe, die, -n",
-    "word_query": "Silbe"
+    "word_query": "Silbe",
+    "de_example_sentence_fa": "\"هر کلمه از حداقل یک هجا تشکیل شده است.\nهجای \"tion\" اغلب در کلمات لاتین دیده می‌شود.\"",
+    "de_meaning_fa": "یک هجا بخشی از یک کلمه است که بیشتر از یک واکه تشکیل شده است."
 }

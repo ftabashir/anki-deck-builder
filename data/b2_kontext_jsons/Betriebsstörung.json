@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Fluggesellschaft entschuldigte sich für die Betriebs­störung, die zu Verspätungen führte.\nAufgrund einer unerwarteten Betriebs­störung musste das Internet für einige Stunden abgeschaltet werden.",
     "perfekt_präteritum": "",
     "word": "Betriebsstörung, die, -en",
-    "word_query": "Betriebsstörung"
+    "word_query": "Betriebsstörung",
+    "de_example_sentence_fa": "\"شرکت هواپیمایی به دلیل اختلال در عملیات که منجر به تاخیر شد، عذرخواهی کرد.\nبه دلیل یک اختلال ناگهانی در عملیات، اینترنت برای چند ساعت قطع شد.\"",
+    "de_meaning_fa": "یک اختلال عملیاتی، یک نقص یا خرابی غیرمنتظره در یک سازمان یا سیستم است."
 }

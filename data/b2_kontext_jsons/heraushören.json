@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich musste genau hinhören, um das Geräusch herauszuhören.\nSie hat versucht, etwas Neues über das Projekt herauszuhören, als sie am Kaffeeautomaten stand.",
     "perfekt_präteritum": "herausgehört / hörte heraus",
     "word": "heraus|hören ",
-    "word_query": "heraushören"
+    "word_query": "heraushören",
+    "de_example_sentence_fa": "\"Ich musste genau hinhören, um das Geräusch herauszuhören.\"\n\n**باید با دقت گوش می‌کردم تا صدا را بشنوم.**\n\n\"Sie hat versucht, etwas Neues über das Projekt herauszuhören, als sie am Kaffeeautomaten stand.\"\n\n**او سعی کرد در مورد پروژه چیز جدیدی بشنود وقتی کنار دستگاه قهوه ایستاده بود.**",
+    "de_meaning_fa": "\"Heraushören\" به معنای فهمیدن چیزی است که فرد به طور غیرمستقیم یا مبهم گفته است."
 }

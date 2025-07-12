@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mich aufgeregt, weil der Zug Verspätung hatte.\nSie regt sich immer auf, wenn sie schlechte Nachrichten hört.",
     "perfekt_präteritum": "geregt / regte sich",
     "word": "auf|regen (sich) ",
-    "word_query": "aufregen"
+    "word_query": "aufregen",
+    "de_example_sentence_fa": "\"من عصبی شدم چون قطار تاخیر داشت.\nاو همیشه عصبانی می‌شود وقتی اخبار بدی می‌شنود.\"",
+    "de_meaning_fa": "\"عصبانی یا ناراحت شدن\" به معنای \"Aufregen\" است."
 }

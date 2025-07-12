@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Regierung muss die Steuern senken, um das Wirtschaftswachstum anzukurbeln.\nEr steuert das Auto sehr vorsichtig durch den dichten Nebel.",
     "perfekt_präteritum": "gesteuert / steuerte",
     "word": "steuern ",
-    "word_query": "steuern"
+    "word_query": "steuern",
+    "de_example_sentence_fa": "\"دولت باید مالیات‌ها را کاهش دهد تا رشد اقتصادی را تحریک کند.\nاو با احتیاط فراوان ماشین را در میان مه غلیظ هدایت می‌کند.\"",
+    "de_meaning_fa": "پرداخت پول به دولت به منظور تأمین بودجه برای امور مهم است."
 }

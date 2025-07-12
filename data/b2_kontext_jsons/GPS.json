@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mein GPS benutzt, um den schnellsten Weg zum Bahnhof zu finden.\nDas GPS-Gerät zeigte eine falsche Route an, deshalb sind wir eine Stunde zu spät gekommen.",
     "perfekt_präteritum": "",
     "word": "GPS, das, -s",
-    "word_query": "GPS"
+    "word_query": "GPS",
+    "de_example_sentence_fa": "\"من از GPS برای پیدا کردن سریع‌ترین راه به ایستگاه قطار استفاده کردم.\nدستگاه GPS مسیر نادرستی را نشان داد، به همین دلیل یک ساعت دیر رسیدیم.\"",
+    "de_meaning_fa": "GPS سیستمی است که با کمک ماهواره‌ها موقعیت دقیق شما را روی زمین پیدا می‌کند."
 }

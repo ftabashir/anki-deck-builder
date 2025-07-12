@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Jury bewertete die Präsentationen sehr kritisch.\nDie Geschworenen, also die Jury, müssen sich einigen, um ein Urteil zu fällen.",
     "perfekt_präteritum": "",
     "word": "Jury, die, -s",
-    "word_query": "Jury"
+    "word_query": "Jury",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Die Jury bewertete die Präsentationen sehr kritisch.\"\n→ \"هیئت داوران ارزیابی‌ها را به شدت انتقادی بررسی کرد.\"\n\n\"Die Geschworenen, also die Jury, müssen sich einigen, um ein Urteil zu fällen.\"\n→ \"داوران، یعنی هیئت داوران، باید به توافق برسند تا حکمی صادر کنند.\"",
+    "de_meaning_fa": "هيئت منصفه گروهی از افراد است که در یک دادگاه در مورد گناه یا بیگناهی تصمیم می‌گیرند."
 }

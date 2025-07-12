@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss den Text umschreiben, damit er für ein jüngeres Publikum verständlicher ist.\nDer Politiker versuchte, seine Fehler umschreiben, um den Skandal zu beschwichtigen.",
     "perfekt_präteritum": "geschrieben / schrieb",
     "word": "umschreiben, umschreibt, umschrieb, hat umschrieben",
-    "word_query": "umschreiben"
+    "word_query": "umschreiben",
+    "de_example_sentence_fa": "\"من باید متن را بازنویسی کنم تا برای مخاطبان جوان‌تر قابل فهم‌تر باشد.\nسیاستمدار تلاش کرد اشتباهاتش را توجیه کند تا از شدت رسوایی بکاهد.\"",
+    "de_meaning_fa": "بازنویسی به معنای بیان چیزی به روشی دیگر است، بدون تغییر در محتوا."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich war enttäuscht von dem Film, er war nicht so gut wie ich erwartet hatte.\nSie war enttäuscht, dass ihre Bewerbung abgelehnt wurde.",
     "perfekt_präteritum": "enttäuscht",
     "word": "enttäuscht ",
-    "word_query": "enttäuscht"
+    "word_query": "enttäuscht",
+    "de_example_sentence_fa": "\"Ich war enttäuscht von dem Film, er war nicht so gut wie ich erwartet hatte.\"\n→ فیلم منو ناامید کرد، به اندازه‌ای که انتظار داشتم خوب نبود.\n\n\"Sie war enttäuscht, dass ihre Bewerbung abgelehnt wurde.\"\n→ اون ناامید شد که درخواستش رد شده بود.",
+    "de_meaning_fa": "\"ناامید\" یعنی چیزی آن‌طور که انتظار داشتی پیش نرفته است."
 }

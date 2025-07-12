@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Konzert hatte ein sehr beeindruckendes Orgelspiel.\nDie Forschung konzentrierte sich auf die Funktion verschiedener Organe im menschlichen Körper.",
     "perfekt_präteritum": "organisiert / organisierte",
     "word": "Organ, das, -e",
-    "word_query": "Organ"
+    "word_query": "Organ",
+    "de_example_sentence_fa": "\"The Konzert hatte ein sehr beeindruckendes Orgelspiel.\" → \"اجرای ارگ در کنسرت بسیار впечатляющий بود.\"\n\n\"Die Forschung konzentrierte sich auf die Funktion verschiedener Organe im menschlichen Körper.\" → \"تحقیقات بر روی عملکرد اندام‌های مختلف در بدن انسان متمرکز بود.\"",
+    "de_meaning_fa": "یک اندام، بخشی خاص از بدن یا دستگاهی است که وظیفه‌ی مهمی را انجام می‌دهد."
 }

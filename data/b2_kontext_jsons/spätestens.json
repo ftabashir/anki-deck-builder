@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich werde spätestens am Freitagabend anrufen.\nWir müssen die Unterlagen spätestens nächste Woche einreichen.",
     "perfekt_präteritum": "",
     "word": "spätestens ",
-    "word_query": "spätestens"
+    "word_query": "spätestens",
+    "de_example_sentence_fa": "\"Ich werde spätestens am Freitagabend anrufen.\"\nمن حتماً جمعه شب تماس خواهم گرفت.\n\n\"Wir müssen die Unterlagen spätestens nächste Woche einreichen.\"\nما باید حداکثر هفته آینده مدارک را ارائه دهیم.",
+    "de_meaning_fa": "\"Spätestens\" به معنای \"حداکثر تا\" یا \"دیرتر از این\" است."
 }

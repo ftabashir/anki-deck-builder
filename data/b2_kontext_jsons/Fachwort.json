@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Präsentation enthielt einige Fachwörter, die für Laien schwer verständlich waren.\nUm das Konzept zu erklären, musste ich einige Fachwörter in einfacheren Begriffen erläutern.",
     "perfekt_präteritum": "",
     "word": "Fachwort, das, &quot;-er",
-    "word_query": "Fachwort"
+    "word_query": "Fachwort",
+    "de_example_sentence_fa": "\"ارائه شامل واژگان تخصصی بود که برای افراد غیرمتخصص درک آن دشوار بود.\nبرای توضیح این مفهوم، مجبور شدم برخی از واژگان تخصصی را با اصطلاحات ساده‌تری توضیح دهم.\"",
+    "de_meaning_fa": "یک واژه تخصصی، کلمه‌ای خاص است که در یک حوزه یا شغل معین استفاده می‌شود."
 }

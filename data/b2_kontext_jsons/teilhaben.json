@@ -9,5 +9,7 @@
     "de_example_sentence": "Er konnte nicht an der Feier teilhaben, weil er arbeiten musste.\nSie durfte nicht an den Geheimnissen teilhaben, da sie noch nicht eingeweiht war.",
     "perfekt_präteritum": "ge**teil**habt / **teil**nahm",
     "word": "teil|haben ",
-    "word_query": "teilhaben"
+    "word_query": "teilhaben",
+    "de_example_sentence_fa": "\"او نتوانست در جشن شرکت کند، چون مجبور بود کار کند.\nاو اجازه نداشت در رازها شریک شود، چون هنوز راه به او نشان نداده بودند.\"",
+    "de_meaning_fa": "مشارکت کردن یا همراه بودن در چیزی."
 }

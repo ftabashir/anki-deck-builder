@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Analyse der Atemluft ergab erhöhte Werte für Methan.\nDie Verfärbung der Atemluft deutete auf eine Vergiftung hin.",
     "perfekt_präteritum": "",
     "word": "Atemluft, die (Sg.)",
-    "word_query": "Atemluft"
+    "word_query": "Atemluft",
+    "de_example_sentence_fa": "\"تجزیه و تحلیل گاز تنفسی نشان‌دهنده مقادیر بالای متان بود.\nتغییر رنگ گاز تنفسی نشان‌دهنده مسمومیت بود.\"",
+    "de_meaning_fa": "هوای تنفسی، هوایی است که دم و بازدم می‌کنی."
 }

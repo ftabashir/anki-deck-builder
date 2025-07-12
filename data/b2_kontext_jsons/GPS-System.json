@@ -9,5 +9,7 @@
     "de_example_sentence": "Das GPS-System hat uns zuverlässig zum Wanderziel geführt.\nUm den Weg zu finden, habe ich mein GPS-System aktiviert.",
     "perfekt_präteritum": "",
     "word": "GPS-System, das, -e",
-    "word_query": "GPS-System"
+    "word_query": "GPS-System",
+    "de_example_sentence_fa": "\"GPS سیستم به طور قابل اعتماد ما را به مقصد پیاده‌روی هدایت کرد.\nبرای پیدا کردن مسیر، سیستم GPS خودم را فعال کردم.\"",
+    "de_meaning_fa": "یک دستگاه GPS به تو می‌گوید کجا هستی و می‌تواند تو را به مقصد برساند."
 }

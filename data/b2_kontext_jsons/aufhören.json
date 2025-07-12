@@ -9,5 +9,7 @@
     "de_example_sentence": "Er musste mit dem Rauchen aufhören, um seine Gesundheit zu schützen.\nSie hat beschlossen, mit dem Klavierspielen aufzuhören, weil sie keine Zeit mehr hatte.",
     "perfekt_präteritum": "aufgehört / hörte",
     "word": "auf|hören ",
-    "word_query": "aufhören"
+    "word_query": "aufhören",
+    "de_example_sentence_fa": "\"اون مجبور شد سیگار کشیدن رو ترک کنه تا از سلامتیش محافظت کنه.\nاون تصمیم گرفت پیانو زدن رو کنار بذاره، چون دیگه وقت نداشت.\"",
+    "de_meaning_fa": "\"ترك دادن\" به معنای پایان دادن به چیزی است."
 }

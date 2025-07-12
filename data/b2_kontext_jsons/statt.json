@@ -9,5 +9,7 @@
     "de_example_sentence": "Statt einem Auto fahren wir mit dem Zug.\nIch habe das Buch nicht gekauft, sondern es in der Bibliothek ausgeliehen statt zu bezahlen.",
     "perfekt_präteritum": "gestattete / stattete",
     "word": "statt ",
-    "word_query": "statt"
+    "word_query": "statt",
+    "de_example_sentence_fa": "به جای ماشین با قطار می‌رویم.\nبه جای اینکه کتاب را بخرم، آن را از کتابخانه امانت گرفتم، نه اینکه پولش را بپردازم.",
+    "de_meaning_fa": "به جای به معنای این است که چیزی به جای چیز دیگری اتفاق می‌افتد یا وجود دارد."
 }

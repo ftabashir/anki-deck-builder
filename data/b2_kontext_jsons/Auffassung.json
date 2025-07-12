@@ -9,5 +9,7 @@
     "de_example_sentence": "Seine Auffassung von der Situation war leider sehr naiv.\nDie unterschiedlichen Auffassungen führten zu einer hitzigen Diskussion.",
     "perfekt_präteritum": "Nicht",
     "word": "Auffassung, die, -en (eine Auffassung vertreten) ",
-    "word_query": "Auffassung"
+    "word_query": "Auffassung",
+    "de_example_sentence_fa": "\"His understanding of the situation was unfortunately very naive.\nThe differing opinions led to a heated discussion.\"\n\nbecomes:\n\n\"دیدگاهش نسبت به اوضاع متاسفانه خیلی ساده‌لوحانه بود.\nاختلاف دیدگاه‌ها به یک بحث تند و گرم منجر شد.\"",
+    "de_meaning_fa": "\"دیدگاه\" به معنای یک روش خاص برای فکر کردن یا درک چیزی است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Textverweis auf Seite 23 erklärt die Hintergründe der Entscheidung.\nEin korrekter Textverweis ist wichtig, um die Quelle der Information anzugeben.",
     "perfekt_präteritum": "verweist / verwies",
     "word": "Textverweis, der, -e",
-    "word_query": "Textverweis"
+    "word_query": "Textverweis",
+    "de_example_sentence_fa": "\"ارجاع متنی در صفحهٔ ۲۳، دلایل تصمیم‌گیری را توضیح می‌دهد.\nیک ارجاع متنی صحیح برای ذکر منبع اطلاعات مهم است.\"",
+    "de_meaning_fa": "یک ارجاع متنی، اشاره‌ای به بخش دیگری از متن است، مانند یک پاورقی یا توضیحات تکمیلی."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meinen Bericht bis Freitag einreichen.\nDie Bewerber können ihre Entwürfe bis nächste Woche einreichen.",
     "perfekt_präteritum": "gereicht / reichte",
     "word": "ein|reichen ",
-    "word_query": "einreichen"
+    "word_query": "einreichen",
+    "de_example_sentence_fa": "\"من باید گزارش خود را تا جمعه ارائه کنم.\nنامزدها می‌توانند پیش‌نویس‌های خود را تا هفته آینده ارائه دهند.\"",
+    "de_meaning_fa": "ارائه دادن یا ارسال کردن به معنای \"ارائه دادن\" است."
 }

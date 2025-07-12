@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss das Verb \"gehen\" im Präteritum konjugieren, um den Text zu vervollständigen.\nDie Schüler hatten Schwierigkeiten, die unregelmäßigen Verben korrekt zu konjugieren.",
     "perfekt_präteritum": "gekonjugiert / konjugierte",
     "word": "konjugieren ",
-    "word_query": "konjugieren"
+    "word_query": "konjugieren",
+    "de_example_sentence_fa": "\"من باید فعل \"gehen\" را در گذشته ساده (Präteritum) صرف کنم تا متن را تکمیل کنم.\nدانش‌آموزان در صرف درست افعال نامنظم مشکل داشتند.\"",
+    "de_meaning_fa": "ریشه‌یابی فعل به معنای تطبیق شکل فعل با شخص و شمار است."
 }

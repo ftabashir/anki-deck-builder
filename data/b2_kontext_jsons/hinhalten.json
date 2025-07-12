@@ -9,5 +9,7 @@
     "de_example_sentence": "Er musste das Gespräch hinhalten, obwohl er es eigentlich beenden wollte.\nSie hat sich durch das lange Training gequält und ist es hinhalten müssen.",
     "perfekt_präteritum": "gehalten / hielt",
     "word": "hin|halten, hält hin, hielt hin, hat hingehalten ",
-    "word_query": "hinhalten"
+    "word_query": "hinhalten",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er musste das Gespräch hinhalten, obwohl er es eigentlich beenden wollte.\"\n→ **او مجبور شد صحبت را طولانی کند، با اینکه می‌خواست آن را تمام کند.**\n\n\"Sie hat sich durch das lange Training gequält und ist es hinhalten müssen.\"\n→ **او در اثر تمرین طولانی رنج کشید و مجبور شد آن را ادامه دهد.**",
+    "de_meaning_fa": "به این معناست که چیزی را آنقدر تحمل یا سرکوب کرد تا فرصتی برای رهایی از آن حاصل شود."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Sofern das Wetter mitspielt, gehen wir morgen wandern.\nSofern Sie sich für das Angebot interessieren, melden Sie sich bitte bis Freitag.",
     "perfekt_präteritum": "",
     "word": "sofern ",
-    "word_query": "sofern"
+    "word_query": "sofern",
+    "de_example_sentence_fa": "\"اگر هوا مساعد باشد، فردا پیاده‌روی می‌رویم.\nاگر به این پیشنهاد علاقه‌مند باشید، لطفاً تا جمعه اطلاع دهید.\"",
+    "de_meaning_fa": "\"اگر\" به این معنی است که چیزی فقط در صورتی اتفاق می‌افتد که یک شرط خاص برقرار باشد."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Er gibt sich als Experte aus, obwohl er kaum etwas über das Thema weiß.\nSie musste sich nicht so angeben, um zu zeigen, dass sie erfolgreich ist.",
     "perfekt_präteritum": "gegeben / gab",
     "word": "an|geben, gibt an, gab an, hat angegeben ",
-    "word_query": "angeben"
+    "word_query": "angeben",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er gibt sich als Experte aus, obwohl er kaum etwas über das Thema weiß.\" → **\"او خود را متخصص نشان می‌دهد، در حالی که تقریباً هیچ چیز در مورد آن موضوع نمی‌داند.\"**\n\n\"Sie musste sich nicht so angeben, um zu zeigen, dass sie erfolgreich ist.\" → **\"نیازی نبود خودش را خیلی بزرگ نشان دهد تا ثابت کند که موفق است.\"**",
+    "de_meaning_fa": "\"خودنمایی کردن\" یا \"خود را بزرگ جلوه دادن\" به معناست."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe ein Tutorial gefunden, das mir beim Erlernen der neuen Software geholfen hat.\nUm die komplexen Funktionen zu verstehen, empfehle ich dir ein ausführliches Tutorial anzusehen.",
     "perfekt_präteritum": "",
     "word": "Tutorial, das, -s",
-    "word_query": "Tutorial"
+    "word_query": "Tutorial",
+    "de_example_sentence_fa": "\"من آموزشی پیدا کردم که به من در یادگیری نرم‌افزار جدید کمک کرد.\nبرای درک عملکردهای پیچیده، پیشنهاد می‌کنم یک آموزش کامل تماشا کنی.\"",
+    "de_meaning_fa": "یک آموزش، راهنمایی است که به صورت گام به گام نشان می‌دهد چطور کاری را انجام دهیم."
 }

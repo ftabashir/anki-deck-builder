@@ -9,5 +9,7 @@
     "de_example_sentence": "Es ist komisch, dass er heute Morgen überhaupt nicht angerufen hat.\nIch fand seine Reaktion auf die Situation ziemlich komisch.",
     "perfekt_präteritum": "komisch is not a verb.",
     "word": "komisch ",
-    "word_query": "komisch"
+    "word_query": "komisch",
+    "de_example_sentence_fa": "\"Es ist komisch, dass er heute Morgen überhaupt nicht angerufen hat.\"\n→ \"عجیب بود که اصلاً امروز صبح تماس نگرفت.\"\n\n\"Ich fand seine Reaktion auf die Situation ziemlich komisch.\"\n→ \"واکنش او به اون موقعیت رو خیلی عجیب دیدم.\"",
+    "de_meaning_fa": "\"عجیب\" به این معنی است که چیزی غیرعادی یا نامعمول است."
 }

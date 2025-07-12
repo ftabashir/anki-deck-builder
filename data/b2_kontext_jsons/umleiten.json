@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Zug musste aufgrund von Bauarbeiten umgeleitet werden.\nWir haben den Anruf auf die zuständige Abteilung umgeleitet.",
     "perfekt_präteritum": "geleitet / leitete",
     "word": "um|leiten ",
-    "word_query": "umleiten"
+    "word_query": "umleiten",
+    "de_example_sentence_fa": "\"قطار به دلیل تعمیرات مجبور به تغییر مسیر شد.\nما تماس را به بخش مربوطه هدایت کردیم.\"",
+    "de_meaning_fa": "تغییر مسیر به معنای منحرف کردن چیزی از مسیر اصلی و هدایت آن به مسیر دیگر است."
 }

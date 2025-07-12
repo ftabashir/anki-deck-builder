@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meinen neuen Termin in den Kalender eintragen.\nBitte tragen Sie Ihren Namen auf die Teilnehmerliste ein.",
     "perfekt_präteritum": "eingetragen / trug ein",
     "word": "ein|tragen, trägt ein, trug ein, hat eingetragen ",
-    "word_query": "eintragen"
+    "word_query": "eintragen",
+    "de_example_sentence_fa": "\"من باید قرار ملاقات جدیدم را در تقویم وارد کنم.\nلطفاً نام خودتان را در لیست شرکت‌کنندگان بنویسید.\"",
+    "de_meaning_fa": "\"ثبت کردن\" به معنی نوشتن چیزی در یک فهرست یا فرم است."
 }

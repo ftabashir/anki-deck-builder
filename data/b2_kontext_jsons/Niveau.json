@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Konzert hatte ein sehr hohes Niveau.\nDie Diskussion erreichte ein unerwartet niedriges Niveau.",
     "perfekt_präteritum": "ist kein Verb",
     "word": "Niveau, das, -s",
-    "word_query": "Niveau"
+    "word_query": "Niveau",
+    "de_example_sentence_fa": "\"The Konzert hatte ein sehr hohes Niveau.\" → \"کنسرت سطح بسیار بالایی داشت.\"\n\n\"Die Diskussion erreichte ein unerwartet niedriges Niveau.\" → \"بحث به سطحی غیرمنتظره پایین رسید.\"",
+    "de_meaning_fa": "سطح نشان‌دهنده خوب بودن یا کیفیت بالای چیزی است."
 }

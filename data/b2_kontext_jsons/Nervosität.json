@@ -9,5 +9,7 @@
     "de_example_sentence": "Die bevorstehende Prüfung löste bei vielen Studenten große Nervosität aus.\nSeine Nervosität vor dem Vorstellungsgespräch war deutlich zu sehen.",
     "perfekt_präteritum": "",
     "word": "Nervosität, die (Sg.)",
-    "word_query": "Nervosität"
+    "word_query": "Nervosität",
+    "de_example_sentence_fa": "\"Die bevorstehende Prüfung löste bei vielen Studenten große Nervosität aus.\"\n→ \"آزمون پیش رو، اضطراب زیادی را در میان دانشجویان ایجاد کرد.\"\n\n\"Seine Nervosität vor dem Vorstellungsgespräch war deutlich zu sehen.\"\n→ \"اضطراب او قبل از مصاحبه کاملاً قابل مشاهده بود.\"",
+    "de_meaning_fa": "اضطراب حسی است زمانی که فرد هیجان‌زده یا بی‌قرار باشد."
 }

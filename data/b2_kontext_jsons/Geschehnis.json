@@ -9,5 +9,7 @@
     "de_example_sentence": "Das mysteriöse Geschehnis am Waldrand beschäftigte die Dorfbewohner tagelang.\nTrotz aller Ermittlungen blieb das genaue Geschehnis im Inneren des Hauses ungeklärt.",
     "perfekt_präteritum": "geschehen / geschah",
     "word": "Geschehnis, das, -se",
-    "word_query": "Geschehnis"
+    "word_query": "Geschehnis",
+    "de_example_sentence_fa": "\"واقعه‌ی مرموز در حاشیه‌ی جنگل، مردم دهکده را برای روزها به خود مشغول کرد.\nبا وجود تمام تحقیقات، ماهیت دقیق واقعه در داخل خانه، نامعلوم باقی ماند.\"",
+    "de_meaning_fa": "یک رویداد یا اتفاق است، چیزی که رخ داده است."
 }

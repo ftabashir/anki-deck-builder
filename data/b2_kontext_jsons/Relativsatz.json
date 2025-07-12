@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Mann, dessen Auto gestohlen wurde, ist sehr wütend.\nIch habe den Film gesehen, der gestern im Kino lief.",
     "perfekt_präteritum": "",
     "word": "Relativsatz, der, &quot;-e",
-    "word_query": "Relativsatz"
+    "word_query": "Relativsatz",
+    "de_example_sentence_fa": "\"مردی که ماشینش دزدیده شده بود، خیلی عصبانی است.\nمن فیلمی را که دیروز در سینما اکران شده بود، دیده‌ام.\"",
+    "de_meaning_fa": "یک بند موصولی، یک بند فرعی است که اطلاعات بیشتری در مورد یک اسم در جمله اصلی ارائه می‌دهد."
 }

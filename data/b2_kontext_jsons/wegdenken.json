@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich versuche, die schlechte Erfahrung wegzu denken, aber es ist schwer.\nBevor du etwas sagst, solltest du das Ergebnis mal wegdenken.",
     "perfekt_präteritum": "gewegt / wog",
     "word": "weg|denken, denkt weg, dachte weg, hat weggedacht",
-    "word_query": "wegdenken"
+    "word_query": "wegdenken",
+    "de_example_sentence_fa": "\"Ich versuche, die schlechte Erfahrung wegzu denken, aber es ist schwer.\"\n→ من سعی می‌کنم تجربه بد را فراموش کنم، اما سخت است.\n\n\"Bevor du etwas sagst, solltest du das Ergebnis mal wegdenken.\"\n→ قبل از اینکه چیزی بگوئی، باید نتیجه را یک بار فراموش کنی.",
+    "de_meaning_fa": "\"فراموش کردن چیزی که به آن فکر کرده‌اید یا دیگر به آن فکر نکنید.\""
 }

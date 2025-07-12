@@ -9,5 +9,7 @@
     "de_example_sentence": "Welches Fragewort passt hier am besten in den Satz?\nUm das Problem zu lösen, müssen wir zunächst das richtige Fragewort verwenden.",
     "perfekt_präteritum": "",
     "word": "Fragewort, das, &quot;-er",
-    "word_query": "Fragewort"
+    "word_query": "Fragewort",
+    "de_example_sentence_fa": "کدام کلمه پرسشی به بهترین شکل در این جمله جا می‌گیرد؟\nبرای حل این مشکل، ابتدا باید کلمه پرسشی مناسب را به کار ببریم.",
+    "de_meaning_fa": "یک کلمه پرسشی، کلمه‌ای است که برای پرسیدن سوال به کار می‌رود، مانند \"چه کسی\"، \"چه\" یا \"کجا\"."
 }

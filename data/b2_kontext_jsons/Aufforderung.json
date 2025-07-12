@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Aufforderung zur Zahlung ist am 15. Juli fällig.\nEr ignorierte die Aufforderung des Chefs, die Präsentation zu überarbeiten.",
     "perfekt_präteritum": "",
     "word": "Aufforderung, die, -en",
-    "word_query": "Aufforderung"
+    "word_query": "Aufforderung",
+    "de_example_sentence_fa": "\"The Aufforderung zur Zahlung ist am 15. Juli fällig.\" → \"مهلت پرداخت، پانزدهم جولای است.\"\n\n\"Er ignorierte die Aufforderung des Chefs, die Präsentation zu überarbeiten.\" → \"او درخواست رئیسش برای بازبینی ارائه را نادیده گرفت.\"",
+    "de_meaning_fa": "یک درخواست، خواسته یا التماس برای انجام کاری است."
 }

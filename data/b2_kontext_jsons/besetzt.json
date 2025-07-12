@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Tisch im Café ist leider besetzt.\nDie Parklücke war besetzt, also musste ich weiter suchen.",
     "perfekt_präteritum": "besetzt ist / besetzte",
     "word": "besetzt ",
-    "word_query": "besetzt"
+    "word_query": "besetzt",
+    "de_example_sentence_fa": "\"The Tisch im Café ist leider besetzt.\" → \"میز در کافه متاسفانه پر است.\"\n\n\"Die Parklücke war besetzt, also musste ich weiter suchen.\" → \"جای پارک پر بود، پس مجبور شدم بیشتر بگردم.\"",
+    "de_meaning_fa": "\"اشغال\" به این معنی است که چیزی با چیزی یا کسی پر یا پوشیده شده است."
 }

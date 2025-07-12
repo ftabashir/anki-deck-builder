@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Blinde fuhr vorsichtig mit ihrem weißen Hund durch die belebte Fußgängerzone.\nEr half der blinden Frau, die Straße sicher zu überqueren.",
     "perfekt_präteritum": "geblindet / blindete",
     "word": "Blinde, der / die, -n ",
-    "word_query": "Blinde"
+    "word_query": "Blinde",
+    "de_example_sentence_fa": "\"Die Blinde fuhr vorsichtig mit ihrem weißen Hund durch die belebte Fußgängerzone.\"\n→ \"زن نابینا با سگ سفیدش به آرامی در خیابان شلوغ عابر پیاده حرکت می‌کرد.\"\n\n\"Er half der blinden Frau, die Straße sicher zu überqueren.\"\n→ \"او به زن نابینا کمک کرد تا با خیال راحت از خیابان عبور کند.\"",
+    "de_meaning_fa": "\"کورها\" جمع کلمه \"کور\" است و به افرادی اطلاق می‌شود که نمی‌توانند ببینند."
 }

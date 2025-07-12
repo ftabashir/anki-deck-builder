@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Untersuchung soll aufzeigen, welche Maßnahmen am effektivsten sind.\nDie neuen Daten zeigen auf, dass eine Änderung der Strategie notwendig ist.",
     "perfekt_präteritum": "gezeigt / zeigte",
     "word": "auf|zeigen ",
-    "word_query": "aufzeigen"
+    "word_query": "aufzeigen",
+    "de_example_sentence_fa": "\"Die Untersuchung soll aufzeigen, welche Maßnahmen am effektivsten sind.\"\n→ \"تحقیق باید نشان دهد که کدام اقدامات مؤثرتر هستند.\"\n\n\"Die neuen Daten zeigen auf, dass eine Änderung der Strategie notwendig ist.\"\n→ \"داده‌های جدید نشان می‌دهند که تغییر استراتژی ضروری است.\"",
+    "de_meaning_fa": "\"نشان دادن\" به معنای آشکار کردن چیزی یا جلب توجه به آن است."
 }

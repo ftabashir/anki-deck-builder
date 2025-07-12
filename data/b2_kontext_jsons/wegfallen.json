@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Präsentation musste wegen Krankheit leider wegfallen.\nDie geplanten Aktivitäten könnten aufgrund des fehlenden Budgets wegfallen.",
     "perfekt_präteritum": "ist weggefallen / fiel weg",
     "word": "weg|fallen, fällt weg, fiel weg, ist weggefallen ",
-    "word_query": "wegfallen"
+    "word_query": "wegfallen",
+    "de_example_sentence_fa": "\"ارائه متاسفانه به دلیل بیماری کنسل شد.\nفعالیت‌های برنامه‌ریزی‌شده ممکن است به دلیل نبود بودجه کنسل شوند.\"",
+    "de_meaning_fa": "\"از بین رفتن\" به معنی این است که چیزی دیگر اتفاق نمی‌افتد یا ناپدید می‌شود."
 }

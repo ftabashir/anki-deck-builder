@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mein Bargeld verloren, also muss ich heute bargeldlos bezahlen.\nDas Konzert war sehr gut, aber leider konnte man dort nur bargeldlos einkaufen.",
     "perfekt_präteritum": "",
     "word": "bargeldlos ",
-    "word_query": "bargeldlos"
+    "word_query": "bargeldlos",
+    "de_example_sentence_fa": "\"پول نقدیم را گم کردم، پس مجبورم امروز بدون پول نقد پرداخت کنم.\nکنسرت خیلی خوب بود، اما متاسفانه فقط پرداخت بدون نقد در آنجا امکان‌پذیر بود.\"",
+    "de_meaning_fa": "\"بدون نقد\" به معنای پرداخت به جای پول نقد، با کارت یا آنلاین است."
 }

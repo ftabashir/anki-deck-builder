@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe das Auto heruntergefahren und bin nach Hause gegangen.\nEr hat das Konzert leider schon heruntergefahren, weil er müde war.",
     "perfekt_präteritum": "heruntergefahren / fuhr herunter",
     "word": "runter|fahren, fährt runter, fuhr runter, ist runtergefahren",
-    "word_query": "runterfahren"
+    "word_query": "runterfahren",
+    "de_example_sentence_fa": "Here's the translation:\n\n\"من ماشین را خاموش کردم و به خانه رفتم.\nاو متاسفانه کنسرت را زودتر تمام کرد، چون خسته بود.\"",
+    "de_meaning_fa": "\"پایین آوردن\" به معنای خاموش کردن یا کاهش سرعت دادن چیزی است."
 }

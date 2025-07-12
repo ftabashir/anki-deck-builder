@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neuen Sicherheitsmaßnahmen müssen konsequent durchgesetzt werden.\nEr versuchte, seine Meinung durchzusetzen, obwohl alle anderer Meinung waren.",
     "perfekt_präteritum": "durchgesetzt / setzte durch",
     "word": "durch|setzen (sich) ",
-    "word_query": "durchsetzen"
+    "word_query": "durchsetzen",
+    "de_example_sentence_fa": "\"Die neuen Sicherheitsmaßnahmen müssen konsequent durchgesetzt werden.\"\n→ تدابیر امنیتی جدید باید به طور جدی اجرا شوند.\n\n\"Er versuchte, seine Meinung durchzusetzen, obwohl alle anderer Meinung waren.\"\n→ او سعی کرد نظرش را تحمیل کند، با اینکه همه نظر دیگری داشتند.",
+    "de_meaning_fa": "\"به زور پیش بردن یا تحمیل کردن\""
 }

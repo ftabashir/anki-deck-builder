@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe leider kein WLAN in meinem Zimmer, also muss ich mobile Daten nutzen.\nDas Passwort für das WLAN steht am schwarzen Brett in der Lobby.",
     "perfekt_präteritum": "",
     "word": "WLAN, das, -s",
-    "word_query": "WLAN"
+    "word_query": "WLAN",
+    "de_example_sentence_fa": "\"متاسفانه وای‌فای در اتاق من نیست، پس باید از اینترنت موبایل استفاده کنم.\nرمز عبور وای‌فای روی تخته سیاه در لابی نوشته شده است.\"",
+    "de_meaning_fa": "وای‌فای یک اتصال بی‌سیم به اینترنت است."
 }

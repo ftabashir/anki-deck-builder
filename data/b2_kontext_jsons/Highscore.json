@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich versuche immer, meinen Highscore in diesem Spiel zu übertreffen.\nDer neue Spieler hat sofort einen beeindruckenden Highscore erreicht.",
     "perfekt_präteritum": "",
     "word": "Highscore, der, -s",
-    "word_query": "Highscore"
+    "word_query": "Highscore",
+    "de_example_sentence_fa": "\"من همیشه سعی می‌کنم رکورد قبلی‌ام را در این بازی بزنم.\nبازیکن جدید بلافاصله به یک رکورد بالا و چشمگیر دست یافت.\"",
+    "de_meaning_fa": "بالاترین امتیاز ثبت شده در یک بازی، رکورد محسوب می‌شود."
 }

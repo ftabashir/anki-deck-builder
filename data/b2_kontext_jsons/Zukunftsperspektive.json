@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neue Technologie bietet vielversprechende Zukunftsperspektiven für die Automobilindustrie.\nEine gute Ausbildung eröffnet jungen Menschen hervorragende Zukunftsperspektiven auf dem Arbeitsmarkt.",
     "perfekt_präteritum": "",
     "word": "Zukunftsperspektive, die, -n",
-    "word_query": "Zukunftsperspektive"
+    "word_query": "Zukunftsperspektive",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Die neue Technologie bietet vielversprechende Zukunftsperspektiven für die Automobilindustrie.\"\n→ \"فناوری نوین، چشم‌اندازهای امیدوارکننده‌ای برای صنعت خودروسازی ارائه می‌دهد.\"\n\n\"Eine gute Ausbildung eröffnet jungen Menschen hervorragende Zukunftsperspektiven auf dem Arbeitsmarkt.\"\n→ \"یک آموزش خوب، فرصت‌های آینده‌درخشان را برای جوانان در بازار کار فراهم می‌کند.\"",
+    "de_meaning_fa": "\"آینده‌نگری\" به معنای این است که چیزی در آینده چگونه ممکن است پیشرفت کند."
 }

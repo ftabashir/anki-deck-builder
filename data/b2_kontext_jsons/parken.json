@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich darf hier nicht parken, es ist eine Halteverbotzone.\nEr hat vergessen, den Zähler zu bezahlen, bevor er parken fuhr.",
     "perfekt_präteritum": "geparkt / parkte",
     "word": "parken ",
-    "word_query": "parken"
+    "word_query": "parken",
+    "de_example_sentence_fa": "\"Ich darf hier nicht parken, es ist eine Halteverbotzone.\"\n→ من اینجا پارک کردن اجازه ندارم، اینجا منطقه ممنوع پارک هست.\n\n\"Er hat vergessen, den Zähler zu bezahlen, bevor er parken fuhr.\"\n→ اون فراموش کرده بود قبل از پارک کردن، کنتور رو پرداخت کنه.",
+    "de_meaning_fa": "پارک کردن به معنی قرار دادن ماشین در یک جای مشخص برای توقف است."
 }

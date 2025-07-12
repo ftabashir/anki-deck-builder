@@ -9,5 +9,7 @@
     "de_example_sentence": "Mein Kollege ist krankgeschrieben und wird nächste Woche erst wieder arbeiten.\nDie Ärztin hat ihn krankgeschrieben, weil er an einer starken Erkältung leidet.",
     "perfekt_präteritum": "word",
     "word": "krankgeschrieben ",
-    "word_query": "krankgeschrieben"
+    "word_query": "krankgeschrieben",
+    "de_example_sentence_fa": "همکارم استراحت کرده و تا هفته آینده سر کار نخواهد آمد.\nپزشک او را استراحت داده، چون به سرماخوردگی شدید مبتلاست.",
+    "de_meaning_fa": "\"مریض نوشته\" یعنی اینکه دکتر به شما گواهی داده است، چون بیمار هستید و نیازی به کار ندارید."
 }

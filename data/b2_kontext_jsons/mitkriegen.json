@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe es leider nicht mitbekommen, dass du Geburtstag hattest.\nEs ist schwer, alles mitzukriegen, wenn man so viele Aufgaben hat.",
     "perfekt_präteritum": "gekriegt / kriegte",
     "word": "mit|kriegen ",
-    "word_query": "mitkriegen"
+    "word_query": "mitkriegen",
+    "de_example_sentence_fa": "\"متاسفانه متوجه نشدم که تولدت بوده.\nوقتی آدم این همه کار داره، سخته همه چیز رو دنبال کنی.\"",
+    "de_meaning_fa": "متوجه یا متوجه چیزی شدن که در حال وقوع است."
 }

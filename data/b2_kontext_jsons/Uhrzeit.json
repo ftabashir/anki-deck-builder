@@ -9,5 +9,7 @@
     "de_example_sentence": "Welche Uhrzeit haben die Zugverbindungen heute Abend?\nIch habe keine Ahnung, welche Uhrzeit der Film anfängt.",
     "perfekt_präteritum": "",
     "word": "Uhrzeit, die, -en",
-    "word_query": "Uhrzeit"
+    "word_query": "Uhrzeit",
+    "de_example_sentence_fa": "چه ساعتی قطارها امشب حرکت می‌کنند؟\nمن نمی‌دانم فیلم چه ساعتی شروع می‌شود.",
+    "de_meaning_fa": "زمان، چیزی است که ساعت نشان می‌دهد، یعنی ساعت چند است."
 }

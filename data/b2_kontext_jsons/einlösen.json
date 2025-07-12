@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich möchte meine Gutscheine einlösen, bevor sie ablaufen.\nSie hat ihre Versprechen eingelöst und die Arbeit pünktlich fertiggestellt.",
     "perfekt_präteritum": "eingelöst / löste ein",
     "word": "ein|lösen ",
-    "word_query": "einlösen"
+    "word_query": "einlösen",
+    "de_example_sentence_fa": "\"Ich möchte meine Gutscheine einlösen, bevor sie ablaufen.\"\n→ می‌خواهم قبل از اینکه اعتبار کوپن‌هایم تمام شود، آن‌ها را خرج کنم.\n\n\"Sie hat ihre Versprechen eingelöst und die Arbeit pünktlich fertiggestellt.\"\n→ او به وعده‌اش عمل کرد و کار را به موقع تمام کرد.",
+    "de_meaning_fa": "\"به‌کارگیری\" به معنای بازگرداندن چیزی یا ارائه خدمتی است، پس از اینکه حقی برای آن داشته‌اید، مانند یک کوپن یا بیمه."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe gestern ein Computerproblem gehabt und konnte meine Präsentation nicht speichern.\nDas Unternehmen hat aufgrund eines unerwarteten Computerproblems die Server vorübergehend herunterfahren müssen.",
     "perfekt_präteritum": "",
     "word": "Computerproblem, das, -e",
-    "word_query": "Computerproblem"
+    "word_query": "Computerproblem",
+    "de_example_sentence_fa": "\"دیشب یک مشکل کامپیوتری داشتم و نتوانستم ارائه‌ام را ذخیره کنم.\nشرکت به دلیل یک مشکل کامپیوتری غیرمنتظره مجبور شد سرورها را به طور موقت خاموش کند.\"",
+    "de_meaning_fa": "یک مشکل کامپیوتری زمانی اتفاق می‌افتد که کامپیوتر شما درست کار نکند."
 }

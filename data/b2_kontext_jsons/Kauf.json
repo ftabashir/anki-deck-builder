@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Kauf des neuen Autos war eine große finanzielle Belastung.\nNach dem Kauf haben wir das Paket sofort ausgepackt.",
     "perfekt_präteritum": "gekauft / kaufte",
     "word": "Kauf, der, &quot;-e (in Kauf nehmen) ",
-    "word_query": "Kauf"
+    "word_query": "Kauf",
+    "de_example_sentence_fa": "\"خرید ماشین جدید یک بار مالی بزرگ بود.\nبعد از خرید، ما بلافاصله بسته را باز کردیم.\"",
+    "de_meaning_fa": "\"خریدن\" به معنی به دست آوردن چیزی با پرداخت پول است."
 }

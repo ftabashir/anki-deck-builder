@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Moos am Baumstamm bot vielen kleinen Tieren Unterschlupf.\nNach dem Regen glänzte das Moos auf den Felsen smaragdgrün.",
     "perfekt_präteritum": "It’s not a verb.",
     "word": "Moos, das, -e",
-    "word_query": "Moos"
+    "word_query": "Moos",
+    "de_example_sentence_fa": "\"Moss on the tree trunk offered shelter to many small animals.\nAfter the rain, the moss on the rocks glistened emerald green.\"\n\nbecomes:\n\n\"خزه روی تنه‌ی درخت، پناهگاه بسیاری از جانوران کوچک بود.\nبعد از باران، خزه روی صخره‌ها به رنگ سبز زمردی می‌درخشید.\"",
+    "de_meaning_fa": "جلبک‌ها گونه‌ای گیاه کوچک و سبز هستند که اغلب روی سنگ‌ها یا درختان رشد می‌کنند."
 }

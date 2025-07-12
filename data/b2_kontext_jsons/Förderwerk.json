@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Förderwerk hat ein neues Programm zur Unterstützung von jungen Unternehmern aufgelegt.\nDie Sanierung des historischen Gebäudes wurde durch ein Förderwerk finanziert.",
     "perfekt_präteritum": "gefördert / förderte",
     "word": "Förderwerk, das, -e",
-    "word_query": "Förderwerk"
+    "word_query": "Förderwerk",
+    "de_example_sentence_fa": "\"Das Förderwerk hat ein neues Programm zur Unterstützung von jungen Unternehmern aufgelegt.\"\n→ \"سازمان حمایت، برنامه جدیدی برای حمایت از جوانان کارآفرین آغاز کرده است.\"\n\n\"Die Sanierung des historischen Gebäudes wurde durch ein Förderwerk finanziert.\"\n→ \"بازسازی بنای تاریخی با کمک سازمان حمایت تامین مالی شد.\"",
+    "de_meaning_fa": "یک بنیاد، سازمانی است که از نظر مالی یا به شیوه‌های دیگر به افراد یا پروژه‌ها کمک می‌کند."
 }

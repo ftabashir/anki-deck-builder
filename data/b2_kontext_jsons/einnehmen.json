@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neue Regierung wird nächste Woche ihr Amt einnehmen.\nEr nahm eine defensive Position ein, um auf die möglichen Angriffe vorzubereiten.",
     "perfekt_präteritum": "genommen / nahm",
     "word": "ein|nehmen, nimmt ein, nahm ein, hat eingenommen",
-    "word_query": "einnehmen"
+    "word_query": "einnehmen",
+    "de_example_sentence_fa": "\"دولت جدید هفته آینده کار خود را آغاز خواهد کرد.\nاو برای مقابله با حملات احتمالی، موضع دفاعی اتخاذ کرد.\"",
+    "de_meaning_fa": "\"تصرف کردن\" به معنای تصاحب یا مالکیت چیزی است."
 }

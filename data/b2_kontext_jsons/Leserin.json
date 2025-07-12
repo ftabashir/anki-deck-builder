@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Leserin hat das Buch in einem Zug durchgelesen.\nAls begeisterte Leserin empfiehlt sie dieses historische Roman oft weiter.",
     "perfekt_präteritum": "gelesen / las",
     "word": "Leserin, die, -nen",
-    "word_query": "Leserin"
+    "word_query": "Leserin",
+    "de_example_sentence_fa": "\"خواننده، کتاب را یک‌باره خواند.\"\n\"به عنوان یک خواننده مشتاق، او اغلب این رمان تاریخی را به دیگران پیشنهاد می‌کند.\"",
+    "de_meaning_fa": "خواننده زن است."
 }

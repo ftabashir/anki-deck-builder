@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte füllen Sie den Drucker mit mehr Tinte nach, bevor er wieder ausfällt.\nWir müssen den Vorrat an Kaffee nachfüllen, da er fast aufgebraucht ist.",
     "perfekt_präteritum": "gefüllt / füllte",
     "word": "nach|füllen ",
-    "word_query": "nachfüllen"
+    "word_query": "nachfüllen",
+    "de_example_sentence_fa": "لطفاً قبل از اینکه دوباره خراب شود، جوهر پرینتر را دوباره پر کنید.\n\nباید موجودی قهوه را دوباره پر کنیم، چون تقریباً تمام شده است.",
+    "de_meaning_fa": "به معنای پر کردن دوباره چیزی است که خالی شده."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Firma musste aufgrund der schlechten Wirtschaftslage einige Mitarbeiter einstellen.\nEr hat seinen Job gekündigt und sucht jetzt eine neue Stelle, um sich einstellen zu können.",
     "perfekt_präteritum": "gestellt / stellte",
     "word": "ein|stellen ",
-    "word_query": "einstellen"
+    "word_query": "einstellen",
+    "de_example_sentence_fa": "\"شرکت مجبور شد به دلیل وضعیت نامناسب اقتصادی تعدادی از کارمندان را تعدیل کند.\nاو شغلش را ترک کرد و اکنون دنبال یک موقعیت جدید می‌گردد تا بتواند خود را وفق دهد.\"",
+    "de_meaning_fa": "\"قرار دادن یا استخدام کردن کسی برای مدت زمان یا وظیفه‌ی مشخص.\""
 }

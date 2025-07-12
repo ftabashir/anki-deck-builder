@@ -9,5 +9,7 @@
     "de_example_sentence": "Er hat einen schnellen Sketch des neuen Designs gezeichnet.\nDie Karikatur ist ein humorvoller Sketch des Politikers.",
     "perfekt_präteritum": "gezeichnet / zeichnete",
     "word": "Sketch, der, -e",
-    "word_query": "Sketch"
+    "word_query": "Sketch",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er hat einen schnellen Sketch des neuen Designs gezeichnet.\"\n→ او یک طرح سریع از طرح جدید کشیده است.\n\n\"Die Karikatur ist ein humorvoller Sketch des Politikers.\"\n→ کاریکاتور، یک طرح خنده‌دار از سیاستمدار است.",
+    "de_meaning_fa": "یک طرح، اجرایی کوتاه، خنده‌دار یا هجوآمیز است، اغلب بدون طرح داستانی گسترده."
 }

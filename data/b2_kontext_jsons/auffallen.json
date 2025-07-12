@@ -9,5 +9,7 @@
     "de_example_sentence": "Mir ist aufgefallen, dass er heute Morgen sehr müde aussieht.\nEs ist ihr aufgefallen, dass die Preise im Supermarkt gestiegen sind.",
     "perfekt_präteritum": "aufgefallen / fiel",
     "word": "auf|fallen, fällt auf, fiel auf, ist aufgefallen ",
-    "word_query": "auffallen"
+    "word_query": "auffallen",
+    "de_example_sentence_fa": "\"د نظرم افتاد که امروز صبح خیلی خسته به نظر می‌رسد.\nبه چشمش خورد که قیمت‌ها در سوپرمارکت بالا رفته‌اند.\"",
+    "de_meaning_fa": "\"جلب توجه کردن\" یعنی دیده شدن یا متمایز بودن از دیگران."
 }

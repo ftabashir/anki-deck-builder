@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Ingenieur hat den Fräser für die neue Maschine programmiert.\nWir müssen den Fräser regelmäßig schärfen, um die Präzision zu gewährleisten.",
     "perfekt_präteritum": "gefräst / fräste",
     "word": "Fräser, der, -",
-    "word_query": "Fräser"
+    "word_query": "Fräser",
+    "de_example_sentence_fa": "مهندس فرز را برای دستگاه جدید برنامه ریزی کرد.\nما باید فرز را به طور مرتب تیز کنیم تا دقت حفظ شود.",
+    "de_meaning_fa": "ابزار فرز، ابزاری برای برش مواد مانند چوب یا فلز است."
 }

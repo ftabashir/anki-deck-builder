@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Manager hat die Freigabe für das neue Marketingkonzept erteilt.\nBitte geben Sie die Freigabe für die Zahlungen bis Ende der Woche.",
     "perfekt_präteritum": "gegeben / gab",
     "word": "frei|geben (den Weg freigeben), gibt frei, gab frei, hat freigegeben ",
-    "word_query": "freigeben"
+    "word_query": "freigeben",
+    "de_example_sentence_fa": "\"مدیر مجوز طرح بازاریابی جدید را صادر کرد.\nلطفاً مجوز پرداخت‌ها را تا پایان هفته صادر کنید.\"",
+    "de_meaning_fa": "\"آزاد کردن\" به معنای اجازه دادن یا تأیید کردن چیزی است تا اتفاق بیفتد."
 }

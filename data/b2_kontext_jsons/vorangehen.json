@@ -9,5 +9,7 @@
     "de_example_sentence": "Er möchte mit seiner Forschung neue Wege vorangehen.\nDie neue Strategie soll die Digitalisierung im Unternehmen vorangehen.",
     "perfekt_präteritum": "gegangen / ging",
     "word": "voran|gehen, geht voran, ging voran, ist vorangegangen",
-    "word_query": "vorangehen"
+    "word_query": "vorangehen",
+    "de_example_sentence_fa": "\"Er möchte mit seiner Forschung neue Wege vorangehen.\" → \"او می‌خواهد با تحقیقاتش راه‌های جدیدی را پیش ببرد.\"\n\n\"Die neue Strategie soll die Digitalisierung im Unternehmen vorangehen.\" → \"استراتژی جدید باید دیجیتالی‌سازی را در شرکت پیش ببرد.\"",
+    "de_meaning_fa": "\"پیشقدم شدن\" به معنای انجام دادن یا گفتن چیزی ابتداست تا دیگران هم بتوانند آن را انجام دهند."
 }

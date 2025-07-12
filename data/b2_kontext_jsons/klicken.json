@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss auf den Link klicken, um den Artikel zu lesen.\nBevor du das Formular absendest, überprüfe, ob du alle Felder korrekt geklickt hast.",
     "perfekt_präteritum": "geklickt / klickte",
     "word": "klicken ",
-    "word_query": "klicken"
+    "word_query": "klicken",
+    "de_example_sentence_fa": "\"Ich muss auf den Link klicken, um den Artikel zu lesen.\"\n→ من باید روی لینک کلیک کنم تا مقاله را بخوانم.\n\n\"Bevor du das Formular absendest, überprüfe, ob du alle Felder korrekt geklickt hast.\"\n→ قبل از اینکه فرم را ارسال کنی، بررسی کن که آیا همه فیلدها را درست کلیک کرده‌ای.",
+    "de_meaning_fa": "\"کliko کردن\" به معنای لمس کردن چیزی روی صفحه نمایش یا وب‌سایت با موس یا انگشت است."
 }

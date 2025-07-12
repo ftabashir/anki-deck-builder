@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich finde, Statistik ist ein spannender Teil der Mathematik.\nMeine Schwester studiert Mathematik und Physik an der Universität.",
     "perfekt_präteritum": "",
     "word": "Mathematik, die (Sg.)",
-    "word_query": "Mathematik"
+    "word_query": "Mathematik",
+    "de_example_sentence_fa": "\"Ich finde, Statistik ist ein spannender Teil der Mathematik.\" → من فکر می‌کنم آمار یک بخش جذاب از ریاضیات است.\n\n\"Meine Schwester studiert Mathematik und Physik an der Universität.\" → خواهر من ریاضی و فیزیک را در دانشگاه تحصیل می‌کند.",
+    "de_meaning_fa": "ریاضیات علم محاسبه و اشکال است."
 }

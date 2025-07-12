@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Essen ist noch zu heiß, es muss erst noch abkühlen.\nNach dem Sport ist es wichtig, langsam abzukühlen.",
     "perfekt_präteritum": "geküühlt / kühlte",
     "word": "ab|kühlen ",
-    "word_query": "abkühlen"
+    "word_query": "abkühlen",
+    "de_example_sentence_fa": "\"غذا هنوز خیلی داغه، باید اول خنک بشه.\nبعد از ورزش مهمه که آروم آروم خنک بشی.\"",
+    "de_meaning_fa": "\"خنک شدن\" به معنای سردتر شدن چیزی از حالت گرم یا داغ است."
 }

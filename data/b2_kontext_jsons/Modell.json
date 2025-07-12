@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Unternehmen präsentierte ein neues Modell für Elektroautos.\nSie verwendete ein mathematisches Modell, um die Ausbreitung der Krankheit zu simulieren.",
     "perfekt_präteritum": "modelliert / modellierte",
     "word": "Modell, das, -e",
-    "word_query": "Modell"
+    "word_query": "Modell",
+    "de_example_sentence_fa": "شرکت یک مدل جدید برای خودروهای الکتریکی معرفی کرد.\n\nاو از یک مدل ریاضی برای شبیه‌سازی گسترش بیماری استفاده کرد.",
+    "de_meaning_fa": "یک \"مدل\" بازسازی یا نمونه‌ای از چیزی است."
 }

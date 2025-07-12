@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Passagier beschwerte sich über die Verspätung des Zuges.\nEin Passagier vergaß sein Gepäck im Taxi.",
     "perfekt_präteritum": "",
     "word": "Passagier, der, -e",
-    "word_query": "Passagier"
+    "word_query": "Passagier",
+    "de_example_sentence_fa": "مسافر از تاخیر قطار شکایت کرد.\nیک مسافر چمدانش را در تاکسی جا گذاشت.",
+    "de_meaning_fa": "مسافر کسی است که با یک وسیله نقلیه مانند اتوبوس، قطار یا هواپیما همراه است."
 }

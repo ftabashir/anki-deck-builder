@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Programmierer entwickelte einen effizienten Algorithmus zur Datenanalyse.\nUm die Suchanfrage zu optimieren, wurde ein neuer Algorithmus implementiert.",
     "perfekt_präteritum": "",
     "word": "Algorithmus, der, Algorithmen",
-    "word_query": "Algorithmus"
+    "word_query": "Algorithmus",
+    "de_example_sentence_fa": "برنامه‌نویس یک الگوریتم کارآمد برای تحلیل داده‌ها توسعه داد.\n\nبرای بهینه‌سازی درخواست جستجو، یک الگوریتم جدید پیاده‌سازی شد.",
+    "de_meaning_fa": "یک الگوریتم یک دستورالعمل دقیق و گام به گام برای حل یک مسئله خاص است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss noch die Reparatur am Fahrrad zuzahlen.\nSie musste für das Essen zuzahlen, weil ihr Freund vergessen hatte, Geld mitzunehmen.",
     "perfekt_präteritum": "gezahlt / zahlte",
     "word": "zu|zahlen ",
-    "word_query": "zuzahlen"
+    "word_query": "zuzahlen",
+    "de_example_sentence_fa": "\"Ich muss noch die Reparatur am Fahrrad zuzahlen.\"\n→ \"هنوز باید بقیه هزینه تعمیر دوچرخه رو پرداخت کنم.\"\n\n\"Sie musste für das Essen zuzahlen, weil ihr Freund vergessen hatte, Geld mitzunehmen.\"\n→ \"اون مجبور شد هزینه غذا رو پرداخت کنه، چون دوستش فراموش کرده بود پول بیاره.\"",
+    "de_meaning_fa": "پرداخت بخشی از یک مبلغ یا قیمت است که قبلاً تخفیف خورده است."
 }

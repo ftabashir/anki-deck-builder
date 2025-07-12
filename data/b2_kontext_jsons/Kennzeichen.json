@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Kennzeichen des Autos ist \"BF-XY 123\".\nIch habe das Kennzeichen notiert, falls die Polizei nachforschen muss.",
     "perfekt_präteritum": "",
     "word": "Kennzeichen, das, -",
-    "word_query": "Kennzeichen"
+    "word_query": "Kennzeichen",
+    "de_example_sentence_fa": "\"Das Kennzeichen des Autos ist \"BF-XY 123\".\"\n→ \"شماره پلاک ماشین \"BF-XY 123\" است.\"\n\n\"Ich habe das Kennzeichen notiert, falls die Polizei nachforschen muss.\"\n→ \"پلاک را یادداشت کردم، در صورتی که پلیس نیاز به تحقیق داشته باشد.\"",
+    "de_meaning_fa": "یک پلاک، ترکیبی از اعداد و حروف است که بر روی یک خودرو یا وسیله نقلیه دیگر نصب می‌شود."
 }

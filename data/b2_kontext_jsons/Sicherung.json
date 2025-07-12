@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Sicherung ist rausgesprungen, deshalb funktioniert das Licht nicht.\nIch habe die Sicherung für den Kühlschrank überprüft, aber sie war in Ordnung.",
     "perfekt_präteritum": "gesichert / sicherte",
     "word": "Sicherung, die, -en",
-    "word_query": "Sicherung"
+    "word_query": "Sicherung",
+    "de_example_sentence_fa": "\"The Sicherung is rausgesprungen, deshalb funktioniert das Licht nicht.\"\n→ \"فیوز پریده، به همین دلیل چراغ کار نمی‌کنه.\"\n\n\"Ich habe die Sicherung für den Kühlschrank überprüft, aber sie war in Ordnung.\"\n→ \"فیوز یخچال رو بررسی کردم، ولی سالم بود.\"",
+    "de_meaning_fa": "فیوز وسیله‌ای است که مدار الکتریکی را در صورت اضافه بار قطع می‌کند."
 }

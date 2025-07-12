@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich erhoffe mir von dem Gespräch neue Erkenntnisse für mein Projekt.\nWir erhoffen uns, dass die Verhandlungen bald zu einer Einigung führen.",
     "perfekt_präteritum": "gehofft / hoffte",
     "word": "erhoffen ",
-    "word_query": "erhoffen"
+    "word_query": "erhoffen",
+    "de_example_sentence_fa": "\"Ich erhoffe mir von dem Gespräch neue Erkenntnisse für mein Projekt.\"\n→ امیدوارم از این گفتگو، اطلاعات جدیدی برای پروژه‌ام به دست آورم.\n\n\"Wir erhoffen uns, dass die Verhandlungen bald zu einer Einigung führen.\"\n→ امیدواریم مذاکرات به زودی به توافق برسد.",
+    "de_meaning_fa": "\"امید داشتن\" به این معنی است که شما چیزی را بخواهید و منتظر بمانید تا اتفاق بیفتد."
 }

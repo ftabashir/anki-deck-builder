@@ -9,5 +9,7 @@
     "de_example_sentence": "Die automatische Pflanzenbewässerung hat den Wasserverbrauch im Garten deutlich reduziert.\nFür eine optimale Pflanzenbewässerung sollte man die Bodenfeuchtigkeit regelmäßig überprüfen.",
     "perfekt_präteritum": "This is a noun, not a verb.",
     "word": "Pflanzenbewässerung, die, -en",
-    "word_query": "Pflanzenbewässerung"
+    "word_query": "Pflanzenbewässerung",
+    "de_example_sentence_fa": "\"آبیاری خودکار گیاهان، مصرف آب در باغ را به طور قابل توجهی کاهش داده است.\nبرای آبیاری بهینه گیاهان، باید رطوبت خاک را به طور منظم بررسی کرد.\"",
+    "de_meaning_fa": "آبیاری گیاهان، آبی دادن به گیاهان است."
 }

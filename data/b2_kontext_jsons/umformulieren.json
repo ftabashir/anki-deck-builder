@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meine Antwort umformulieren, weil sie missverständlich war.\nEr bat sie, ihre Idee umzuformulieren, damit alle sie besser verstehen konnten.",
     "perfekt_präteritum": "formuliert / formulierte",
     "word": "um|formulieren ",
-    "word_query": "umformulieren"
+    "word_query": "umformulieren",
+    "de_example_sentence_fa": "\"باید جوابم رو دوباره بازنویسی کنم، چون نامفهوم بود.\nازش خواست که ایده‌اش رو دوباره بازنویسی کنه تا همه بهترش رو بفهمند.\"",
+    "de_meaning_fa": "بازنویسی به معنی بیان چیزی به روش دیگری است، بدون تغییر دادن معنی آن."
 }

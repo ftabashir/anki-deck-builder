@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Gesamtpreis beträgt 50 Euro, zuzüglich Mehrwertsteuer.\nDie Miete für das Apartment beträgt 800 Euro, zuzüglich Nebenkosten.",
     "perfekt_präteritum": "",
     "word": "zuzüglich (zzgl.) ",
-    "word_query": "zuzüglich"
+    "word_query": "zuzüglich",
+    "de_example_sentence_fa": "\"قیمت کل 50 یورو به علاوه مالیات بر ارزش افزوده است.\nاجاره آپارتمان 800 یورو به علاوه هزینه‌های جانبی است.\"",
+    "de_meaning_fa": "\"اضافه\" به این معنی است که چیزی باید به آن اضافه شود."
 }

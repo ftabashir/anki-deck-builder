@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Chirurg musste den Patienten dringend operieren, da die Entzündung sich schnell ausbreitete.\nNach der Operation erholte sich mein Großvater überraschend gut und konnte bald wieder nach Hause.",
     "perfekt_präteritum": "geoperiert / operierte",
     "word": "operieren ",
-    "word_query": "operieren"
+    "word_query": "operieren",
+    "de_example_sentence_fa": "جراح مجبور شد فوراً مریض را عمل کند، چون التهاب به سرعت گسترش یافته بود.\nبعد از عمل، پدربزرگم به طرز غیرمنتظره‌ای خوب روند بهبودی داشت و زودتر از موعد توانست به خانه بازگردد.",
+    "de_meaning_fa": "\"عمل کردن\" به معنی درمان پزشکی یک شخص در بیمارستان است، معمولاً از طریق یک جراحی."
 }

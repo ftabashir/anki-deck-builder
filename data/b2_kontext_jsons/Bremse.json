@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Bremsen quietschten laut, als ich das Auto verlangsamte.\nIch habe die Bremse versehentlich betätigt und bin fast angefahren.",
     "perfekt_präteritum": "gebremst / bremste",
     "word": "Bremse, die, -n",
-    "word_query": "Bremse"
+    "word_query": "Bremse",
+    "de_example_sentence_fa": "\"Die Bremsen quietschten laut, als ich das Auto verlangsamte.\"\n→ ترمزها با صدای بلند نالیدند وقتی ماشین را کند کردم.\n\n\"Ich habe die Bremse versehentlich betätigt und bin fast angefahren.\"\n→ ترمز را ناخواسته فشار دادم و نزدیک بود تصادف کنم.",
+    "de_meaning_fa": "ترمز یک وسیله است که یک وسیله نقلیه را کند یا متوقف می‌کند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Er konnte seine Sorgen nicht aussprechen, weil er Angst vor der Reaktion hatte.\nDie Lehrerin bat die Schüler, ihre Meinungen deutlich auszusprechen.",
     "perfekt_präteritum": "ausgesprochen / sprach",
     "word": "aus|sprechen, spricht aus, sprach aus, hat ausgesprochen ",
-    "word_query": "aussprechen"
+    "word_query": "aussprechen",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er konnte seine Sorgen nicht aussprechen, weil er Angst vor der Reaktion hatte.\"\n**او نتوانست نگرانی‌هایش را بیان کند، چون از واکنش می‌ترسید.**\n\n\"Die Lehrerin bat die Schüler, ihre Meinungen deutlich auszusprechen.\"\n**معلم از دانش‌آموزان خواست نظراتشان را به وضوح بیان کنند.**",
+    "de_meaning_fa": "\"تلفظ کردن\" به معنای گفتن چیزی به صورت بلند و واضح است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Das ist das Buch, das ich dir empfehlen wollte.\nDie Frau, deren Auto gestohlen wurde, ist sehr traurig.",
     "perfekt_präteritum": "",
     "word": "Relativpronomen, das, - / -pronomina ",
-    "word_query": "Relativpronomen"
+    "word_query": "Relativpronomen",
+    "de_example_sentence_fa": "\"این کتابیه که می‌خواستم بهت پیشنهاد بدم.\nزنی که ماشینش دزدیده شده، خیلی ناراحته.\"",
+    "de_meaning_fa": "یک ضمیر موصول، دو جمله را به هم متصل می‌کند و به یک اسم در جمله قبلی اشاره دارد."
 }

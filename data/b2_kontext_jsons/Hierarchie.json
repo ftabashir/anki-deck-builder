@@ -9,5 +9,7 @@
     "de_example_sentence": "Die klare Hierarchie im Unternehmen ermöglichte effiziente Entscheidungen.\nDie Hierarchie in der Familie war traditionell sehr streng, hat sich aber nun gelockert.",
     "perfekt_präteritum": "",
     "word": "Hierarchie, die, -n",
-    "word_query": "Hierarchie"
+    "word_query": "Hierarchie",
+    "de_example_sentence_fa": "\"The clear hierarchy in the company enabled efficient decisions.\" -> \"ساختار سلسله مراتبی مشخص در شرکت، امکان تصمیم‌گیری‌های کارآمد را فراهم کرد.\"\n\n\"The hierarchy in the family was traditionally very strict, but has now loosened.\" -> \"ساختار سلسله مراتبی در خانواده به‌طور سنتی بسیار سختگیرانه بود، اما اکنون کمی نرم‌تر شده است.\"",
+    "de_meaning_fa": "سلسله‌مراتب به معنای یک ترتیب مشخص است که در آن افراد یا چیزها بر اساس اهمیت یا قدرت مرتب شده‌اند."
 }

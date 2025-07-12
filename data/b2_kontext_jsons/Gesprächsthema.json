@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Wetter war ein leichtes Gesprächsthema auf der Party.\nDie schwierige Finanzlage des Unternehmens wurde zu einem unangenehmen Gesprächsthema.",
     "perfekt_präteritum": "",
     "word": "Gesprächsthema, das, -themen",
-    "word_query": "Gesprächsthema"
+    "word_query": "Gesprächsthema",
+    "de_example_sentence_fa": "\"Das Wetter war ein leichtes Gesprächsthema auf der Party.\"\n→ \"هوا یک موضوع گفتگو آسان در مهمانی بود.\"\n\n\"Die schwierige Finanzlage des Unternehmens wurde zu einem unangenehmen Gesprächsthema.\"\n→ \"وضعیت مالی دشوار شرکت به یک موضوع گفتگو ناخوشایند تبدیل شد.\"",
+    "de_meaning_fa": "یک موضوع گفتگو، موضوعی است که بتوان در موردش صحبت کرد."
 }

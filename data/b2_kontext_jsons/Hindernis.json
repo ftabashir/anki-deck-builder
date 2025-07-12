@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Bauprojekt verzögerte sich aufgrund eines unerwarteten Hindernisses im Boden.\nEin Sprachbarriere kann ein Hindernis für eine erfolgreiche internationale Zusammenarbeit darstellen.",
     "perfekt_präteritum": "hindern / hinderte",
     "word": "Hindernis, das, -se",
-    "word_query": "Hindernis"
+    "word_query": "Hindernis",
+    "de_example_sentence_fa": "\"Das Bauprojekt verzögerte sich aufgrund eines unerwarteten Hindernisses im Boden.\"\n→ \"پروژه ساختمانی به دلیل یک مانع غیرمنتظره در زیر زمین به تاخیر افتاد.\"\n\n\"Ein Sprachbarriere kann ein Hindernis für eine erfolgreiche internationale Zusammenarbeit darstellen.\"\n→ \"یک مانع زبانی می‌تواند مانع همکاری بین‌المللی موفق باشد.\"",
+    "de_meaning_fa": "یک مانع چیزی است که می‌تواند شما را متوقف یا مسدود کند."
 }

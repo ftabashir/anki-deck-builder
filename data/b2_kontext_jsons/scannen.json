@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss die Dokumente für meine Bewerbung scannen.\nKannst du bitte den Strichcode mit deinem Handy scannen?",
     "perfekt_präteritum": "gescannt / scannte",
     "word": "scannen ",
-    "word_query": "scannen"
+    "word_query": "scannen",
+    "de_example_sentence_fa": "\"Ich muss die Dokumente für meine Bewerbung scannen.\" - \"باید مدارک درخواست کارم رو اسکن کنم.\"\n\n\"Kannst du bitte den Strichcode mit deinem Handy scannen?\" - \"میشه لطفاً بارکد رو با گوشیت اسکن کنی؟\"",
+    "de_meaning_fa": "اسکن کردن به معنای خواندن چیزی با دستگاهی است، مانند بارکد یا یک سند."
 }

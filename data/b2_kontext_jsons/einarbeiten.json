@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss mich in das neue Projekt noch etwas einarbeiten, bevor ich eigenständig arbeiten kann.\nDer neue Mitarbeiter wird in den nächsten Wochen in die bestehenden Prozesse eingearbeitet.",
     "perfekt_präteritum": "eingearbeitet / bearbeitete",
     "word": "ein|arbeiten ",
-    "word_query": "einarbeiten"
+    "word_query": "einarbeiten",
+    "de_example_sentence_fa": "\"هنوز باید کمی با پروژه جدید آشنا بشم تا بتونم به طور مستقل کار کنم.\nکارمند جدید در چند هفته آینده با فرآیندهای موجود آشنا خواهد شد.\"",
+    "de_meaning_fa": "\"وارد شدن\" به معنای سازگار شدن با چیز جدید و آشنا شدن با آن است."
 }

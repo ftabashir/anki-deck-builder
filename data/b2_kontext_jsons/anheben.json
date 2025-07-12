@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie musste die schwere Kiste anheben, um den Schlüssel darunter zu finden.\nDer Mechaniker versuchte, die beschädigte Motorhaube vorsichtig anzuheben.",
     "perfekt_präteritum": "gehoben / hob",
     "word": "an|heben, hebt an, hob an, hat angehoben ",
-    "word_query": "anheben"
+    "word_query": "anheben",
+    "de_example_sentence_fa": "\"Sie musste die schwere Kiste anheben, um den Schlüssel darunter zu finden.\"\n\n**او مجبور شد جعبه سنگین را بلند کند تا کلید را زیر آن پیدا کند.**\n\n\"Der Mechaniker versuchte, die beschädigte Motorhaube vorsichtig anzuheben.\"\n\n**مکانیک سعی کرد کاپوت آسیب‌دیده را به آرامی بلند کند.**",
+    "de_meaning_fa": "بالا بردن به معنای برداشتن چیزی از روی زمین است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Polizei hat die Unfallstelle gesichert, um weitere Unfälle zu vermeiden.\nNach dem Unfall musste die Unfallstelle für mehrere Stunden gesperrt werden.",
     "perfekt_präteritum": "",
     "word": "Unfallstelle, die, -n",
-    "word_query": "Unfallstelle"
+    "word_query": "Unfallstelle",
+    "de_example_sentence_fa": "\"پلیس محل حادثه را ایمن کرد تا از وقوع حوادث بیشتر جلوگیری کند.\nبعد از حادثه، محل حادثه به مدت چند ساعت مسدود شد.\"",
+    "de_meaning_fa": "محل تصادف، مکانی است که تصادفی در آن رخ داده است."
 }

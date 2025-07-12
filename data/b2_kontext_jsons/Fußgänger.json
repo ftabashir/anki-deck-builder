@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Fußgänger überquerte die Straße an der Ampel.\nEin Fußgänger wurde von einem Auto angefahren.",
     "perfekt_präteritum": "",
     "word": "Fußgänger, der, -",
-    "word_query": "Fußgänger"
+    "word_query": "Fußgänger",
+    "de_example_sentence_fa": "Here's the translation:\n\n\"پیاده‌رو تقاطع را در چراغ راهنمایی رد کرد.\nیک عابر پیاده توسط یک خودرو مورد اصابت قرار گرفت.\"",
+    "de_meaning_fa": "یک عابر پیاده کسی است که پیاده می‌رود."
 }

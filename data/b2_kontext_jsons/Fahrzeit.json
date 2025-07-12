@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Fahrzeit mit dem Zug von Berlin nach München beträgt ungefähr sechs Stunden.\nDie geschätzte Fahrzeit für den Umzug ist leider länger als ursprünglich angenommen.",
     "perfekt_präteritum": "",
     "word": "Fahrzeit, die, -en",
-    "word_query": "Fahrzeit"
+    "word_query": "Fahrzeit",
+    "de_example_sentence_fa": "\"Die Fahrzeit mit dem Zug von Berlin nach München beträgt ungefähr sechs Stunden.\"\n→ \"مدت زمان سفر با قطار از برلین تا مونیخ حدوداً شش ساعت است.\"\n\n\"Die geschätzte Fahrzeit für den Umzug ist leider länger als ursprünglich angenommen.\"\n→ \"مدت زمان تخمینی برای اسباب‌کشی متأسفانه بیشتر از حد انتظار اولیه است.\"",
+    "de_meaning_fa": "زمان سفر، مدت زمانی است که برای یک سفر نیاز است."
 }

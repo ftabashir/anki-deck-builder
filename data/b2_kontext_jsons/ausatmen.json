@@ -9,5 +9,7 @@
     "de_example_sentence": "Nach der anstrengenden Wanderung konnte sie endlich tief ausatmen.\nEr atmete erleichtert aus, als er die bestandene Prüfung sah.",
     "perfekt_präteritum": "geausatmet / atmete aus",
     "word": "aus|atmen ",
-    "word_query": "ausatmen"
+    "word_query": "ausatmen",
+    "de_example_sentence_fa": "\"بعد از پیاده‌روی طاقت‌فرسا بالاخره توانست نفس راحتی کشید.\nوقتی نتیجه‌ی قبولی‌اش را دید، با نفسی راحت بیرون داد.\"",
+    "de_meaning_fa": "\"تنفس بیرون دادن\" به معنای خروج هوا از دهان یا بینی است."
 }

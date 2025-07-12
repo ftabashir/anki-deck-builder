@@ -9,5 +9,7 @@
     "de_example_sentence": "Das LED-Licht in der Küche ist sehr energieeffizient.\nWir haben das alte Halogenlicht durch LED-Licht ersetzt, um Strom zu sparen.",
     "perfekt_präteritum": "",
     "word": "LED-Licht, das, -er",
-    "word_query": "LED-Licht"
+    "word_query": "LED-Licht",
+    "de_example_sentence_fa": "چراغ LED در آشپزخانه خیلی کم‌مصرفه.\nما لامپ هالوژن قدیمی رو با چراغ LED عوض کردیم تا برق کمتری مصرف کنیم.",
+    "de_meaning_fa": "نور LED نوری است که توسط لامپ ویژه ای به نام LED تولید می‌شود."
 }

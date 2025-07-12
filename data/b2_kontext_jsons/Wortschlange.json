@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Präsentation war leider eine Wortschlange, da der Redner ständig abschweifte.\nUm den komplexen Sachverhalt zu erklären, musste er eine Wortschlange vermeiden und präzise formulieren.",
     "perfekt_präteritum": "",
     "word": "Wortschlange, die, -n",
-    "word_query": "Wortschlange"
+    "word_query": "Wortschlange",
+    "de_example_sentence_fa": "\"ارائه متاسفانه تبدیل به یک زنجیره کلام شد، زیرا سخنران مدام از موضوع اصلی منحرف می‌شد.\nبرای توضیح این موضوع پیچیده، او باید از زنجیره کلام اجتناب می‌کرد و دقیق‌تر بیان می‌کرد.\"",
+    "de_meaning_fa": "یک زنجیره کلمات، یک ردیف بامزه از کلمات است که آخرین حرف کلمه قبلی، اولین حرف کلمه بعدی باشد."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Soldat erhielt das Kommando, die Position zu verlassen.\nMit einem Kommando der Marketingabteilung wurde die Kampagne neu gestartet.",
     "perfekt_präteritum": "kommando is not a verb.",
     "word": "Kommando, das, -s",
-    "word_query": "Kommando"
+    "word_query": "Kommando",
+    "de_example_sentence_fa": "سرباز دستور ترک موقعیت را دریافت کرد.\nبا دستوری از بخش بازاریابی، کمپین دوباره راه‌اندازی شد.",
+    "de_meaning_fa": "یک دستور، یک فرمان یا یک دستورالعمل است که باید اجرا شود."
 }

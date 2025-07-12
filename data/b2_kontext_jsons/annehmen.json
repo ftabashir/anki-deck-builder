@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich nehme an, dass das Projekt nächste Woche abgeschlossen wird.\nWir müssen seine Entschuldigung annehmen, obwohl wir misstrauisch sind.",
     "perfekt_präteritum": "angenommen / nahm",
     "word": "an|nehmen, nimmt an, nahm an, hat angenommen ",
-    "word_query": "annehmen"
+    "word_query": "annehmen",
+    "de_example_sentence_fa": "\"من حدس می‌زنم پروژه هفته آینده تکمیل شود.\nما باید عذرخواهی او را بپذیریم، با اینکه شک داریم.\"",
+    "de_meaning_fa": "\"پذیرفتن\" به معنای پذیرش یا به دست گرفتن چیزی است."
 }

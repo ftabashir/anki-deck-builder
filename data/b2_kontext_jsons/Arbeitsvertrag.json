@@ -9,5 +9,7 @@
     "de_example_sentence": "Der neue Mitarbeiter hat seinen Arbeitsvertrag letzte Woche unterschrieben.\nBitte lesen Sie den Arbeitsvertrag sorgfältig durch, bevor Sie ihn annehmen.",
     "perfekt_präteritum": "",
     "word": "Arbeitsvertrag, der, &quot;-e",
-    "word_query": "Arbeitsvertrag"
+    "word_query": "Arbeitsvertrag",
+    "de_example_sentence_fa": "\"کارمند جدید هفته گذشته قرارداد کارش را امضا کرد.\nلطفاً قبل از پذیرش قرارداد کار، آن را با دقت مطالعه کنید.\"",
+    "de_meaning_fa": "قرارداد کار، سندی است که قوانین مربوط به استخدام بین کارفرما و کارمند را مشخص می‌کند."
 }

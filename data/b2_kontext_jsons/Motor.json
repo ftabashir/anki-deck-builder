@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Motor des Autos sprang nicht an, weil die Batterie leer war.\nIch habe gehört, dass der neue Motor des Traktors sehr kraftvoll ist.",
     "perfekt_präteritum": "",
     "word": "Motor, der, -en",
-    "word_query": "Motor"
+    "word_query": "Motor",
+    "de_example_sentence_fa": "\"موتور ماشین روشن نشد، چون باطری خالی بود.\nشنیده‌ام موتور جدید تراکتور خیلی قوی هست.\"",
+    "de_meaning_fa": "یک موتور ماشینی است که حرکت ایجاد می‌کند."
 }

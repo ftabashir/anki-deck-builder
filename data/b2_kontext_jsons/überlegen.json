@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich werde mir überlegen, ob ich deinen Vorschlag annehmen soll.\nSie sollte sich überlegen, welche Konsequenzen ihre Entscheidung haben könnte.",
     "perfekt_präteritum": "geüberlegt / überlegte",
     "word": "überlegen ",
-    "word_query": "überlegen"
+    "word_query": "überlegen",
+    "de_example_sentence_fa": "\"Ich werde mir überlegen, ob ich deinen Vorschlag annehmen soll.\"\n→ \"باید ببینم که آیا پیشنهاد شما را بپذیرم یا نه.\"\n\n\"Sie sollte sich überlegen, welche Konsequenzen ihre Entscheidung haben könnte.\"\n→ \"او باید در نظر بگیرد که تصمیمش چه عواقبی خواهد داشت.\"",
+    "de_meaning_fa": "\"فکر کردن به چیزی و تصمیم گرفتن.\""
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Aktienkurse sind in den letzten Wochen deutlich ansteigen.\nEs wird erwartet, dass die Temperaturen im Sommer allmählich ansteigen werden.",
     "perfekt_präteritum": "gestiegen / stieg",
     "word": "an|steigen, steigt an, stieg an, ist angestiegen ",
-    "word_query": "ansteigen"
+    "word_query": "ansteigen",
+    "de_example_sentence_fa": "بازار سهام در هفته‌های گذشته به طور قابل توجهی افزایش یافته است.\nپیش‌بینی می‌شود که دماها در تابستان به تدریج افزایش یابند.",
+    "de_meaning_fa": "\"افزایش یافتن\" به معنای بالاتر رفتن یا افزایش یافتن است."
 }

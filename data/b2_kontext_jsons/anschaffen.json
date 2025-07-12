@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich möchte mir ein neues Fahrrad anschaffen, da mein altes kaputt ist.\nSie hat sich ein teures Gemälde angeschafft, um ihr Wohnzimmer zu verschönern.",
     "perfekt_präteritum": "geanschafft / schaffte",
     "word": "an|schaffen ",
-    "word_query": "anschaffen"
+    "word_query": "anschaffen",
+    "de_example_sentence_fa": "\"می‌خوام یه دوچرخه جدید بخرم، چون دوچرخه قبلیم خراب شده.\nاون یه تابلوی نقاشی گرون قیمت خرید، تا حال و هوای اتاق نشیمنش رو بهتر کنه.\"",
+    "de_meaning_fa": "\"خریدن یا تهیه کردن را به معناست.\""
 }

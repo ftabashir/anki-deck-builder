@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie hofft, einen Studienplatz an der Universität zu erlangen.\nEr konnte erst nach vielen Versuchen die Erlaubnis erlangen.",
     "perfekt_präteritum": "erlangt / erlangte",
     "word": "erlangen ",
-    "word_query": "erlangen"
+    "word_query": "erlangen",
+    "de_example_sentence_fa": "\"Sie hofft, einen Studienplatz an der Universität zu erlangen.\"\n→ \"او امیدوار است که بتواند در دانشگاه پذیرفته شود.\"\n\n\"Er konnte erst nach vielen Versuchen die Erlaubnis erlangen.\"\n→ \"او فقط بعد از تلاش‌های فراوان توانست مجوز را به دست آورد.\"",
+    "de_meaning_fa": "\"ارلانگن\" به معنای دریافت کردن یا رسیدن است."
 }

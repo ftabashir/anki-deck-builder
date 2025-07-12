@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Vortrag enthielt einen umfangreichen Informationstext über die Auswirkungen des Klimawandels.\nUm das Verfahren zu verstehen, solltest du den zugehörigen Informationstext sorgfältig lesen.",
     "perfekt_präteritum": "",
     "word": "Informationstext, der, -e",
-    "word_query": "Informationstext"
+    "word_query": "Informationstext",
+    "de_example_sentence_fa": "\"سخنرانی شامل یک متن اطلاعاتی گسترده درباره‌ی تأثیرات تغییرات اقلیمی بود.\nبرای درک این فرآیند، باید متن اطلاعاتی مربوطه را با دقت مطالعه کنید.\"",
+    "de_meaning_fa": "یک متن اطلاعاتی متنی است که دانش مربوط به یک موضوع خاص را منتقل می‌کند."
 }

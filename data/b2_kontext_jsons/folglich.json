@@ -9,5 +9,7 @@
     "de_example_sentence": "Es hat stark geregnet, folglich konnten wir nicht wandern.\nDie Firma machte einen großen Verlust, folglich musste Personal gekürzt werden.",
     "perfekt_präteritum": "",
     "word": "folglich ",
-    "word_query": "folglich"
+    "word_query": "folglich",
+    "de_example_sentence_fa": "\"It rained heavily, therefore we couldn't hike.\" → **باران شدید بود، بنابراین نتوانستیم پیاده‌روی کنیم.**\n\n\"The company made a large loss, therefore personnel had to be cut.\" → **شرکت ضرر زیادی کرد، بنابراین مجبور به کاهش پرسنل شدند.**",
+    "de_meaning_fa": "\"بنابراین\" به اندازهٔ \"به همین دلیل\" یا \"پس\" به معناست."
 }

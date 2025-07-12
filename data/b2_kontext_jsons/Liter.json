@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe einen Liter Milch für das Frühstück gekauft.\nDer Arzt hat mir empfohlen, täglich zwei Liter Wasser zu trinken.",
     "perfekt_präteritum": "gelesen / las",
     "word": "Liter, der, -",
-    "word_query": "Liter"
+    "word_query": "Liter",
+    "de_example_sentence_fa": "من یک لیتر شیر برای صبحانه خریدم.\nپزشک به من توصیه کرد که روزانه دو لیتر آب بنوشم.",
+    "de_meaning_fa": "یک لیتر واحدی برای اندازه‌گیری مایعات است، مانند شیر یا آب."
 }

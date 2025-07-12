@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte kreuzen Sie im Antragsformular die gewünschte Option an.\nUm den Fragebogen korrekt auszufüllen, sollten Sie alle relevanten Felder ankreuzen.",
     "perfekt_präteritum": "gekreuzt / kreuzte",
     "word": "an|kreuzen ",
-    "word_query": "ankreuzen"
+    "word_query": "ankreuzen",
+    "de_example_sentence_fa": "لطفاً گزینه مورد نظر خود را در فرم درخواست علامت بزنید.\nبرای تکمیل صحیح پرسشنامه، باید تمام قسمت‌های مرتبط را علامت بزنید.",
+    "de_meaning_fa": "\"علامت‌گذاری\" یعنی زدن یک کادر روی یک فرم یا فهرست با یک علامت ضربدر."
 }

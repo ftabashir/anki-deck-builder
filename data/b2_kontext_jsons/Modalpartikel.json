@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Aussage wirkt etwas unsicher, weil er eine Modalpartikel verwendet hat.\nEr hat es zwar versucht, aber eine Modalpartikel deutet an, dass er nicht ganz überzeugt ist.",
     "perfekt_präteritum": "",
     "word": "Modalpartikel, das / der, - ",
-    "word_query": "Modalpartikel"
+    "word_query": "Modalpartikel",
+    "de_example_sentence_fa": "\"اظهار نظرش کمی نامطمئن به نظر می‌رسد، چون از یک ذره‌ای مودال استفاده کرده است.\nاگرچه سعی کرد، استفاده از یک ذره‌ای مودال نشان می‌دهد که کاملاً مطمئن نیست.\"",
+    "de_meaning_fa": "واژه‌های کمکی کلمات کوچکی هستند که جملات را تغییر می‌دهند، بدون اینکه معنای اصلی را تحت تاثیر قرار دهند، بلکه بیشتر روش بیان را تغییر می‌دهند."
 }

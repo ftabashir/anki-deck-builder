@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe mir beim Skifahren das Knie verletzt.\nSie streckte ihre Knie, um die Dehnung zu spüren.",
     "perfekt_präteritum": "gebückt / bückte",
     "word": "Knie, das, -",
-    "word_query": "Knie"
+    "word_query": "Knie",
+    "de_example_sentence_fa": "\"Ich habe mir beim Skifahren das Knie verletzt.\" - \"زانویم را در حین اسکی آسیب دیدم.\"\n\n\"Sie streckte ihre Knie, um die Dehnung zu spüren.\" - \"او زانوهایش را صاف کرد تا کشش را حس کند.\"",
+    "de_meaning_fa": "زانو مفصل است، جایی که ران و ساق پا به هم می‌رسند."
 }

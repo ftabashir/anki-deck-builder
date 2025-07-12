@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Auto ließ er schnell hochfahren, um den Stau zu überholen.\nNach der Reparatur ließ die Werkstatt das Flugzeug wieder hochfahren.",
     "perfekt_präteritum": "gefahren / fuhr",
     "word": "hoch|fahren, fährt hoch, fuhr hoch, hat hochgefahren",
-    "word_query": "hochfahren"
+    "word_query": "hochfahren",
+    "de_example_sentence_fa": "\"ماشین را سریع بالا داد تا ترافیک را جا بزند.\nکارگاه پس از تعمیر، هواپیما را دوباره بالا داد.\"",
+    "de_meaning_fa": "\"روشن کردن\" به معنی شروع کردن یا به حرکت درآوردن چیزی است، مانند یک خودرو یا یک دستگاه."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich benötige Ihre Zustimmung, um den Vertrag zu unterzeichnen.\nOhne die Zustimmung des Vorstands kann das Projekt nicht starten.",
     "perfekt_präteritum": "",
     "word": "Zustimmung, die, -en",
-    "word_query": "Zustimmung"
+    "word_query": "Zustimmung",
+    "de_example_sentence_fa": "\"Ich benötige Ihre Zustimmung, um den Vertrag zu unterzeichnen.\" → \"برای امضای قرارداد، به تایید شما نیاز دارم.\"\n\n\"Ohne die Zustimmung des Vorstands kann das Projekt nicht starten.\" → \"بدون تایید هیئت مدیره، پروژه نمی‌تواند شروع شود.\"",
+    "de_meaning_fa": "\"موافقت\" به این معنی است که شما با چیزی موافق هستید."
 }

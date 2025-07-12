@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Apfel fällt vom Baum runterfallen.\nIch habe mein Handy runterfallen lassen, jetzt ist es kaputt.",
     "perfekt_präteritum": "heruntergefallen / fiel herunter",
     "word": "runter|fallen, fällt runter, fiel runter, ist runtergefallen",
-    "word_query": "runterfallen"
+    "word_query": "runterfallen",
+    "de_example_sentence_fa": "\"سیب از درخت میوفتاد.\nگوشی‌ام افتاد، حالا خراب شده.\"",
+    "de_meaning_fa": "\"افتادن\" به معنی این است که چیزی به سمت پایین می‌افتد."
 }

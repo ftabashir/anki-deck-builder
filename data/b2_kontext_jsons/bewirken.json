@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neuen Maßnahmen werden eine Verbesserung der Verkehrssicherheit bewirken.\nDie Verhandlungen bewirkten eine deutliche Reduzierung der Emissionen.",
     "perfekt_präteritum": "gebewirkt / bewirkte",
     "word": "bewirken ",
-    "word_query": "bewirken"
+    "word_query": "bewirken",
+    "de_example_sentence_fa": "\"Die neuen Maßnahmen werden eine Verbesserung der Verkehrssicherheit bewirken.\"\n→ \"اقدامات جدید، ایمنی ترافیک را بهبود می‌بخشند.\"\n\n\"Die Verhandlungen bewirkten eine deutliche Reduzierung der Emissionen.\"\n→ \"مذاکرات، کاهش قابل توجهی در انتشار آلاینده‌ها ایجاد کردند.\"",
+    "de_meaning_fa": "\"به معنی ایجاد کردن یا باعث شدن است.\""
 }

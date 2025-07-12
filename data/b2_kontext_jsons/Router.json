@@ -9,5 +9,7 @@
     "de_example_sentence": "Mein neuer Router hat eine viel bessere WLAN-Abdeckung als der alte.\nWir müssen den Router zurücksetzen, damit das Internet wieder funktioniert.",
     "perfekt_präteritum": "",
     "word": "Router, der, -",
-    "word_query": "Router"
+    "word_query": "Router",
+    "de_example_sentence_fa": "\"رتر جدید من پوشش وای‌فای بهتری نسبت به مدل قبلی دارد.\nما باید رتر را ریست کنیم تا اینترنت دوباره کار کند.\"",
+    "de_meaning_fa": "یک روتر دستگاهی است که داده‌ها را بین شبکه خانگی شما و اینترنت توزیع می‌کند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Das deutsche Sprachsystem hat sich über Jahrhunderte durch verschiedene Einflüsse entwickelt.\nDie Komplexität des Sprachsystems macht es für Deutschlerner eine große Herausforderung.",
     "perfekt_präteritum": "",
     "word": "Sprachsystem, das, -e",
-    "word_query": "Sprachsystem"
+    "word_query": "Sprachsystem",
+    "de_example_sentence_fa": "\"The German language system has developed over centuries through various influences.\"\n\n\"Das deutsche Sprachsystem hat sich über Jahrhunderte durch verschiedene Einflüsse entwickelt.\"\n→ \"سیستم زبانی آلمانی در طول قرن‌ها از طریق تأثیرات مختلف تکامل یافته است.\"\n\n\"The complexity of the language system makes it a great challenge for German learners.\"\n\n\"Die Komplexität des Sprachsystems macht es für Deutschlerner eine große Herausforderung.\"\n→ \"پیچیدگی این سیستم زبانی، یادگیری زبان آلمانی را برای زبان‌آموزان به یک چالش بزرگ تبدیل می‌کند.\"",
+    "de_meaning_fa": "یک سیستم زبانی مانند مجموعه‌ای از قوانین است که تعیین می‌کند کلمات در یک زبان چگونه برای ساختن جملات با هم ترکیب شوند."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Zahlencode für die Tresor ist sehr lang und schwer zu merken.\nBitte geben Sie den Zahlencode genau so ein, wie er Ihnen mitgeteilt wurde.",
     "perfekt_präteritum": "",
     "word": "Zahlencode, der, -s",
-    "word_query": "Zahlencode"
+    "word_query": "Zahlencode",
+    "de_example_sentence_fa": "\"کد امنیتی گاوصندوق خیلی طولانی و به خاطر سپردن آن سخت است.\nلطفاً کد امنیتی را دقیقاً همان‌طور که به شما گفته شده است، وارد کنید.\"",
+    "de_meaning_fa": "یک کد عددی، دنباله‌ای از اعداد است که نشان‌دهنده چیز دیگری است."
 }

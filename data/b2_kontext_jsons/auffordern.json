@@ -9,5 +9,7 @@
     "de_example_sentence": "Er forderte sie auf, ihm die Wahrheit zu sagen.\nDie Behörden forderten die Bürger auf, sich an die neuen Sicherheitsvorkehrungen zu halten.",
     "perfekt_präteritum": "gefordert / forderte",
     "word": "auf|fordern ",
-    "word_query": "auffordern"
+    "word_query": "auffordern",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er forderte sie auf, ihm die Wahrheit zu sagen.\" → **او از او خواست که حقیقت را به او بگوید.**\n\n\"Die Behörden forderten die Bürger auf, sich an die neuen Sicherheitsvorkehrungen zu halten.\" → **اداره‌ها از شهروندان خواستند که به تدابیر امنیتی جدید پایبند باشند.**",
+    "de_meaning_fa": "\"Auffordern\" به معنای درخواست یا مطالبه کردن چیزی از کسی است."
 }

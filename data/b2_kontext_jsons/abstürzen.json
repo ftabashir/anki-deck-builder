@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Flugzeug musste aufgrund eines technischen Defekts abstürzen.\nDie Aktienkurse sind nach der schlechten Unternehmensbilanz abgestürzt.",
     "perfekt_präteritum": "abgestürzt / stürzte",
     "word": "ab|stürzen ",
-    "word_query": "abstürzen"
+    "word_query": "abstürzen",
+    "de_example_sentence_fa": "\"هواپیما به دلیل نقص فنی مجبور به سقوط شد.\nقیمت سهام پس از انتشار گزارش مالی ضعیف شرکت سقوط کرد.\"",
+    "de_meaning_fa": "\"زوال\" به معنای افتادن ناگهانی و شدید به سمت پایین است."
 }

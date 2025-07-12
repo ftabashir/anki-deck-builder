@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Veranstaltung fiel aufgrund von schlechtem Wetter aus, infolgedessen konnten viele Besucher nicht teilnehmen.\nEr hatte sich erkältet, infolgedessen musste er das wichtige Meeting absagen.",
     "perfekt_präteritum": "",
     "word": "infolgedessen ",
-    "word_query": "infolgedessen"
+    "word_query": "infolgedessen",
+    "de_example_sentence_fa": "\"واکنش به دلیل آب‌وهوای نامساعد کنسل شد، در نتیجه بسیاری از بازدیدکنندگان نتوانستند در آن شرکت کنند.\nاو سرما خورده بود، در نتیجه مجبور شد جلسه مهم را کنسل کند.\"",
+    "de_meaning_fa": "بنابراین به اندازهٔ \"بنابراین\" یا \"به همین دلیل\" به معناست."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich konnte die Ergebnisse im Diagramm gut ablesen.\nDer Bericht ließ sich leicht ablesen, obwohl die Schrift klein war.",
     "perfekt_präteritum": "gesessen / saß",
     "word": "ab|lesen, liest ab, las ab, hat abgelesen ",
-    "word_query": "ablesen"
+    "word_query": "ablesen",
+    "de_example_sentence_fa": "\"Ich konnte die Ergebnisse im Diagramm gut ablesen.\" → من توانستم نتایج نمودار را به خوبی بخوانم.\n\n\"Der Bericht ließ sich leicht ablesen, obwohl die Schrift klein war.\" → گزارش را به راحتی می‌توانست خواند، با اینکه فونت آن ریز بود.",
+    "de_meaning_fa": "\"خواندن\" به معنای استخراج اطلاعات از چیزی است، مانند خواندن اعداد از یک وسیله اندازه‌گیری."
 }

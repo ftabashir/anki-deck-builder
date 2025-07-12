@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Lösungszahl der Gleichung ist vier, was bedeutet, dass es vier mögliche Werte für x gibt.\nUm die Lösungszahl zu bestimmen, muss man zunächst die quadratische Formel anwenden.",
     "perfekt_präteritum": "",
     "word": "Lösungszahl, die, -en",
-    "word_query": "Lösungszahl"
+    "word_query": "Lösungszahl",
+    "de_example_sentence_fa": "\"تعداد جواب‌های معادله چهار است، به این معنی که چهار مقدار ممکن برای x وجود دارد.\nبرای تعیین تعداد جواب‌ها، ابتدا باید فرمول درجه دوم را اعمال کرد.\"",
+    "de_meaning_fa": "یک عدد جواب، عددی است که از طریق حل یک معادله ریاضی بدست می‌آید."
 }

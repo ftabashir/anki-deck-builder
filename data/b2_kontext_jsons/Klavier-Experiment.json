@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Konzert war ein unerwartetes Klavier-Experiment, das einige Zuhörer faszinierte.\nDie Wissenschaftler führten ein Klavier-Experiment durch, um die akustischen Eigenschaften des Saals zu analysieren.",
     "perfekt_präteritum": "",
     "word": "Klavier-Experiment, das, -e",
-    "word_query": "Klavier-Experiment"
+    "word_query": "Klavier-Experiment",
+    "de_example_sentence_fa": "\"The Konzert war ein unerwartetes Klavier-Experiment, das einige Zuhörer faszinierte.\"\n→ کنسرت یک آزمایش غیرمنتظره پیانو بود که برخی از شنوندگان را مجذوب کرد.\n\n\"Die Wissenschaftler führten ein Klavier-Experiment durch, um die akustischen Eigenschaften des Saals zu analysieren.\"\n→ دانشمندان یک آزمایش پیانو انجام دادند تا ویژگی‌های آکوستیک سالن را تجزیه و تحلیل کنند.",
+    "de_meaning_fa": "یک آزمایش پیانو، قطعه یا اجرایی است که در آن با پیانو به شیوه‌ای غیرمعمول یا خلاقانه آزمایش می‌شود."
 }

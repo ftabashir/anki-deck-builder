@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss noch schnell ein paar Aufgaben rechnen, bevor ich nach Hause gehe.\nKönnen wir bitte gemeinsam überlegen und rechnen, wie wir das Projekt finanzieren können?",
     "perfekt_präteritum": "gerechnet / rechnete",
     "word": "rechnen (mit + D.) ",
-    "word_query": "rechnen"
+    "word_query": "rechnen",
+    "de_example_sentence_fa": "\"Ich muss noch schnell ein paar Aufgaben rechnen, bevor ich nach Hause gehe.\"\n→ باید چند تا مسئله رو سریع حل کنم قبل از اینکه برم خونه.\n\n\"Können wir bitte gemeinsam überlegen und rechnen, wie wir das Projekt finanzieren können?\"\n→ میشه لطفا با هم فکر کنیم و حساب کنیم که چطور می‌تونیم پروژه رو تامین مالی کنیم؟",
+    "de_meaning_fa": "\"محاسبه\" به معنای حل مسائل ریاضی یا کار با اعداد است."
 }

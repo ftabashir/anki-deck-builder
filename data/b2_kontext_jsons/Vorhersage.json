@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Wettervorhersage für morgen deutet auf Regen hin.\nDie Wirtschaftsexperten haben eine pessimistische Vorhersage für das nächste Quartal abgegeben.",
     "perfekt_präteritum": "gevorwortet / vorworte",
     "word": "Vorhersage, die, -n",
-    "word_query": "Vorhersage"
+    "word_query": "Vorhersage",
+    "de_example_sentence_fa": "\"پیش‌بینی هواشناسی برای فردا نشان‌دهنده بارش است.\nمتخصصان اقتصادی پیش‌بینی منفی برای سه‌ماهه آینده ارائه داده‌اند.\"",
+    "de_meaning_fa": "یک پیش‌بینی، حدسی است درباره آنچه در آینده اتفاق خواهد افتاد."
 }

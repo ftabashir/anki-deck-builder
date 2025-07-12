@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Arzt stellte eine eindeutige Diagnose und verschrieb sofort eine Behandlung.\nNach eingehenden Untersuchungen konnte eine genaue Diagnose gestellt werden.",
     "perfekt_präteritum": "diagnostiziert / diagnostizierte",
     "word": "Diagnose, die, -n",
-    "word_query": "Diagnose"
+    "word_query": "Diagnose",
+    "de_example_sentence_fa": "پزشک تشخیص قطعی گذاشت و بلافاصله درمان تجویز کرد.\nپس از بررسی‌های دقیق، تشخیص دقیقی صورت گرفت.",
+    "de_meaning_fa": "تشخیص، توضیح می‌دهد که چه عاملی باعث بیماری یک فرد شده است."
 }

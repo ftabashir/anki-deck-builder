@@ -9,5 +9,7 @@
     "de_example_sentence": "Es wird erwartet, dass sich nächste Woche ein großes Konzert in der Stadt ereignet.\nAufgrund unerwarteter Umstände hat sich die geplante Reise leider nicht ereignen können.",
     "perfekt_präteritum": "ist passiert / ereignete sich",
     "word": "ereignen (sich) ",
-    "word_query": "ereignen"
+    "word_query": "ereignen",
+    "de_example_sentence_fa": "\"موقعیت دارد که هفته آینده یک کنسرت بزرگ در شهر برگزار شود.\nبه دلیل شرایط پیش‌بینی نشده، متأسفانه سفر برنامه‌ریزی‌شده نتوانسته برگزار شود.\"",
+    "de_meaning_fa": "\"Ereignen\" به معنای این است که چیزی اتفاق می‌افتد یا رخ می‌دهد."
 }

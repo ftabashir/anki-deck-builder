@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich musste den Mülleimer komplett ausleeren, weil er überquoll.\nDer Kellner bat mich, meinen Teller ausleeren, bevor ich ging.",
     "perfekt_präteritum": "ausgeleert / leerte",
     "word": "aus|leeren ",
-    "word_query": "ausleeren"
+    "word_query": "ausleeren",
+    "de_example_sentence_fa": "\"من مجبور شدم سطل آشغال را کاملاً خالی کنم، چون پر شده بود.\nخدمتکار از من خواست قبل از رفتن بشقابم را خالی کنم.\"",
+    "de_meaning_fa": "\"خالی کردن\" به معنی خالی ساختن چیزی است، مثلاً یک سطل یا یک حساب کاربری."
 }

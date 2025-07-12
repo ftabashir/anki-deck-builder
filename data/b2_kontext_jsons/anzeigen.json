@@ -9,5 +9,7 @@
     "de_example_sentence": "Er hat die gestohlene Jacke bei der Polizei angezeigt.\nSie möchte eine Immobilienanzeige in der Zeitung schalten.",
     "perfekt_präteritum": "gezeigt / zeigte",
     "word": "an|zeigen ",
-    "word_query": "anzeigen"
+    "word_query": "anzeigen",
+    "de_example_sentence_fa": "او ژاکت دزدیده شده را به پلیس گزارش داد.\nاو می‌خواهد یک آگهی املاک در روزنامه چاپ کند.",
+    "de_meaning_fa": "گزارش دادن چیزی یا کسی به پلیس را \"اعلام\" می‌گویند."
 }

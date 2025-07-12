@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Fahrtdauer mit dem Zug von Berlin nach München beträgt ungefähr 4 Stunden.\nDie angegebene Fahrtdauer beinhaltete unerwartete Verspätungen, sodass wir zu spät am Zielort ankamen.",
     "perfekt_präteritum": "",
     "word": "Fahrtdauer, die (Sg.)",
-    "word_query": "Fahrtdauer"
+    "word_query": "Fahrtdauer",
+    "de_example_sentence_fa": "\"مدت زمان سفر با قطار از برلین تا مونیخ تقریباً 4 ساعت است.\nمدت زمان سفر اعلام شده شامل تأخیرهای غیرمنتظره بود، به همین دلیل ما دیر به مقصد رسیدیم.\"",
+    "de_meaning_fa": "مدت زمان سفر، زمانی است که برای طی کردن یک مسیر نیاز است."
 }

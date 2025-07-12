@@ -9,5 +9,7 @@
     "de_example_sentence": "Bitte geben Sie Ihre Versicherungsnummer für die Schadensmeldung an.\nUm das Formular auszufüllen, benötigen wir Ihre Versicherungsnummer und Ihr Geburtsdatum.",
     "perfekt_präteritum": "",
     "word": "Versicherungsnummer, die, -n",
-    "word_query": "Versicherungsnummer"
+    "word_query": "Versicherungsnummer",
+    "de_example_sentence_fa": "لطفاً شماره بیمه خود را برای اعلام خسارت ذکر کنید.\nبرای تکمیل فرم، به شماره بیمه و تاریخ تولد شما نیاز داریم.",
+    "de_meaning_fa": "شماره بیمه، یک کد شناسایی شخصی است که توسط سازمان بیمه شما به شما اختصاص داده می‌شود."
 }

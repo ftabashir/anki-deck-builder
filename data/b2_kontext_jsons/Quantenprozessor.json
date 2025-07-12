@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Forscher arbeiten an der Entwicklung eines leistungsfähigeren Quantenprozessors.\nEin Quantenprozessor könnte in Zukunft komplexe Probleme lösen, die für herkömmliche Computer unmöglich sind.",
     "perfekt_präteritum": "",
     "word": "Quantenprozessor, der, -en",
-    "word_query": "Quantenprozessor"
+    "word_query": "Quantenprozessor",
+    "de_example_sentence_fa": "\"محققان در حال توسعه یک پردازنده کوانتومی قدرتمندتر هستند.\nیک پردازنده کوانتومی ممکن است در آینده بتواند مسائل پیچیده‌ای را حل کند که برای کامپیوترهای سنتی غیرممکن است.\"",
+    "de_meaning_fa": "یک پردازشگر کوانتومی، یک کامپیوتر ویژه است که بر اساس قوانین مکانیک کوانتومی کار می‌کند."
 }

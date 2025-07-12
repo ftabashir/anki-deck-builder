@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Projekt liegt momentan auf einem kritischen Level.\nUm das nächste Level im Spiel zu erreichen, muss man alle Rätsel lösen.",
     "perfekt_präteritum": "gleichen / ähnelte",
     "word": "Level, das, -",
-    "word_query": "Level"
+    "word_query": "Level",
+    "de_example_sentence_fa": "\"Das Projekt liegt momentan auf einem kritischen Level.\" → پروژه در حال حاضر در سطح بحرانی قرار دارد.\n\n\"Um das nächste Level im Spiel zu erreichen, muss man alle Rätsel lösen.\" → برای رسیدن به سطح بعدی در بازی، باید تمام معماها را حل کرد.",
+    "de_meaning_fa": "\"Level\" تقریباً به معنی درجه یا سطح دشواری است."
 }

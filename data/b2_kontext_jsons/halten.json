@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich halte es für wichtig, sich über die neuen Gesetze zu informieren.\nEr hat sich entschieden, die Firma zu halten, obwohl es schwierig ist.",
     "perfekt_präteritum": "gehalten / hielt",
     "word": "halten, hält, hielt, hat gehalten (für immer halten) ",
-    "word_query": "halten"
+    "word_query": "halten",
+    "de_example_sentence_fa": "\"Ich halte es für wichtig, sich über die neuen Gesetze zu informieren.\"\n→ \"به‌نظر من اطلاع‌رسانی در مورد قوانین جدید مهم است.\"\n\n\"Er hat sich entschieden, die Firma zu halten, obwohl es schwierig ist.\"\n→ \"او تصمیم گرفت شرکت را حفظ کند، با اینکه کار دشواری است.\"",
+    "de_meaning_fa": "\"Halten\" به معنای در آغوش گرفتن یا محکم نگه داشتن چیزی است."
 }

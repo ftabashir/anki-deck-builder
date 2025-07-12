@@ -9,5 +9,7 @@
     "de_example_sentence": "Das neue Auto verfügt über ein ausgeklügeltes Assistenzsystem zur Verkehrszeichenerkennung.\nDie Implementierung des Assistenzsystems in der Produktion verlief zunächst holprig.",
     "perfekt_präteritum": "",
     "word": "Assistenzsystem, das, -e",
-    "word_query": "Assistenzsystem"
+    "word_query": "Assistenzsystem",
+    "de_example_sentence_fa": "\"خودروی جدید دارای یک سیستم کمک‌راننده پیشرفته برای تشخیص علائم راهنمایی و رانندگی است.\nاجرای سیستم کمک‌راننده در خط تولید در ابتدا با مشکلاتی همراه بود.\"",
+    "de_meaning_fa": "یک سیستم کمکی، تکنیکی است که به شما در رانندگی یا انجام کارهای دیگر کمک می‌کند، اما کار اصلی را برای شما انجام نمی‌دهد."
 }

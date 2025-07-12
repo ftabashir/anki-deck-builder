@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss herausfinden, wie ich das komplizierte Problem lösen kann.\nWir müssen herausfinden, warum die Verbindung immer wieder abbricht.",
     "perfekt_präteritum": "gefunden / fand",
     "word": "heraus|finden, findet heraus, fand heraus, hat herausgefunden ",
-    "word_query": "herausfinden"
+    "word_query": "herausfinden",
+    "de_example_sentence_fa": "\"Ich muss herausfinden, wie ich das komplizierte Problem lösen kann.\"\n→ باید بفهمم چطور می توانم این مسئله‌ی پیچیده را حل کنم.\n\n\"Wir müssen herausfinden, warum die Verbindung immer wieder abbricht.\"\n→ باید بفهمیم چرا اتصال دائماً قطع می‌شود.",
+    "de_meaning_fa": "\"کشف کردن\" به معنای کشف یا به دست آوردن چیزی از طریق جستجو یا تفکر است."
 }

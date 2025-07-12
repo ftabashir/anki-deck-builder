@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meine Applikationen regelmäßig updaten, um Sicherheitslücken zu schließen.\nWir haben die Website komplett updaten lassen, um ein moderneres Design zu haben.",
     "perfekt_präteritum": "aktualisiert / aktualisierte",
     "word": "updaten ",
-    "word_query": "updaten"
+    "word_query": "updaten",
+    "de_example_sentence_fa": "\"Ich muss meine Applikationen regelmäßig updaten, um Sicherheitslücken zu schließen.\"\n\n> من باید اپلیکیشن‌هایم را به‌طور منظم به‌روزرسانی کنم تا حفره‌های امنیتی را برطرف کنم.\n\n\"Wir haben die Website komplett updaten lassen, um ein moderneres Design zu haben.\"\n\n> ما کل وب‌سایت را به‌طور کامل به‌روزرسانی کردیم تا طراحی مدرن‌تری داشته باشیم.",
+    "de_meaning_fa": "\"به‌روزرسانی کردن\" یعنی به‌روز کردن یا بهتر کردن چیزی."
 }

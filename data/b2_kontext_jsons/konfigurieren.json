@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich muss meinen neuen Computer noch konfigurieren, bevor ich ihn nutzen kann.\nDer Ingenieur konfigurierte das System anhand der Kundenwünsche.",
     "perfekt_präteritum": "konfiguriert / konfigurierte",
     "word": "konfigurieren ",
-    "word_query": "konfigurieren"
+    "word_query": "konfigurieren",
+    "de_example_sentence_fa": "\"من هنوز باید کامپیوتر جدیدم را پیکربندی کنم قبل از اینکه بتوانم از آن استفاده کنم.\nمهندس سیستم را بر اساس خواسته‌های مشتری پیکربندی کرد.\"",
+    "de_meaning_fa": "\"پیکربندی\" به معنای تنظیم یا کنار هم قرار دادن چیزی است تا دقیقا مطابق با خواسته‌های شما باشد."
 }

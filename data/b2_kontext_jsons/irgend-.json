@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe irgendetwas vergessen, aber ich weiß nicht genau was.\nSie hat irgendwann Zeit, um mich anzurufen, aber ich warte noch.",
     "perfekt_präteritum": "irgend- is not a verb.",
     "word": "irgend- ",
-    "word_query": "irgend-"
+    "word_query": "irgend-",
+    "de_example_sentence_fa": "\"چیزی را فراموش کرده‌ام، اما نمی‌دانم دقیقاً چیست.\nاو در یک زمان قرار ملاقاتی برای تماس با من دارد، اما من هنوز منتظرم.\"",
+    "de_meaning_fa": "\"اِرگِنْد\" به معنای \"کمی\" یا \"تقریباً\" است."
 }

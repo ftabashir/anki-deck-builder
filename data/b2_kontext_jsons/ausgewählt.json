@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Jury hat die drei besten Kandidaten ausgewählt.\nIch habe mir ein neues Buch aus der Bibliothek ausgewählt.",
     "perfekt_präteritum": "ausgewählt / wählte",
     "word": "ausgewählt ",
-    "word_query": "ausgewählt"
+    "word_query": "ausgewählt",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Die Jury hat die drei besten Kandidaten ausgewählt.\" → هیئت داوران سه نامزد برتر را انتخاب کرد.\n\n\"Ich habe mir ein neues Buch aus der Bibliothek ausgewählt.\" → یک کتاب جدید از کتابخانه انتخاب کردم.",
+    "de_meaning_fa": "\"انتخاب‌شده\" به این معنی است که چیزی یا کسی برای یک هدف مشخص یا از میان گروهی انتخاب شده است."
 }

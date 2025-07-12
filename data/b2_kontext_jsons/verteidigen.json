@@ -9,5 +9,7 @@
     "de_example_sentence": "Er musste seine Doktorarbeit vor dem Prüfungsausschuss verteidigen.\nDie Anwälte versuchten, ihren Mandanten wegen fehlender Beweise zu verteidigen.",
     "perfekt_präteritum": "verteidigt / verteidigte",
     "word": "verteidigen ",
-    "word_query": "verteidigen"
+    "word_query": "verteidigen",
+    "de_example_sentence_fa": "Here are the translations:\n\n\"Er musste seine Doktorarbeit vor dem Prüfungsausschuss verteidigen.\"\n→  او باید پایان‌نامه دکتری‌اش را در برابر کمیته‌ی ارزیابی دفاع می‌کرد.\n\n\"Die Anwälte versuchten, ihren Mandanten wegen fehlender Beweise zu verteidigen.\"\n→  وکیل‌ها تلاش کردند موکل خود را به دلیل نبودن مدارک، دفاع کنند.",
+    "de_meaning_fa": "\"دفاع کردن\" به معنای محافظت از چیزی یا کسی در برابر آسیب یا حمله است."
 }

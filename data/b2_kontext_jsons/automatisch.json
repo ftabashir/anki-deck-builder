@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Bewässerung im Garten wird automatisch durch einen Zeitschaltuhren gesteuert.\nDer Bericht wurde automatisch generiert, nachdem alle Daten eingegeben wurden.",
     "perfekt_präteritum": "",
     "word": "automatisch ",
-    "word_query": "automatisch"
+    "word_query": "automatisch",
+    "de_example_sentence_fa": "آبیاری باغ به صورت خودکار توسط تایمر کنترل می‌شود.\nگزارش به‌طور خودکار تولید شد، پس از اینکه تمام داده‌ها وارد شدند.",
+    "de_meaning_fa": "\"خودکار\" به این معنی است که چیزی بدون هیچ تلاشی اتفاق می‌افتد."
 }

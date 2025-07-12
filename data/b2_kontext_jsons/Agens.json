@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Agens in dieser Reaktion ist der Katalysator.\nDie Analyse des Agens ermöglichte Rückschlüsse auf den Mechanismus.",
     "perfekt_präteritum": "",
     "word": "Agens, das, -",
-    "word_query": "Agens"
+    "word_query": "Agens",
+    "de_example_sentence_fa": "\"The Agens in dieser Reaktion ist der Katalysator.\" → \"عامل در این واکنش کاتالیزور است.\"\n\n\"Die Analyse des Agens ermöglichte Rückschlüsse auf den Mechanismus.\" → \"تجزیه و تحلیل عامل، نتیجه‌گیری در مورد مکانیسم را ممکن ساخت.\"",
+    "de_meaning_fa": "کنش‌گر، نهاد جمله‌ای است که عمل را انجام می‌دهد."
 }

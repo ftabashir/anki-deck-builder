@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Zuckerwürfel lösten sich langsam im heißen Tee auf.\nDie Versammlung wurde aufgrund des Schneefalls kurzfristig aufgelöst.",
     "perfekt_präteritum": "gelöst / löste",
     "word": "auf|lösen ",
-    "word_query": "auflösen"
+    "word_query": "auflösen",
+    "de_example_sentence_fa": "قندها به آرامی در چای داغ حل شدند.\nجلسه به دلیل بارش برف به طور ناگهانی منحل شد.",
+    "de_meaning_fa": "حل کردن به معنی از بین بردن چیزی یا تغییر دادن آن به چیز دیگری است."
 }

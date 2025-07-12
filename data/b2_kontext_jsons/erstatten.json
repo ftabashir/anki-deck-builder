@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Firma wird die entstandenen Schäden vollständig erstatten.\nBitte erstatten Sie mir die Kosten für die Zugfahrt.",
     "perfekt_präteritum": "ge(r)stattet / stattete",
     "word": "erstatten ",
-    "word_query": "erstatten"
+    "word_query": "erstatten",
+    "de_example_sentence_fa": "\"Die Firma wird die entstandenen Schäden vollständig erstatten.\"\n➡️ \"شرکت خسارات وارد شده را به طور کامل جبران خواهد کرد.\"\n\n\"Bitte erstatten Sie mir die Kosten für die Zugfahrt.\"\n➡️ \"لطفاً هزینه بلیط قطار را برای من پرداخت کنید.\"",
+    "de_meaning_fa": "به معنای بازپرداخت یا پس دادن چیزی است."
 }

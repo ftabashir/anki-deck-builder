@@ -9,5 +9,7 @@
     "de_example_sentence": "Der neue Kandidat verwechselte einen Wortteil im Gesetzestext und musste seine Aussage korrigieren.\nUm das komplexe Wort zu verstehen, ist es hilfreich, seine Wortteile zu analysieren.",
     "perfekt_präteritum": "",
     "word": "Wortteil, der, -e",
-    "word_query": "Wortteil"
+    "word_query": "Wortteil",
+    "de_example_sentence_fa": "\"کاندیدای جدید بخشی از یک واژه را در متن قانون اشتباه گرفت و مجبور شد اظهاراتش را تصحیح کند.\nبرای فهمیدن این واژهٔ پیچیده، تجزیه و تحلیل اجزای آن کمک‌کننده است.\"",
+    "de_meaning_fa": "یک بخش واژگانی، بخش کوچکتری از یک واژه است، مانند به عنوان مثال \"vor\" یا \"wand\" در واژه \"vorwand\"."
 }

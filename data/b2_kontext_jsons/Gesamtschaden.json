@@ -9,5 +9,7 @@
     "de_example_sentence": "Das Auto hatte nach dem Unfall einen Totalschaden, also einen Gesamtschaden.\nDie Versicherung lehnte den Schaden ab, da es sich um einen Gesamtschaden handelte.",
     "perfekt_präteritum": "",
     "word": "Gesamtschaden, der, &quot;-",
-    "word_query": "Gesamtschaden"
+    "word_query": "Gesamtschaden",
+    "de_example_sentence_fa": "ماشین بعد از تصادف کاملاً از بین رفته بود.\nبیمه خسارت را رد کرد، چون یک خسارت کامل بود.",
+    "de_meaning_fa": "آسیب کلی به این معناست که یک شیء به شدت آسیب دیده و دیگر قابل تعمیر نیست و باید از دور بهره‌برداری خارج شود."
 }

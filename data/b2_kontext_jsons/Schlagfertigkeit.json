@@ -9,5 +9,7 @@
     "de_example_sentence": "Seine Schlagfertigkeit beeindruckte alle bei der Präsentation.\nMit ihrer Schlagfertigkeit konnte sie jede unangenehme Situation meistern.",
     "perfekt_präteritum": "",
     "word": "Schlagfertigkeit, die, -en",
-    "word_query": "Schlagfertigkeit"
+    "word_query": "Schlagfertigkeit",
+    "de_example_sentence_fa": "\"His quick wit impressed everyone at the presentation.\nWith her quick wit, she was able to master any awkward situation.\"\n\nbecomes:\n\n\"هوش و حاضرجوابی‌اش در ارائه، همه را تحت تاثیر قرار داد.\nبا هوش و حاضرجوابی‌اش توانست هر موقعیت ناخوشایندی را مدیریت کند.\"",
+    "de_meaning_fa": "زود و هوشمندانه بتوان به مسائل پاسخ داد."
 }

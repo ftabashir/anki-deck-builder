@@ -9,5 +9,7 @@
     "de_example_sentence": "Die Stellenausschreibung betonte, dass gute EDV-Kenntnisse für die Position unerlässlich sind.\nFür diese Projektarbeit sind fortgeschrittene EDV-Kenntnisse in den Bereichen Datenanalyse und Programmierung erforderlich.",
     "perfekt_präteritum": "",
     "word": "EDV-Kenntnis, die, -se",
-    "word_query": "EDV-Kenntnis"
+    "word_query": "EDV-Kenntnis",
+    "de_example_sentence_fa": "\"آگهی استخدام بر این نکته تاکید داشت که داشتن دانش خوب کامپیوتر برای این موقعیت ضروری است.\nبرای این کار پروژه، دانش پیشرفته کامپیوتر در زمینه‌های تحلیل داده و برنامه‌نویسی مورد نیاز است.\"",
+    "de_meaning_fa": "\"آشنایی با کامپیوتر\" به معنای دانش و تجربه در کار با کامپیوترها و نرم‌افزار است."
 }

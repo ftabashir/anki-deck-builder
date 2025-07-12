@@ -9,5 +9,7 @@
     "de_example_sentence": "Die geplanten Aktivitäten sind aufgrund des Wetters entfallen.\nDie Kosten für die Reparatur sind leider von der Versicherung entfallen.",
     "perfekt_präteritum": "entfallen / fiel",
     "word": "entfallen, entfällt, entfiel, ist entfallen ",
-    "word_query": "entfallen"
+    "word_query": "entfallen",
+    "de_example_sentence_fa": "\"Die geplanten Aktivitäten sind aufgrund des Wetters entfallen.\" - برنامه‌های آتی به دلیل آب و هوا کنسل شدند.\n\n\"Die Kosten für die Reparatur sind leider von der Versicherung entfallen.\" - متاسفانه هزینه‌های تعمیرات از بیمه پرداخت نشدند.",
+    "de_meaning_fa": "\"از بین رفتن\" به معنای عدم وجود یا عدم اعتبار است."
 }

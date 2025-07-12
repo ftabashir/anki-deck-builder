@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich fasse zusammen, was wir heute besprochen haben.\nEr konnte seine Gedanken nicht richtig fassen, nachdem er das gehört hatte.",
     "perfekt_präteritum": "gefassen / fasste",
     "word": "fassen (Fuß fassen)",
-    "word_query": "fassen"
+    "word_query": "fassen",
+    "de_example_sentence_fa": "\"من آنچه امروز درباره‌اش صحبت کردیم را خلاصه می‌کنم.\nاو بعد از شنیدن آن، نتوانست درست افکارش را سامان دهد.\"",
+    "de_meaning_fa": "\"فهمیدن\" به معنای درک کردن یا به دست آوردن چیزی است."
 }

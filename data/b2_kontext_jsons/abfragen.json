@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Professor hat die Studenten zu den wichtigsten Punkten des Kapitels abfragen lassen.\nBevor wir den Server herunterfahren, müssen wir alle Benutzer abfragen.",
     "perfekt_präteritum": "gefragt / fragte",
     "word": "ab|fragen ",
-    "word_query": "abfragen"
+    "word_query": "abfragen",
+    "de_example_sentence_fa": "\"پروفسور دانشجویان را در مورد نکات مهم فصل امتحان کرد.\"\n\n\"قبل از خاموش کردن سرور، باید از همه کاربران سوال کنیم.\"",
+    "de_meaning_fa": "\"پرسیدن\" به معنای درخواست اطلاعات از شخص یا چیزی است."
 }

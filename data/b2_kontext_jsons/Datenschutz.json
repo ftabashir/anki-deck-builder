@@ -9,5 +9,7 @@
     "de_example_sentence": "Die neue Software legt großen Wert auf Datenschutz und Verschlüsselung.\nDas Unternehmen muss die Datenschutzbestimmungen der Europäischen Union einhalten.",
     "perfekt_präteritum": "",
     "word": "Datenschutz, der (Sg.)",
-    "word_query": "Datenschutz"
+    "word_query": "Datenschutz",
+    "de_example_sentence_fa": "\"نرم‌افزار جدید بر حریم خصوصی و رمزنگاری تاکید زیادی دارد.\nشرکت باید مقررات حفظ حریم خصوصی اتحادیه اروپا را رعایت کند.\"",
+    "de_meaning_fa": "حفاظت از اطلاعات شخصی به این معنی است که اطلاعات خصوصی شما محافظت می‌شوند."
 }

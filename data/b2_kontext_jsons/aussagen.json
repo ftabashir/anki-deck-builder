@@ -9,5 +9,7 @@
     "de_example_sentence": "Seine Aussage widersprach den bisherigen Ermittlungsergebnissen.\nDie Zeugin weigerte sich, vor Gericht eine Aussage zu machen.",
     "perfekt_präteritum": "ausgesagt / sagte",
     "word": "aus|sagen ",
-    "word_query": "aussagen"
+    "word_query": "aussagen",
+    "de_example_sentence_fa": "\"گفتاگوی او با نتایج تحقیقات قبلی در تناقض بود.\nشهادت‌دهنده از دادن شهادت در دادگاه امتناع کرد.\"",
+    "de_meaning_fa": "\"اظهارات\" به معنای چیزی گفتن یا توضیح دادن است."
 }

@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich habe **höchstens** fünf Euro für dieses Buch bezahlt.\nWir können **höchstens** zwei Personen pro Tag in das Museum lassen.",
     "perfekt_präteritum": "",
     "word": "höchstens ",
-    "word_query": "höchstens"
+    "word_query": "höchstens",
+    "de_example_sentence_fa": "\"من حداکثر پنج یورو برای این کتاب پرداختم.\nما حداکثر دو نفر در روز را به موزه راه می‌دهیم.\"",
+    "de_meaning_fa": "\"حداکثر\" به اندازه \"بیش از این نه\" به معناست."
 }

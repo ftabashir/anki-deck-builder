@@ -9,5 +9,7 @@
     "de_example_sentence": "Der Vortrag enthielt einige wichtige Stichpunkte, die ich mir notiert habe.\nUm die Präsentation zu strukturieren, habe ich mir eine Liste mit Stichpunkten erstellt.",
     "perfekt_präteritum": "gestochen / stach",
     "word": "Stichpunkt, der, -e",
-    "word_query": "Stichpunkt"
+    "word_query": "Stichpunkt",
+    "de_example_sentence_fa": "\"The Vortrag enthielt einige wichtige Stichpunkte, die ich mir notiert habe.\"\n\n**سخنرانی شامل چند نکته‌ی مهم بود که یادداشت برداشتم.**\n\n\"Um die Präsentation zu strukturieren, habe ich mir eine Liste mit Stichpunkten erstellt.\"\n\n**برای ساختاردهی به ارائه‌ام، یک لیست از نکات کلیدی تهیه کردم.**",
+    "de_meaning_fa": "نکته‌ای یک واژه یا عبارت کوتاه است که به‌عنوان راهنمایی برای یادآوری در یک سخنرانی یا متن عمل می‌کند."
 }

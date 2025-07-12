@@ -9,5 +9,7 @@
     "de_example_sentence": "Ich empfehle dir, das neue Restaurant in der Innenstadt auszuprobieren.\nDer Reiseberater hat uns, ein Hotel mit Pool zu empfehlen.",
     "perfekt_präteritum": "empfohlen / empfahl",
     "word": "empfehlen, empfiehlt, empfahl, hat empfohlen ",
-    "word_query": "empfehlen"
+    "word_query": "empfehlen",
+    "de_example_sentence_fa": "\"Ich empfehle dir, das neue Restaurant in der Innenstadt auszuprobieren.\"\n→ من بهت پیشنهاد می‌کنم رستوران جدید رو توی مرکز شهر امتحان کنی.\n\n\"Der Reiseberater hat uns, ein Hotel mit Pool zu empfehlen.\"\n→ مشاور سفر به ما هتلی با استخر پیشنهاد داده است.",
+    "de_meaning_fa": "\"توصیه کردن\" به معنای راهنمایی یا پیشنهاد دادن به کسی است."
 }

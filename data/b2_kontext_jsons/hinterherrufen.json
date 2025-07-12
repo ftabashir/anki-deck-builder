@@ -9,5 +9,7 @@
     "de_example_sentence": "Sie musste ihren Kollegen hinterherrufen, nachdem sie wichtige Informationen vergessen hatte.\nIch habe meine Mutter hinterhergerufen, weil sie ihren Schlüssel vergessen hatte.",
     "perfekt_präteritum": "hergerufen / rief",
     "word": "hinterher|rufen, ruft hinterher, rief hinterher, hat hinterhergerufen ",
-    "word_query": "hinterherrufen"
+    "word_query": "hinterherrufen",
+    "de_example_sentence_fa": "\"Sie musste ihren Kollegen hinterherrufen, nachdem sie wichtige Informationen vergessen hatte.\"\n\n**او مجبور شد همکارش را دوباره صدا بزند، بعد از اینکه اطلاعات مهم را فراموش کرده بود.**\n\n\"Ich habe meine Mutter hinterhergerufen, weil sie ihren Schlüssel vergessen hatte.\"\n\n**من مادرم را دوباره صدا زدم، چون کلیدش را فراموش کرده بود.**",
+    "de_meaning_fa": "«بازپس‌گرفتن» به معنای بازگرداندن یا مطالبه کردن چیزی است که فراموش یا گم شده است."
 }
