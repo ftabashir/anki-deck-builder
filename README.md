@@ -9,11 +9,8 @@
 
 `zip -r ../my_new_deck.apkg *`
 
-## TODOs
-- Improve README file
-- Why only 2317 of 2340 words have been generated from B2_Kontext?
-- TTS options
-  - Use Piper for TTS, FREE, Local on your machine
+## TTS Options
+- Use Piper for TTS, FREE, Local on your machine
     - https://github.com/OHF-Voice/piper1-gpl/blob/main/docs/API_HTTP.md
       - Install libs
         - `python -m pip install piper-tts`
@@ -27,11 +24,15 @@
         - `python -m piper.http_server -m de_DE-karlsson-low`
       - Request to http server
         - `curl -X POST -H 'Content-Type: application/json' -d '{ "text": "Hallo, wie gehts dir?", "voice":"de_DE-thorsten-high" }' -o test.wav localhost:5000`
+- Other TTS options
   - Amazon, 12 MONTHS FREE, 5M characters per month
     - https://aws.amazon.com/free/machine-learning/?trk=23ccddbd-d7fb-40a8-9906-df8c7c4ad8c0&sc_channel=ps&ef_id=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE:G:s&s_kwcid=AL!4422!3!645251324771!p!!g!!text%20to%20voice%20software!19579658393!146073071220&gad_campaignid=19579658393&gbraid=0AAAAADjHtp8uI4-H67-UagyHfOKT-hPdL&gclid=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE
   - Speechify, Simba: Text to Speech API
     - 300ms latency, human quality, $10 per 1M chars, every language you need.
     - https://speechify.com/text-to-speech-api/?utm_campaign=search-gamma-USD&utm_content=reader&utm_source=google&utm_medium=cpc&utm_term=text+reader&gc_id=21365183410&h_ad_id=701683193405&gad_source=1&gad_campaignid=21365183410&gbraid=0AAAAAogD2qCGb8We3rcXI7Sxnp82smNCg&gclid=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYBCAAEgI6VPD_BwE
+
+## TODOs
+- Improve README file
 - Download a wiktionary dump
   - https://dumps.wikimedia.org/backup-index-bydb.html
     - E.g. https://dumps.wikimedia.org/dewiktionary/20250701/
@@ -68,6 +69,11 @@ words per minute: 7.3
 ----------------------------------------
 de_example_sentence_fa 14573.0 76.0% ===============
 de_meaning_fa        4601.0 24.0% ====
+----------------------------------------
+
+----------------------------------------
+generating audios using piper for word_query, de_example_sentence_1 and de_example_sentence_2:
+estimated time: ~2h 
 ----------------------------------------
 
 ```

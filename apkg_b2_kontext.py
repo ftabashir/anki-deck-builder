@@ -6,8 +6,9 @@ import json
 import genanki
 
 import apkg_collections
-from add_audio import add_audio
+from apkg_audio import add_audio
 from apkg import print_field_names, get_cursor, search_notes_for_word, get_field_names, get_notes
+from format_duration import format_duration
 from ollama import call_ollama
 
 PROMPTS = {
@@ -93,14 +94,6 @@ def run_prompts(prompts, word):
     for prompt_key, prompt in prompts.items():
         result[prompt_key] = run_prompt(prompt_key, prompt, word)
     return result
-
-
-def format_duration(seconds: int):
-    days, seconds = divmod(seconds, 86400)  # 86400 = 60 * 60 * 24
-    hours, seconds = divmod(seconds, 3600)  # 3600 = 60 * 60
-    minutes, seconds = divmod(seconds, 60)
-    d, h, m, s = int(days), int(hours), int(minutes), int(seconds)
-    return f"{'' if d == 0 else f'{d}d '}{'' if h == 0 else f'{h}h '}{'' if m == 0 else f'{m}m '}{s}s"
 
 
 def create_json_files(collection, jsons_directory):
@@ -241,6 +234,9 @@ def template_css():
                     font-size: 18px;
                     text-align: left;
                     padding: 20px;
+                }    
+                .small-audio .replay-button {
+                  transform: scale(0.5);
                 }
             """
 
@@ -429,6 +425,7 @@ if __name__ == '__main__':
         model_name=b2_kontext.name + "|Audio",
         old_model_fields=b2_kontext.fields,
         old_card_template=b2_kontext.templates[0],
+        old_card_css=b2_kontext.css,
         deck_id=b2_kontext_deck.deck_id + 1,
         deck_name=f'{b2_kontext_deck.name} with Audio',
     )
