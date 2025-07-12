@@ -98,7 +98,7 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
         for audio_field in audio_fields:
             field_index = field_names.index(audio_field)
             field = fields[field_index]
-            audio_file_path = f'./audios/{field}.wav'
+            audio_file_path = f'./audio/{field}.wav'
             if not os.path.exists(audio_file_path):
                 synthesize_wav(field, audio_file_path)
             audio_tag = f'[sound:{os.path.basename(audio_file_path)}]'
@@ -115,4 +115,4 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
         deck.add_note(new_note)
 
     package.write_to_file(new_apkg_path)
-    print(f"✅ Done! Your deck with audios 🔈 is saved as: {new_apkg_path}")
+    print(f"✅ Done! Your deck with audio 🔈 is saved as: {new_apkg_path}")
