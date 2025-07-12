@@ -368,9 +368,9 @@ def gen_anki():
 
 
 if __name__ == '__main__':
-    # gen_anki()
+    gen_anki()
     # create_json_files()
-    update_json_files()
+    # update_json_files()
     # words = all_words()
     # collection = apkg_collections.A1_B2
     # cur = get_cursor(collection.collection_path)
