@@ -367,8 +367,30 @@ def gen_anki():
     print(f"✅ Done! Your deck is saved as: {output_file}")
 
 
+def find_redundant_words():
+    words = all_words()
+    word_map = {}
+    for word in words:
+        word_query = word.split(',')[0]
+        word_query = word_query.split(' (')[0]
+        word_query = word_query.replace('|', '')
+        word_query = word_query.strip()
+        if word_query in word_map:
+            word_map[word_query].append(word)
+        else:
+            word_map[word_query] = [word]
+    for word_query, words in word_map.items():
+        if len(words) == 1:
+            continue
+        else:
+            print('\n', word_query)
+            for word in words:
+                print('- ', word)
+
+
 if __name__ == '__main__':
-    gen_anki()
+    # gen_anki()
+    find_redundant_words()
     # create_json_files()
     # update_json_files()
     # words = all_words()
