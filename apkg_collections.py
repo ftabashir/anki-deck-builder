@@ -11,5 +11,10 @@ ApkgCollection = namedtuple('ApkgCollection', 'collection_path database_name')
 
 B2_Kontext = ApkgCollection(
     collection_path="data/collections/German_B2_Wordlist_from_Klett_Kontext",
-    database_name=AnkiDatabase.anki21
+    database_name='collection.anki21'
+)
+
+B2_Kontext_Words_Meanings_Examples = ApkgCollection(
+    collection_path="data/collections/B2_Kontext_Words|Meanings|Examples",
+    database_name='collection.anki2'
 )

@@ -6,10 +6,9 @@ import json
 import genanki
 
 import apkg_collections
+from add_audio import add_audio
 from apkg import print_field_names, get_cursor, search_notes_for_word, get_field_names, get_notes
 from ollama import call_ollama
-
-jsons_directory = './data/b2_kontext_jsons'
 
 PROMPTS = {
     'en_meaning': ('Translate the meaning of the German word "{}" into simple English. '
@@ -61,8 +60,7 @@ def record_time(key, value):
         _times[key] = value
 
 
-def all_words():
-    collection = apkg_collections.B2_Kontext
+def all_words(collection):
     cur = get_cursor(collection.collection_path)
     word_index = get_field_names(cur).index("German")
     notes = get_notes(cur)
@@ -105,8 +103,8 @@ def format_duration(seconds: int):
     return f"{'' if d == 0 else f'{d}d '}{'' if h == 0 else f'{h}h '}{'' if m == 0 else f'{m}m '}{s}s"
 
 
-def create_json_files():
-    words = all_words()
+def create_json_files(collection, jsons_directory):
+    words = all_words(collection)
     _times.clear()
     count = 0
     for index, word in enumerate(words):
@@ -147,8 +145,8 @@ def create_json_files():
         print('-' * 40)
 
 
-def update_json_files():
-    words = all_words()
+def update_json_files(collection, jsons_directory):
+    words = all_words(collection)
     _times.clear()
     count = 0
     for index, word in enumerate(words):
@@ -247,8 +245,8 @@ def template_css():
             """
 
 
-def gen_anki():
-    fields = [
+def b2_kontext_fields():
+    return [
         {'name': 'word_query'},
         {'name': 'word'},
         {'name': 'de_meaning'},
@@ -269,21 +267,52 @@ def gen_anki():
         {"name": "color_class"},
     ]
 
-    # Create a unique model ID (random so it's reusable)
-    model_id = random.randrange(1 << 30, 1 << 31)
-    my_model = genanki.Model(
-        model_id,
-        'B2 Kontext Words|Meanings|Examples',
-        fields=fields,
+
+def b2_kontext_fields_data(word_query, word, de_meaning, de_meaning_fa, de_synonyms, de_example_1, de_example_fa_1,
+                           de_example_2, de_example_fa_2, fa_meaning, en_meaning, part_of_speech, frequency_de,
+                           frequency_emoji, cefr_level, perfekt_präteritum, is_verb, color_class):
+    return [
+        word_query,
+        word,
+        de_meaning,
+        de_meaning_fa,
+        de_synonyms,
+        de_example_1,
+        de_example_fa_1,
+        de_example_2,
+        de_example_fa_2,
+        fa_meaning,
+        en_meaning,
+        part_of_speech,
+        frequency_de,
+        frequency_emoji,
+        cefr_level,
+        perfekt_präteritum,
+        is_verb,
+        color_class,
+    ]
+
+
+def b2_kontext_model():
+    return genanki.Model(
+        model_id=1607392319,
+        name='B2 Kontext Words|Meanings|Examples',
+        fields=b2_kontext_fields(),
         templates=[card_template()],
         css=template_css(),
     )
 
-    # Create the deck
-    deck = genanki.Deck(
-        deck_id=random.randrange(1 << 30, 1 << 31),
+
+def b2_kontext_deck():
+    return genanki.Deck(
+        deck_id=2059400110,
         name='B2 Kontext Deck'
     )
+
+
+def gen_anki(jsons_directory, apkg_path):
+    my_model = b2_kontext_model()
+    deck = b2_kontext_deck()
 
     frequency_map = {
         'Extremely rare': '️Extrem selten',
@@ -311,8 +340,8 @@ def gen_anki():
                 de_example_2 = de_examples[1] if len(de_examples) > 1 else ''
 
                 de_example_sentence_fa = data.get("de_example_sentence_fa", "").strip()
-                de_example_sentence_fa = de_example_sentence_fa.replace('\n\n', '\n') # remove duplicate new lines
-                de_example_sentence_fa = de_example_sentence_fa.replace('"', '') # remove quotation marks
+                de_example_sentence_fa = de_example_sentence_fa.replace('\n\n', '\n')  # remove duplicate new lines
+                de_example_sentence_fa = de_example_sentence_fa.replace('"', '')  # remove quotation marks
                 de_examples_fa = de_example_sentence_fa.split("\n")
                 de_example_fa_1 = de_examples_fa[0] if len(de_examples_fa) > 0 else ''
                 de_example_fa_2 = de_examples_fa[1] if len(de_examples_fa) > 1 else ''
@@ -336,39 +365,38 @@ def gen_anki():
                     elif ' das' in word_lower:
                         color_class = "green"
 
-                # Safely get fields
-                fields = [
-                    data.get('word_query', ''),
-                    data.get('word', ''),
-                    data.get('de_meaning', ''),
-                    data.get('de_meaning_fa', ''),
-                    data.get('de_synonyms', ''),
-                    de_example_1,
-                    de_example_fa_1,
-                    de_example_2,
-                    de_example_fa_2,
-                    data.get('fa_meaning', ''),
-                    data.get('en_meaning', ''),
-                    data.get('part_of_speech', ''),
-                    frequency_de,
-                    frequency_emoji,
-                    data.get('cefr_level', ''),
-                    data.get('perfekt_präteritum', ''),
-                    "yes" if is_verb else "",
-                    color_class,
-                ]
+                fields = b2_kontext_fields_data(
+                    word_query=data.get('word_query', ''),
+                    word=data.get('word', ''),
+                    de_meaning=data.get('de_meaning', ''),
+                    de_meaning_fa=data.get('de_meaning_fa', ''),
+                    de_synonyms=data.get('de_synonyms', ''),
+                    de_example_1=de_example_1,
+                    de_example_fa_1=de_example_fa_1,
+                    de_example_2=de_example_2,
+                    de_example_fa_2=de_example_fa_2,
+                    fa_meaning=data.get('fa_meaning', ''),
+                    en_meaning=data.get('en_meaning', ''),
+                    part_of_speech=data.get('part_of_speech', ''),
+                    frequency_de=frequency_de,
+                    frequency_emoji=frequency_emoji,
+                    cefr_level=data.get('cefr_level', ''),
+                    perfekt_präteritum=data.get('perfekt_präteritum', ''),
+                    is_verb="yes" if is_verb else "",
+                    color_class=color_class,
+                )
 
                 note = genanki.Note(model=my_model, fields=fields)
                 deck.add_note(note)
 
     # Package the deck
-    output_file = os.path.join(jsons_directory, "B2_Kontext_Words.apkg")
+    output_file = os.path.join(apkg_path, '')
     genanki.Package(deck).write_to_file(output_file)
     print(f"✅ Done! Your deck is saved as: {output_file}")
 
 
-def find_redundant_words():
-    words = all_words()
+def find_redundant_words(collection):
+    words = all_words(collection)
     word_map = {}
     for word in words:
         word_query = word.split(',')[0]
@@ -389,11 +417,25 @@ def find_redundant_words():
 
 
 if __name__ == '__main__':
-    # gen_anki()
-    find_redundant_words()
-    # create_json_files()
-    # update_json_files()
-    # words = all_words()
+    collection = apkg_collections.B2_Kontext
+    jsons_directory = './data/b2_kontext_jsons'
+    apkg_path = './data/collections/B2_Kontext_Words|Meanings|Examples.apkg'
+    # gen_anki(jsons_directory, apkg_path)
+    b2_kontext = b2_kontext_model()
+    b2_kontext_deck = b2_kontext_deck()
+    add_audio(
+        collection=apkg_collections.B2_Kontext_Words_Meanings_Examples,
+        model_id=b2_kontext.model_id + 1,
+        model_name=b2_kontext.name + "|Audio",
+        old_model_fields=b2_kontext.fields,
+        old_card_template=b2_kontext.templates[0],
+        deck_id=b2_kontext_deck.deck_id + 1,
+        deck_name=f'{b2_kontext_deck.name} with Audio',
+    )
+    # find_redundant_words(collection)
+    # create_json_files(collection, jsons_directory)
+    # update_json_files(collection, jsons_directory)
+    # words = all_words(apkg_collections.B2_Kontext)
     # collection = apkg_collections.A1_B2
     # cur = get_cursor(collection.collection_path)
     # word_index = get_field_names(cur).index("Word")
