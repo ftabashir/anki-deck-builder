@@ -3,7 +3,7 @@
 - Rename it as a .zip file
 - Extract zip file
 - Modify content as you wish
-- Zip content by this commands:
+- Zip content by these commands:
 
 `cd folder_name`
 
@@ -11,9 +11,22 @@
 
 ## TODOs
 - Improve README file
+- Why only 2317 of 2340 words have been generated from B2_Kontext?
 - TTS options
   - Use Piper for TTS, FREE, Local on your machine
     - https://github.com/OHF-Voice/piper1-gpl/blob/main/docs/API_HTTP.md
+      - Install libs
+        - `python -m pip install piper-tts`
+        - `python -m pip install flask`
+      - Download Voices (see https://rhasspy.github.io/piper-samples)
+        - `python -m piper.download_voices de_DE-karlsson-low`
+        - `python -m piper.download_voices de_DE-thorsten-high`
+        - `python -m piper.download_voices de_DE-kerstin-low`
+        - `python -m piper.download_voices de_DE-eva_k-x_low`
+      - Run http server
+        - `python -m piper.http_server -m de_DE-karlsson-low`
+      - Request to http server
+        - `curl -X POST -H 'Content-Type: application/json' -d '{ "text": "Hallo, wie gehts dir?", "voice":"de_DE-thorsten-high" }' -o test.wav localhost:5000`
   - Amazon, 12 MONTHS FREE, 5M characters per month
     - https://aws.amazon.com/free/machine-learning/?trk=23ccddbd-d7fb-40a8-9906-df8c7c4ad8c0&sc_channel=ps&ef_id=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE:G:s&s_kwcid=AL!4422!3!645251324771!p!!g!!text%20to%20voice%20software!19579658393!146073071220&gad_campaignid=19579658393&gbraid=0AAAAADjHtp8uI4-H67-UagyHfOKT-hPdL&gclid=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE
   - Speechify, Simba: Text to Speech API
