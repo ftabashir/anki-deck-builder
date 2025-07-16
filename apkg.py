@@ -2,12 +2,12 @@ import sqlite3
 import json
 
 import apkg_collections
-from ollama import call_ollama
+from ollama_api import call_ollama
 
 
 def get_cursor(collection_name, database_name="collection.anki21"):
     # Connect to collection.anki21 or collection.anki2
-    conn = sqlite3.connect(collection_name + "/" + database_name)
+    conn = sqlite3.connect(collection_name + "_extracted/" + database_name)
     return conn.cursor()
 
 

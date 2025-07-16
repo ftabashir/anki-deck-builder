@@ -8,7 +8,7 @@ import apkg_collections
 from apkg_audio import add_audio
 from apkg import print_field_names, get_cursor, search_notes_for_word, get_field_names, get_notes
 from format_duration import format_duration
-from ollama import call_ollama
+from ollama_api import call_ollama
 
 PROMPTS = {
     'en_meaning': ('Translate the meaning of the German word "{}" into simple English. '

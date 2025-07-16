@@ -14,8 +14,3 @@ def call_ollama(prompt, model='gemma3:12b'):
         }
     )
     return response.json()['response'].strip()
-
-
-if __name__ == '__main__':
-    response = call_ollama(prompt="Hello")
-    print(response)
