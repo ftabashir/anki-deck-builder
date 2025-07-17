@@ -1,8 +1,8 @@
-import openai
+from openai import OpenAI
 import json
 
-# Set your OpenAI API key
-openai.api_key = "your-api-key-here"
+API_KEY = ''
+client = OpenAI(api_key=API_KEY)
 
 
 def call_openai(word, word_query):
@@ -32,13 +32,18 @@ Given the German word "{word}", return a JSON object with the following structur
 Make sure the JSON is valid.
 """
 
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.5
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        temperature=0.5,
     )
 
-    result = response['choices'][0]['message']['content']
+    result = response.choices[0].message.content
 
     # Try to parse JSON if possible
     try:
