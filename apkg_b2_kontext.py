@@ -198,7 +198,7 @@ def update_json_files(words, jsons_directory):
         print('-' * 40)
 
 
-def update_json_files_with_openai(words, jsons_directory):
+def create_json_files_with_openai(words, jsons_directory):
     _times.clear()
     count = 0
     for index, word in enumerate(words):
@@ -212,7 +212,10 @@ def update_json_files_with_openai(words, jsons_directory):
             print(f'{word_query} already exist')
             continue
 
-        word_data = call_openai(word, word_query)
+        start = time.time()
+        (word_data, json_result) = call_openai(word, word_query)
+        end = time.time()
+        record_time('all_openai', end - start)
         word_data['word'] = word
         word_data['word_query'] = word_query
 
@@ -233,10 +236,11 @@ def update_json_files_with_openai(words, jsons_directory):
         print(f'words per minute: {round(60 / (total / count), 1)}')
         print(f'estimated remaining time: {format_duration((len(words) - index) * (total / count))}')
         print('-' * 40)
-        for key, time in _times.items():
-            percentage = round((time / total) * 100, 1)
-            print(f"{key:<20} {round(time, 0):<5} {percentage:<4}% {'=' * int(percentage / 5)}")
+        for key, time_elapsed in _times.items():
+            percentage = round((time_elapsed / total) * 100, 1)
+            print(f"{key:<20} {round(time_elapsed, 0):<5} {percentage:<4}% {'=' * int(percentage / 5)}")
         print('-' * 40)
+
 
 def card_template():
     return {
@@ -381,17 +385,6 @@ def gen_anki(apkg_params: ApkgParams, jsons_directory, apkg_path):
             with open(os.path.join(jsons_directory, filename), 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
-                de_examples = data.get("de_example_sentence", "").strip().split("\n")
-                de_example_1 = de_examples[0] if len(de_examples) > 0 else ''
-                de_example_2 = de_examples[1] if len(de_examples) > 1 else ''
-
-                de_example_sentence_fa = data.get("de_example_sentence_fa", "").strip()
-                de_example_sentence_fa = de_example_sentence_fa.replace('\n\n', '\n')  # remove duplicate new lines
-                de_example_sentence_fa = de_example_sentence_fa.replace('"', '')  # remove quotation marks
-                de_examples_fa = de_example_sentence_fa.split("\n")
-                de_example_fa_1 = de_examples_fa[0] if len(de_examples_fa) > 0 else ''
-                de_example_fa_2 = de_examples_fa[1] if len(de_examples_fa) > 1 else ''
-
                 is_verb = "Verb" in data.get("part_of_speech", "")
 
                 word = data.get("word", "")
@@ -416,11 +409,11 @@ def gen_anki(apkg_params: ApkgParams, jsons_directory, apkg_path):
                     word=data.get('word', ''),
                     de_meaning=data.get('de_meaning', ''),
                     de_meaning_fa=data.get('de_meaning_fa', ''),
-                    de_synonyms=data.get('de_synonyms', ''),
-                    de_example_1=de_example_1,
-                    de_example_fa_1=de_example_fa_1,
-                    de_example_2=de_example_2,
-                    de_example_fa_2=de_example_fa_2,
+                    de_synonyms=' / '.join(data.get('de_synonyms', '')) ,
+                    de_example_1=data.get("de_example_1", ""),
+                    de_example_fa_1=data.get("de_example_fa_1", ""),
+                    de_example_2=data.get("de_example_2", ""),
+                    de_example_fa_2=data.get("de_example_fa_2", ""),
                     fa_meaning=data.get('fa_meaning', ''),
                     en_meaning=data.get('en_meaning', ''),
                     part_of_speech=data.get('part_of_speech', ''),

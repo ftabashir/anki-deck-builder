@@ -23,7 +23,7 @@ Given the German word "{word}", return a JSON object with the following structur
   "en_meaning": "English translation of the word meaning.",
   "part_of_speech": "German term for the part of speech (e.g. Verb, Substantiv, Adjektiv, etc).",
   "article": "If noun, include the correct article (der/die/das). Otherwise leave empty.",
-  "frequency_de": "How frequent is this word in German? (Extremely rare, Uncommon, Fairly common, Very common, Extremely common)",
+  "frequency": "How frequent is this word in German? (Extremely rare, Uncommon, Fairly common, Very common, Extremely common)",
   "cefr_level": "CEFR level of the word: A1, A2, B1, B2, C1, or C2",
   "perfekt_präteritum": "If the word is a verb, give the format: [auxiliary] + [Perfekt] / [Präteritum]. Example: sein + geblieben / blieb. If not a verb, leave this empty.",
   "is_verb": true or false
@@ -33,7 +33,7 @@ Make sure the JSON is valid.
 """
 
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4.1",
         messages=[
             {
                 "role": "user",
@@ -56,9 +56,15 @@ Make sure the JSON is valid.
 
 
 if __name__ == '__main__':
-    # Example usage:
-    (word_info, json_result) = call_openai(
-        'beziehen von (+ Dat.) (etwas von lokalen Herstellern beziehen)',
-        'beziehen von',
-    )
-    print(json.dumps(word_info, indent=2, ensure_ascii=False))
+    word = 'beziehen von (+ Dat.) (etwas von lokalen Herstellern beziehen)',
+    word_query = 'beziehen von'
+    # (word_data, json_result) = call_openai(word, word_query, )
+    # word_data['word'] = word
+    # word_data['word_query'] = word_query
+    #
+    # jsons_directory = "./data/b2_kontext_kapitel_9_jsons_openai_gpt-4.1"
+    # file_path = f'{jsons_directory}/{safe_filename(word_query)}.json'
+    # with open(file_path, "w", encoding="utf-8") as f:
+    #     json.dump(word_data, f, indent=4, ensure_ascii=False)
+    #
+    # print(json.dumps(word_data, indent=2, ensure_ascii=False))
