@@ -1,8 +1,9 @@
 import time
 import os
 import json
-
+import re
 import genanki
+from pydantic import BaseModel
 
 import apkg_collections
 from apkg_audio import add_audio
@@ -23,7 +24,7 @@ PROMPTS = {
                    ),
     'part_of_speech': 'What part of speech is the German word "{}"? Just say noun, verb, adjective, etc. without extra explanation.',
     'de_meaning': 'Erkläre das deutsche Wort "{}" in einfachem Deutsch, in einem Satz, ohne weitere Erklärungen.',
-    'de_synonyms': 'German synonyms for "{}", comma-separated, no explanation.',
+    'de_synonyms': 'German synonyms for "{}", comma-separated, max three synonyms, no explanation.',
     # 'fa_meaning': ('معنی کلمه "{}" در زبان فارسی چیست؟ '
     #                'اگر چندین معنی دارد، حداکثر سه تا از متداول ترین ها را ذکر کن. '
     #                'در یک جمله پاسخ بده و معانی مختلف را با "/" جدا کن و توضیح اضافی نده.'
@@ -33,10 +34,13 @@ PROMPTS = {
                    'Keep the answer in a single line, separate different meanings with /.'
                    ),
     'de_example_sentence': ('Give two example sentences using the German word "{}". '
-                            'Each sentence on its own line. Use B1 or B2 level German. No extra explanation.'
+                            'Each sentence on its own line. Use simple and correct German.'
+                            'Do not add any explanations or translations.'
                             ),
-    'perfekt_präteritum': ('If "{}" is a German verb, reply with its Perfekt and Präteritum forms '
-                           'separated by a slash (e.g. "gegangen / ging"). '
+    'perfekt_präteritum': ('If "{}" is a German verb, reply with its Perfekt and Präteritum forms, '
+                           'separated by a slash. Also include whether the auxiliary verb is "haben" or "sein" for the Perfekt form.\n'
+                           'Format: [auxiliary] + [Perfekt] / [Präteritum] \n'
+                           'Example: sein + geblieben / blieb \n'
                            'If it’s not a verb, reply with nothing.'
                            )
 
@@ -51,6 +55,13 @@ FA_TRANSLATE_MEANING_PROMPT = {
 }
 
 _times = {}
+
+
+class ApkgParams(BaseModel):
+    deck_name: str
+    deck_id: int
+    model_name: str
+    model_id: int
 
 
 def record_time(key, value):
@@ -95,8 +106,12 @@ def run_prompts(prompts, word):
     return result
 
 
-def create_json_files(collection, jsons_directory):
-    words = all_words(collection)
+def safe_filename(text, replacement="_"):
+    # Remove invalid characters
+    return re.sub(r'[<>:"/\\|?*\n\r\t]', replacement, text).strip()
+
+
+def create_json_files(words, jsons_directory):
     _times.clear()
     count = 0
     for index, word in enumerate(words):
@@ -105,7 +120,7 @@ def create_json_files(collection, jsons_directory):
         word_query = word_query.replace('|', '')
         word_query = word_query.strip()
 
-        file_path = f'{jsons_directory}/{word_query}.json'
+        file_path = f'{jsons_directory}/{safe_filename(word_query)}.json'
         if os.path.exists(file_path):
             print(f'{word_query} already exist')
             continue
@@ -137,8 +152,7 @@ def create_json_files(collection, jsons_directory):
         print('-' * 40)
 
 
-def update_json_files(collection, jsons_directory):
-    words = all_words(collection)
+def update_json_files(words, jsons_directory):
     _times.clear()
     count = 0
     for index, word in enumerate(words):
@@ -147,7 +161,7 @@ def update_json_files(collection, jsons_directory):
         word_query = word_query.replace('|', '')
         word_query = word_query.strip()
 
-        file_path = f'{jsons_directory}/{word_query}.json'
+        file_path = f'{jsons_directory}/{safe_filename(word_query)}.json'
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 word_data = json.load(f)
@@ -213,8 +227,8 @@ def card_template():
                 {{/de_example_sentence_2}}
                 </ul>
                 </div><br/>
-                <div><b>🔁 Synonyme</b> <br/> {{de_synonyms}}</div><br/>
                 <div><b>🇮🇷 Bedeutung (FA)</b> <br/> {{fa_meaning}}</div><br/>
+                <div><b>🔁 Synonyme</b> <br/> {{de_synonyms}}</div><br/>
                 <div><b>🇬🇧 Bedeutung (EN)</b> <br/> {{en_meaning}}</div><br/><br/>
                 <div><b>🧩 Wortart:</b> {{part_of_speech}}</div>
                 {{#is_verb}}
@@ -288,26 +302,22 @@ def b2_kontext_fields_data(word_query, word, de_meaning, de_meaning_fa, de_synon
     ]
 
 
-def b2_kontext_model():
+def create_anki_model(apkg_params: ApkgParams):
     return genanki.Model(
-        model_id=1607392319,
-        name='B2 Kontext Words|Meanings|Examples',
+        model_id=apkg_params.model_id,
+        name=apkg_params.model_name,
         fields=b2_kontext_fields(),
         templates=[card_template()],
         css=template_css(),
     )
 
 
-def b2_kontext_deck():
-    return genanki.Deck(
-        deck_id=2059400110,
-        name='B2 Kontext Deck'
+def gen_anki(apkg_params: ApkgParams, jsons_directory, apkg_path):
+    my_model = create_anki_model(apkg_params)
+    deck = genanki.Deck(
+        deck_id=apkg_params.deck_id,
+        name=apkg_params.deck_name,
     )
-
-
-def gen_anki(jsons_directory, apkg_path):
-    my_model = b2_kontext_model()
-    deck = b2_kontext_deck()
 
     frequency_map = {
         'Extremely rare': '️Extrem selten',
@@ -353,11 +363,11 @@ def gen_anki(jsons_directory, apkg_path):
                 color_class = "black"
                 if part_of_speech.lower() == "noun":
                     word_lower = word.lower()
-                    if ' der' in word_lower:
+                    if ' der' in word_lower or word_lower.startswith('der '):
                         color_class = "blue"
-                    elif ' die' in word_lower:
+                    elif ' die' in word_lower or word_lower.startswith('die '):
                         color_class = "red"
-                    elif ' das' in word_lower:
+                    elif ' das' in word_lower or word_lower.startswith('das '):
                         color_class = "green"
 
                 fields = b2_kontext_fields_data(
@@ -385,9 +395,8 @@ def gen_anki(jsons_directory, apkg_path):
                 deck.add_note(note)
 
     # Package the deck
-    output_file = os.path.join(apkg_path, '')
-    genanki.Package(deck).write_to_file(output_file)
-    print(f"✅ Done! Your deck is saved as: {output_file}")
+    genanki.Package(deck).write_to_file(apkg_path)
+    print(f"✅ Done! Your deck is saved as: {apkg_path}")
 
 
 def find_redundant_words(collection):
@@ -411,16 +420,30 @@ def find_redundant_words(collection):
                 print('- ', word)
 
 
+def b2_apkg_params():
+    return ApkgParams(
+        model_name='B2 Kontext Words|Meanings|Examples',
+        model_id=1607392319,
+        deck_name='B2 Kontext Deck',
+        deck_id=2059400110,
+    )
+
+
 if __name__ == '__main__':
     collection = apkg_collections.B2_Kontext
     jsons_directory = './data/b2_kontext_jsons'
     apkg_path = f'{apkg_collections.B2_Kontext_Words_Meanings_Examples.collection_path}.apkg'
-    create_json_files(collection, jsons_directory)
-    update_json_files(collection, jsons_directory)
+    words = all_words(collection)
+    create_json_files(words, jsons_directory)
+    update_json_files(words, jsons_directory)
+    apkg_params = b2_apkg_params()
     gen_anki(jsons_directory, apkg_path)
 
-    b2_kontext = b2_kontext_model()
-    b2_kontext_deck = b2_kontext_deck()
+    b2_kontext = create_anki_model(apkg_params)
+    b2_kontext_deck = genanki.Deck(
+        deck_id=apkg_params.deck_id,
+        name=apkg_params.deck_name,
+    )
     add_audio(
         collection=apkg_collections.B2_Kontext_Words_Meanings_Examples,
         model_id=b2_kontext.model_id + 1,
