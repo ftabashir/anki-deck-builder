@@ -10,6 +10,7 @@ from apkg_audio import add_audio
 from apkg import print_field_names, get_cursor, search_notes_for_word, get_field_names, get_notes
 from format_duration import format_duration
 from ollama_api import call_ollama
+from openai_api import call_openai
 
 PROMPTS = {
     'en_meaning': ('Translate the meaning of the German word "{}" into simple English. '
@@ -196,6 +197,46 @@ def update_json_files(words, jsons_directory):
             print(f"{key:<20} {round(time, 0):<5} {percentage:<4}% {'=' * int(percentage / 5)}")
         print('-' * 40)
 
+
+def update_json_files_with_openai(words, jsons_directory):
+    _times.clear()
+    count = 0
+    for index, word in enumerate(words):
+        word_query = word.split(',')[0]
+        word_query = word_query.split(' (')[0]
+        word_query = word_query.replace('|', '')
+        word_query = word_query.strip()
+
+        file_path = f'{jsons_directory}/{safe_filename(word_query)}.json'
+        if os.path.exists(file_path):
+            print(f'{word_query} already exist')
+            continue
+
+        word_data = call_openai(word, word_query)
+        word_data['word'] = word
+        word_data['word_query'] = word_query
+
+        print(json.dumps(word_data, indent=4))
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(word_data, f, indent=4, ensure_ascii=False)
+
+        total = sum(_times.values())
+        count += 1
+        print('-' * 40)
+        print(f'word_query:{word_query}')
+        print(f'word: {word}')
+        print(f'index {index} of {len(words)}')
+        print(f'generated: {count}')
+        print(f'skipped: {index + 1 - count}')
+        print(f'total time: {format_duration(total)}')
+        print(f'words per minute: {round(60 / (total / count), 1)}')
+        print(f'estimated remaining time: {format_duration((len(words) - index) * (total / count))}')
+        print('-' * 40)
+        for key, time in _times.items():
+            percentage = round((time / total) * 100, 1)
+            print(f"{key:<20} {round(time, 0):<5} {percentage:<4}% {'=' * int(percentage / 5)}")
+        print('-' * 40)
 
 def card_template():
     return {

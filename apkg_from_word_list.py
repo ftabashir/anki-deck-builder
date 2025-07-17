@@ -12,16 +12,16 @@ def read_words(file_path):
 
 if __name__ == '__main__':
     file_path = "./data/b2_kontext_kapitel_9.txt"
-    jsons_directory = "./data/b2_kontext_kapitel_9_jsons"
-    apkg_path = "./data/b2_kontext_kapitel_9.apkg"
+    jsons_directory = "./data/b2_kontext_kapitel_9_jsons_openai"
+    apkg_path = "./data/b2_kontext_kapitel_9_openai.apkg"
     words = read_words(file_path)
     create_json_files(words, jsons_directory)
     update_json_files(words, jsons_directory)
 
     apkg_params = ApkgParams(
         model_name='B2 Kontext K_09',
-        model_id=1607392109,
-        deck_name='B2 Kontext K_09 Deck',
-        deck_id=2059400509,
+        model_id=1707392109,
+        deck_name='B2 Kontext K_09 Deck (OpenAI)',
+        deck_id=2159400509,
     )
     gen_anki(apkg_params, jsons_directory, apkg_path)
