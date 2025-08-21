@@ -13,6 +13,7 @@ def new_model(model_id, model_name, old_model_fields, old_card_template, old_car
     fields.append({'name': 'word_query_audio'}, )
     fields.append({'name': 'de_example_sentence_1_audio'}, )
     fields.append({'name': 'de_example_sentence_2_audio'}, )
+    fields.append({'name': 'silent_audio'}, )
     card_template = old_card_template.copy()
     word_query_audio = """
                 {{#word_query_audio}}
@@ -29,7 +30,10 @@ def new_model(model_id, model_name, old_model_fields, old_card_template, old_car
                         <span class="small-audio">{{de_example_sentence_2_audio}}</span>
                         {{/de_example_sentence_2_audio}}
         """
+    silent_audio_template = """<span class="hidden-audio">{{silent_audio}}</span>"""
     card_template['qfmt'] = card_template['qfmt'] + word_query_audio
+    card_template['afmt'] = card_template['afmt'].replace('<div><b>💬 Beispiel</b>',
+                                                          silent_audio_template + '<div><b>💬 Beispiel</b>')
     card_template['afmt'] = card_template['afmt'].replace('{{de_example_sentence_1}}',
                                                           '{{de_example_sentence_1}}' + de_example_sentence_1_audio)
     card_template['afmt'] = card_template['afmt'].replace('{{de_example_sentence_2}}',
@@ -83,6 +87,10 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
     deck = genanki.Deck(deck_id, deck_name)
     package = genanki.Package(deck, media_files=[])
 
+    silent_audio = './2-seconds-of-silence.mp3'
+    silent_audio_tag = f'[sound:{os.path.basename(silent_audio)}]'
+    package.media_files.append(silent_audio)
+
     total_time = 0
     for i, (note_id, guid, flds) in enumerate(notes_data):
 
@@ -104,6 +112,7 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
             audio_tag = f'[sound:{os.path.basename(audio_file_path)}]'
             new_fields.append(audio_tag)
             package.media_files.append(audio_file_path)
+        new_fields.append(silent_audio_tag)
         end = time.time()
         i_time = end - start
         total_time += i_time

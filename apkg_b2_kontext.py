@@ -249,7 +249,7 @@ def card_template():
                 <div style="color: #999999; font-size: 16px;text-align: right;">{{de_meaning_fa}}</div>
                 </div><br/>
                 <div><b>💬 Beispiel</b> <br/> 
-                <ul style="margin-top: 4px;">
+                <ul style="margin-top: 0px;">
                 {{#de_example_sentence_1}}
                 <li style="font-size: 16px;">{{de_example_sentence_1}}
                 {{#de_example_sentence_fa_1}}
@@ -289,6 +289,9 @@ def template_css():
                 }    
                 .small-audio .replay-button {
                   transform: scale(0.5);
+                }
+                .hidden-audio .replay-button {
+                  display: none;
                 }
             """
 
