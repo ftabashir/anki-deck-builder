@@ -31,10 +31,35 @@
         - `python -m piper.download_voices de_DE-thorsten-high`
         - `python -m piper.download_voices de_DE-kerstin-low`
         - `python -m piper.download_voices de_DE-eva_k-x_low`
+        - `python -m piper.download_voices de_DE-mls-medium`
       - Run http server
         - `python -m piper.http_server -m de_DE-karlsson-low`
       - Request to http server
         - `curl -X POST -H 'Content-Type: application/json' -d '{ "text": "Hallo, wie gehts dir?", "voice":"de_DE-thorsten-high" }' -o test.wav localhost:5000`
+- Coqui.ai
+  - Dependencies
+    - brew install espeak
+  - German models available:
+    - tts_models/de/thorsten/tacotron2-DCA
+    - tts_models/de/thorsten/vits
+    - tts_models/de/thorsten/tacotron2-DDC
+    - tts_models/de/css10/vits-neon
+    - ✅ Downloaded 
+      - tts_models/de/thorsten/tacotron2-DCA
+        - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--tacotron2-DCA/model_file.pth
+        - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--tacotron2-DCA/config.json
+      - tts_models/de/thorsten/tacotron2-DDC
+        - Model's license - apache 2.0 https://choosealicense.com/licenses/apache-2.0/ 
+        - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--tacotron2-DDC/model_file.pth
+        - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--tacotron2-DDC/config.json
+      - tts_models/de/thorsten/vits
+        - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--vits/model_file.pth
+        - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--vits/config.json
+      - tts_models/de/css10/vits-ne[config.json](../../Library/Application%20Support/tts/tts_models--de--css10--vits-neon/config.json)on
+        - Model's license - bsd-3-clause https://opensource.org/licenses 
+        - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--css10--vits-neon/model_file.pth.tar
+        - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--css10--vits-neon/config.json
+  - 
 - Other TTS options
   - Amazon, 12 MONTHS FREE, 5M characters per month
     - https://aws.amazon.com/free/machine-learning/?trk=23ccddbd-d7fb-40a8-9906-df8c7c4ad8c0&sc_channel=ps&ef_id=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE:G:s&s_kwcid=AL!4422!3!645251324771!p!!g!!text%20to%20voice%20software!19579658393!146073071220&gad_campaignid=19579658393&gbraid=0AAAAADjHtp8uI4-H67-UagyHfOKT-hPdL&gclid=EAIaIQobChMI3K-zv5S3jgMVibKDBx2R8jcGEAAYAiAAEgIPK_D_BwE

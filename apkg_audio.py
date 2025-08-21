@@ -5,7 +5,9 @@ from piper import PiperVoice, SynthesisConfig
 import genanki
 from apkg import get_cursor, get_field_names
 from extract_apkg import extract_apkg
+from file_utils import safe_filename
 from format_duration import format_duration
+from tts_coqui import coqui_generate_audio
 
 
 def new_model(model_id, model_name, old_model_fields, old_card_template, old_card_css):
@@ -64,7 +66,15 @@ def synthesize_wav(text, file_path, model_path='./de_DE-thorsten-high.onnx'):
         voice.synthesize_wav(text, wav_file, _syn_config)
 
 
-def add_audio(collection, model_id, model_name, old_model_fields, old_card_template, old_card_css, deck_id, deck_name):
+def generate_audio(text, file_path, with_lib='piper'):
+    if with_lib == 'piper':
+        synthesize_wav(text, file_path)
+    elif with_lib == 'coqui':
+        coqui_generate_audio(text, file_path)
+
+
+def add_audio(collection, model_id, model_name, old_model_fields, old_card_template, old_card_css, deck_id, deck_name,
+              with_lib='piper'):
     apkg_path = f'{collection.collection_path}.apkg'
     new_apkg_path = f'{collection.collection_path}|Audio.apkg'
     extract_to = f'{collection.collection_path}_extracted'
@@ -106,9 +116,9 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
         for audio_field in audio_fields:
             field_index = field_names.index(audio_field)
             field = fields[field_index]
-            audio_file_path = f'./audio/{field}.wav'
+            audio_file_path = f'./audio/{safe_filename(field)}.wav'
             if not os.path.exists(audio_file_path):
-                synthesize_wav(field, audio_file_path)
+                generate_audio(field, audio_file_path, with_lib)
             audio_tag = f'[sound:{os.path.basename(audio_file_path)}]'
             new_fields.append(audio_tag)
             package.media_files.append(audio_file_path)

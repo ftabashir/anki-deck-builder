@@ -484,4 +484,5 @@ if __name__ == '__main__':
         old_card_css=b2_kontext.css,
         deck_id=b2_kontext_deck.deck_id + 1,
         deck_name=f'{b2_kontext_deck.name} with Audio',
+        with_lib='coqui', # piper or coqui
     )
