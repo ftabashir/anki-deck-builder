@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Abbrechen bedeutet, etwas nicht zu Ende zu machen oder etwas zu stoppen.",
+    "de_meaning_fa": "Abbrechen یعنی چیزی را تمام نکردن یا آن را متوقف کردن.",
+    "de_synonyms": [
+        "stoppen",
+        "beenden",
+        "unterbrechen"
+    ],
+    "de_example_1": "Ich muss das Spiel abbrechen.",
+    "de_example_fa_1": "من باید بازی را متوقف کنم.",
+    "de_example_2": "Wir mussten das Meeting abbrechen.",
+    "de_example_fa_2": "ما مجبور شدیم جلسه را قطع کنیم.",
+    "fa_meaning": "قطع کردن، متوقف کردن، نیمه‌کاره رها کردن",
+    "en_meaning": "to cancel, to stop, to abort, to break off",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + abgebrochen / brach ab",
+    "is_verb": true,
+    "word": "abbrechen",
+    "word_query": "abbrechen"
+}

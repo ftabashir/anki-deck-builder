@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Roman ist ein langes Buch, das eine erfundene Geschichte erzählt.",
+    "de_meaning_fa": "رمان یک کتاب طولانی است که یک داستان تخیلی را تعریف می‌کند.",
+    "de_synonyms": [
+        "Erzählung",
+        "Buch",
+        "Geschichte"
+    ],
+    "de_example_1": "Ich lese jeden Monat einen neuen Roman.",
+    "de_example_fa_1": "من هر ماه یک رمان جدید می‌خوانم.",
+    "de_example_2": "Der Roman ist sehr spannend.",
+    "de_example_fa_2": "این رمان بسیار هیجان‌انگیز است.",
+    "fa_meaning": "رمان",
+    "en_meaning": "novel",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Roman, -e (ich lese gerne Abenteuerromane.)",
+    "word_query": "der Roman"
+}

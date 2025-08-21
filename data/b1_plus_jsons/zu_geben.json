@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas zugeben bedeutet, dass man sagt, dass man etwas gemacht hat, oft etwas, das nicht richtig war.",
+    "de_meaning_fa": "اعتراف کردن یعنی اینکه بگویید کاری را انجام داده‌اید، اغلب کاری که درست نبوده است.",
+    "de_synonyms": [
+        "eingestehen",
+        "gestehen",
+        "einräumen"
+    ],
+    "de_example_1": "Er muss seinen Fehler zugeben.",
+    "de_example_fa_1": "او باید به اشتباهش اعتراف کند.",
+    "de_example_2": "Ich gebe zu, dass ich die Hausaufgaben vergessen habe.",
+    "de_example_fa_2": "من اعتراف می‌کنم که تکالیفم را فراموش کردم.",
+    "fa_meaning": "اعتراف کردن، پذیرفتن",
+    "en_meaning": "to admit, to confess",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat zugegeben / gab zu",
+    "is_verb": true,
+    "word": "zu/geben (gibt zu, gab zu, hat zugegeben) (einen Fehler zugeben)",
+    "word_query": "zu/geben"
+}

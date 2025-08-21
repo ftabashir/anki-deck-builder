@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Planet ist ein großer Himmelskörper, der um eine Sonne kreist.",
+    "de_meaning_fa": "یک سیاره یک جسم آسمانی بزرگ است که به دور یک خورشید می‌چرخد.",
+    "de_synonyms": [
+        "Himmelskörper",
+        "Welt",
+        "Gestirn"
+    ],
+    "de_example_1": "Die Erde ist ein Planet.",
+    "de_example_fa_1": "زمین یک سیاره است.",
+    "de_example_2": "Es gibt acht Planeten in unserem Sonnensystem.",
+    "de_example_fa_2": "در منظومه شمسی ما هشت سیاره وجود دارد.",
+    "fa_meaning": "سیاره",
+    "en_meaning": "planet",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Planet, -en",
+    "word_query": "der Planet"
+}

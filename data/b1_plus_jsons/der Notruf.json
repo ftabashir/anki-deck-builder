@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Notruf ist ein Anruf, den man macht, wenn man dringend Hilfe braucht, zum Beispiel bei einem Unfall oder Feuer.",
+    "de_meaning_fa": "نوتروف یک تماس تلفنی است که وقتی به کمک فوری نیاز دارید، مثلاً در تصادف یا آتش‌سوزی، انجام می‌دهید.",
+    "de_synonyms": [
+        "Hilferuf",
+        "Alarmruf",
+        "SOS"
+    ],
+    "de_example_1": "Ich habe einen Notruf gewählt, weil es einen Unfall gab.",
+    "de_example_fa_1": "من با شماره اضطراری تماس گرفتم چون تصادفی رخ داده بود.",
+    "de_example_2": "Im Notfall sollte man sofort den Notruf anrufen.",
+    "de_example_fa_2": "در مواقع اضطراری باید فوراً با شماره اضطراری تماس گرفت.",
+    "fa_meaning": "تماس اضطراری، تماس برای درخواست کمک فوری",
+    "en_meaning": "emergency call",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Notruf, -e",
+    "word_query": "der Notruf"
+}

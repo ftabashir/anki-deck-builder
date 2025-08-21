@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Erfassen bedeutet, etwas genau verstehen oder etwas aufschreiben und speichern.",
+    "de_meaning_fa": "ارفسن یعنی چیزی را دقیقاً فهمیدن یا چیزی را یادداشت و ذخیره کردن.",
+    "de_synonyms": [
+        "begreifen",
+        "verstehen",
+        "registrieren"
+    ],
+    "de_example_1": "Ich konnte die Bedeutung des Textes schnell erfassen.",
+    "de_example_fa_1": "من توانستم معنای متن را به سرعت درک کنم.",
+    "de_example_2": "Die Daten werden im System erfasst.",
+    "de_example_fa_2": "داده‌ها در سیستم ثبت می‌شوند.",
+    "fa_meaning": "درک کردن، ثبت کردن، فهمیدن",
+    "en_meaning": "to grasp, to comprehend, to record, to capture",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + erfasst / erfasste",
+    "is_verb": true,
+    "word": "erfassen",
+    "word_query": "erfassen"
+}

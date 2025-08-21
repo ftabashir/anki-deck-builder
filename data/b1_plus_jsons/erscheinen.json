@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas wird sichtbar oder kommt irgendwohin, wo man es sehen kann.",
+    "de_meaning_fa": "چیزی دیده می‌شود یا جایی می‌آید که می‌توان آن را دید.",
+    "de_synonyms": [
+        "auftauchen",
+        "sichtbar werden",
+        "auftreten"
+    ],
+    "de_example_1": "Das neue Buch erscheint nächste Woche.",
+    "de_example_fa_1": "کتاب جدید هفته آینده منتشر می‌شود.",
+    "de_example_2": "Plötzlich erschien ein Hund auf der Straße.",
+    "de_example_fa_2": "ناگهان یک سگ در خیابان ظاهر شد.",
+    "fa_meaning": "ظاهر شدن، منتشر شدن",
+    "en_meaning": "to appear, to be published",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + erschienen / erschien",
+    "is_verb": true,
+    "word": "erscheinen (erscheint ,erschien, ist erschienen)",
+    "word_query": "erscheinen"
+}

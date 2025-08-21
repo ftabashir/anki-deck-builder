@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Das Wort 'ticken' bedeutet, dass eine Uhr oder etwas Ähnliches regelmäßig kleine Geräusche macht, wenn die Zeit vergeht.",
+    "de_meaning_fa": "کلمه 'ticken' یعنی یک ساعت یا چیزی شبیه آن هنگام گذشت زمان به طور منظم صداهای کوچکی ایجاد می‌کند.",
+    "de_synonyms": [
+        "klopfen",
+        "schlagen",
+        "klacken"
+    ],
+    "de_example_1": "Die Uhr an der Wand tickt leise.",
+    "de_example_fa_1": "ساعت روی دیوار آرام تیک‌تیک می‌کند.",
+    "de_example_2": "Mein Wecker tickt jede Sekunde.",
+    "de_example_fa_2": "ساعت زنگ‌دار من هر ثانیه تیک‌تیک می‌کند.",
+    "fa_meaning": "تیک‌تیک کردن (ساعت یا چیزی شبیه آن)",
+    "en_meaning": "to tick (to make a regular small sound, like a clock)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + getickt / tickte",
+    "is_verb": true,
+    "word": "ticken (Die innere Uhr tickt.)",
+    "word_query": "ticken"
+}

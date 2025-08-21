@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas tun, das oft negativ ist, zum Beispiel einen Fehler machen oder ein Verbrechen ausführen.",
+    "de_meaning_fa": "کاری انجام دادن که معمولاً منفی است، مثلاً اشتباه کردن یا مرتکب جرم شدن.",
+    "de_synonyms": [
+        "ausführen",
+        "machen",
+        "verüben"
+    ],
+    "de_example_1": "Er hat einen Fehler begangen.",
+    "de_example_fa_1": "او یک اشتباه مرتکب شد.",
+    "de_example_2": "Dieb hat ein Verbrechen begangen.",
+    "de_example_fa_2": "دزد یک جرم مرتکب شد.",
+    "fa_meaning": "مرتکب شدن، انجام دادن (معمولاً برای کارهای منفی مثل اشتباه یا جرم)",
+    "en_meaning": "to commit, to make (usually used for something negative like an error or a crime)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + begangen / beging",
+    "is_verb": true,
+    "word": "begehen (begeht, beging, hat begangen) (begeht, beging, hat begangen) (einen Fehler begehen)",
+    "word_query": "begehen"
+}

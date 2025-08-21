@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas vermietet, gibt man zum Beispiel eine Wohnung oder ein Auto für Geld an eine andere Person, damit sie es für eine bestimmte Zeit benutzen kann.",
+    "de_meaning_fa": "وقتی کسی چیزی را اجاره می‌دهد، مثلاً یک آپارتمان یا ماشین را در ازای پول به شخص دیگری می‌دهد تا او بتواند مدتی از آن استفاده کند.",
+    "de_synonyms": [
+        "verpachten",
+        "überlassen",
+        "zur Verfügung stellen"
+    ],
+    "de_example_1": "Ich vermiete meine Wohnung an Studenten.",
+    "de_example_fa_1": "من آپارتمانم را به دانشجویان اجاره می‌دهم.",
+    "de_example_2": "Sie vermietet ihr Auto für das Wochenende.",
+    "de_example_fa_2": "او ماشینش را برای آخر هفته اجاره می‌دهد.",
+    "fa_meaning": "اجاره دادن",
+    "en_meaning": "to rent out; to lease",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + vermietet / vermietete",
+    "is_verb": true,
+    "word": "vermieten",
+    "word_query": "vermieten"
+}

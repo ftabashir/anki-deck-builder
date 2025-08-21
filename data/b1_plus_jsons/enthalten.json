@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas enthält etwas, wenn es dieses Ding in sich hat oder dabei hat.",
+    "de_meaning_fa": "وقتی چیزی شامل چیز دیگری است، یعنی آن را در خود دارد یا همراه خود دارد.",
+    "de_synonyms": [
+        "beinhalten",
+        "in sich haben",
+        "einschließen"
+    ],
+    "de_example_1": "Diese Suppe enthält viel Gemüse.",
+    "de_example_fa_1": "این سوپ سبزیجات زیادی دارد.",
+    "de_example_2": "Die Packung enthält zehn Stück.",
+    "de_example_fa_2": "این بسته ده عدد دارد.",
+    "fa_meaning": "شامل بودن، در بر داشتن",
+    "en_meaning": "to contain, to include",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat enthalten / enthielt",
+    "is_verb": true,
+    "word": "enthalten (enthält, enthielt, hat enthalten)",
+    "word_query": "enthalten"
+}

@@ -453,22 +453,22 @@ def find_redundant_words(collection):
 
 def b2_apkg_params():
     return ApkgParams(
-        model_name='B2 Kontext Words|Meanings|Examples',
-        model_id=1607392319,
-        deck_name='B2 Kontext Deck',
-        deck_id=2059400110,
+        model_name=f'B1+ Kontext',
+        model_id=1707400100,
+        deck_name=f'B1+ Kontext Deck',
+        deck_id=2159500500,
     )
 
 
 if __name__ == '__main__':
-    collection = apkg_collections.B2_Kontext
-    jsons_directory = './data/b2_kontext_jsons'
-    apkg_path = f'{apkg_collections.B2_Kontext_Words_Meanings_Examples.collection_path}.apkg'
-    words = all_words(collection)
-    create_json_files(words, jsons_directory)
-    update_json_files(words, jsons_directory)
+    collection = apkg_collections.B1_plus_Kontext
+    # jsons_directory = './data/b1_plus_jsons'
+    apkg_path = f'{collection.collection_path}.apkg'
+    # words = all_words(collection)
+    # create_json_files(words, jsons_directory)
+    # update_json_files(words, jsons_directory)
     apkg_params = b2_apkg_params()
-    gen_anki(jsons_directory, apkg_path)
+    # gen_anki(jsons_directory, apkg_path)
 
     b2_kontext = create_anki_model(apkg_params)
     b2_kontext_deck = genanki.Deck(
@@ -476,7 +476,7 @@ if __name__ == '__main__':
         name=apkg_params.deck_name,
     )
     add_audio(
-        collection=apkg_collections.B2_Kontext_Words_Meanings_Examples,
+        collection=collection,
         model_id=b2_kontext.model_id + 1,
         model_name=b2_kontext.name + "|Audio",
         old_model_fields=b2_kontext.fields,

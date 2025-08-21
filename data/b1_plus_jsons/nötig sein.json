@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas ist nötig, wenn man es braucht oder wenn es wichtig ist, etwas zu tun.",
+    "de_meaning_fa": "چیزی لازم است وقتی که به آن نیاز داریم یا وقتی انجام کاری مهم است.",
+    "de_synonyms": [
+        "notwendig sein",
+        "erforderlich sein",
+        "gebraucht werden"
+    ],
+    "de_example_1": "Es ist nötig, jeden Tag Wasser zu trinken.",
+    "de_example_fa_1": "لازم است هر روز آب بنوشیم.",
+    "de_example_2": "Ist es nötig, jetzt zu gehen?",
+    "de_example_fa_2": "آیا لازم است الان برویم؟",
+    "fa_meaning": "لازم بودن",
+    "en_meaning": "to be necessary",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "sein + nötig gewesen / war nötig",
+    "is_verb": true,
+    "word": "nötig sein",
+    "word_query": "nötig sein"
+}

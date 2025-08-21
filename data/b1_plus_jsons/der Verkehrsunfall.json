@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Verkehrsunfall ist, wenn zwei oder mehr Fahrzeuge auf der Straße zusammenstoßen oder ein Fahrzeug einen Schaden verursacht.",
+    "de_meaning_fa": "تصادف رانندگی زمانی است که دو یا چند وسیله نقلیه در جاده با هم برخورد می‌کنند یا یک وسیله نقلیه باعث خسارت می‌شود.",
+    "de_synonyms": [
+        "Autounfall",
+        "Zusammenstoß",
+        "Kollision"
+    ],
+    "de_example_1": "Gestern gab es einen Verkehrsunfall auf der Autobahn.",
+    "de_example_fa_1": "دیروز یک تصادف رانندگی در بزرگراه اتفاق افتاد.",
+    "de_example_2": "Bei dem Verkehrsunfall wurde niemand verletzt.",
+    "de_example_fa_2": "در آن تصادف رانندگی کسی آسیب ندید.",
+    "fa_meaning": "تصادف رانندگی",
+    "en_meaning": "traffic accident",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Verkehrsunfall, \"-e",
+    "word_query": "der Verkehrsunfall"
+}

@@ -52,14 +52,15 @@ def new_model(model_id, model_name, old_model_fields, old_card_template, old_car
 
 _syn_config = SynthesisConfig(
     volume=1.0,
-    length_scale=1.2,  # 1.2 slower
-    noise_scale=1.0,  # more audio variation
-    noise_w_scale=1.0,  # more speaking variation
+    length_scale=1.0,  # 1.2 slower
+    noise_scale=0.0,  # more audio variation
+    noise_w_scale=0.0,  # more speaking variation
     normalize_audio=False,  # use raw audio from voice
+    # speaker_id=69,
 )
 
 
-def synthesize_wav(text, file_path, model_path='./de_DE-thorsten-high.onnx'):
+def synthesize_wav(text, file_path, model_path='./de_DE-eva_k-x_low.onnx'):
     voice = PiperVoice.load(model_path)
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with wave.open(file_path, "w") as wav_file:
@@ -80,7 +81,7 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
     extract_to = f'{collection.collection_path}_extracted'
     extract_apkg(apkg_path, extract_to)
 
-    cur = get_cursor(extract_to, collection.database_name)
+    cur = get_cursor(collection.collection_path, collection.database_name)
     field_names = get_field_names(cur)
     cur.execute("SELECT id, guid, flds FROM notes")
     notes_data = cur.fetchall()

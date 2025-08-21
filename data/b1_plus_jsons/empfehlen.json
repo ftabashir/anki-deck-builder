@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man jemandem sagt, was gut ist oder was er machen soll, um ihm zu helfen.",
+    "de_meaning_fa": "وقتی به کسی می‌گویید چه چیزی خوب است یا چه کاری باید انجام دهد تا به او کمک کنید.",
+    "de_synonyms": [
+        "vorschlagen",
+        "anraten",
+        "nahelegen"
+    ],
+    "de_example_1": "Ich empfehle dir dieses Buch.",
+    "de_example_fa_1": "من این کتاب را به تو توصیه می‌کنم.",
+    "de_example_2": "Der Arzt empfiehlt viel Wasser zu trinken.",
+    "de_example_fa_2": "پزشک نوشیدن آب زیاد را توصیه می‌کند.",
+    "fa_meaning": "توصیه کردن، پیشنهاد دادن",
+    "en_meaning": "to recommend, to suggest",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat empfohlen / empfahl",
+    "is_verb": true,
+    "word": "empfehlen (empfiehlt, empfahl, hat empfohlen)",
+    "word_query": "empfehlen"
+}

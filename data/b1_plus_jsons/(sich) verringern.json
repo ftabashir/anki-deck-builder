@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas wird weniger oder kleiner als vorher.",
+    "de_meaning_fa": "چیزی کمتر یا کوچکتر از قبل می‌شود.",
+    "de_synonyms": [
+        "abnehmen",
+        "sinken",
+        "reduzieren"
+    ],
+    "de_example_1": "Die Zahl der Unfälle hat sich verringert.",
+    "de_example_fa_1": "تعداد تصادفات کمتر شده است.",
+    "de_example_2": "Die Kosten verringern sich jedes Jahr.",
+    "de_example_fa_2": "هزینه‌ها هر سال کمتر می‌شوند.",
+    "fa_meaning": "کم شدن، کاهش یافتن",
+    "en_meaning": "to decrease, to reduce, to diminish",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + sich verringert / verringerte sich",
+    "is_verb": true,
+    "word": "(sich) verringern",
+    "word_query": "(sich) verringern"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas über dem Durchschnitt liegt, ist es besser oder mehr als normal. Wenn etwas unter dem Durchschnitt liegt, ist es schlechter oder weniger als normal.",
+    "de_meaning_fa": "اگر چیزی بالاتر از میانگین باشد، بهتر یا بیشتر از حالت عادی است. اگر چیزی پایین‌تر از میانگین باشد، بدتر یا کمتر از حالت عادی است.",
+    "de_synonyms": [
+        "besser/schlechter als der Durchschnitt sein",
+        "über/unter dem Mittelwert liegen",
+        "herausragen/herabfallen"
+    ],
+    "de_example_1": "Seine Noten liegen über dem Durchschnitt.",
+    "de_example_fa_1": "نمرات او بالاتر از میانگین است.",
+    "de_example_2": "Die Temperaturen liegen heute unter dem Durchschnitt.",
+    "de_example_fa_2": "امروز دماها پایین‌تر از میانگین هستند.",
+    "fa_meaning": "بالا/پایین‌تر از میانگین بودن",
+    "en_meaning": "to be above/below average",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gelegen / lag",
+    "is_verb": true,
+    "word": "über/unter dem Durchschnitt liegen (liegt, lag, hat gelegen)",
+    "word_query": "über/unter dem Durchschnitt liegen"
+}

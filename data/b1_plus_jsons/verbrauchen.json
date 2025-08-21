@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas benutzen, sodass es weniger wird oder am Ende ganz weg ist.",
+    "de_meaning_fa": "چیزی را استفاده کردن به طوری که کم شود یا در نهایت تمام شود.",
+    "de_synonyms": [
+        "aufbrauchen",
+        "verwenden",
+        "konsumieren"
+    ],
+    "de_example_1": "Wir verbrauchen jeden Tag viel Wasser.",
+    "de_example_fa_1": "ما هر روز آب زیادی مصرف می‌کنیم.",
+    "de_example_2": "Das Auto verbraucht viel Benzin.",
+    "de_example_fa_2": "این ماشین بنزین زیادی مصرف می‌کند.",
+    "fa_meaning": "مصرف کردن",
+    "en_meaning": "to consume, to use up",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + verbraucht / verbrauchte",
+    "is_verb": true,
+    "word": "verbrauchen (Energie verbrauchen)",
+    "word_query": "verbrauchen"
+}

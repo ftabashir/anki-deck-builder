@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Eigen bedeutet, dass etwas zu einer bestimmten Person gehört und nicht geliehen oder fremd ist.",
+    "de_meaning_fa": "eigen به این معناست که چیزی متعلق به یک شخص خاص است و قرضی یا متعلق به دیگری نیست.",
+    "de_synonyms": [
+        "persönlich",
+        "selbst",
+        "individuell"
+    ],
+    "de_example_1": "Das ist mein eigenes Buch.",
+    "de_example_fa_1": "این کتاب مال خودم است.",
+    "de_example_2": "Sie hat ihr eigenes Zimmer.",
+    "de_example_fa_2": "او اتاق خودش را دارد.",
+    "fa_meaning": "خود، متعلق به خود، شخصی",
+    "en_meaning": "own, personal",
+    "part_of_speech": "Adjektiv",
+    "article": "",
+    "frequency": "Extremely common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "eigen (mein eigener Koffer)",
+    "word_query": "eigen"
+}

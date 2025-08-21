@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Streichen bedeutet, etwas mit Farbe oder einer anderen Flüssigkeit auf eine Oberfläche zu bringen oder etwas zu entfernen oder zu löschen.",
+    "de_meaning_fa": "streichen یعنی رنگ یا مایعی را روی یک سطح کشیدن یا چیزی را حذف یا پاک کردن.",
+    "de_synonyms": [
+        "malen",
+        "löschen",
+        "entfernen"
+    ],
+    "de_example_1": "Ich streiche die Wand blau.",
+    "de_example_fa_1": "من دیوار را آبی رنگ می‌زنم.",
+    "de_example_2": "Er hat seinen Namen aus der Liste gestrichen.",
+    "de_example_fa_2": "او نامش را از لیست حذف کرد.",
+    "fa_meaning": "رنگ زدن، حذف کردن، خط زدن",
+    "en_meaning": "to paint (a surface), to delete, to cross out",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gestrichen / strich",
+    "is_verb": true,
+    "word": "streichen (streicht, strich, hat gestrichen)",
+    "word_query": "streichen"
+}

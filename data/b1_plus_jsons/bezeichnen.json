@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Bezeichnen bedeutet, etwas mit einem Namen oder einem Wort zu nennen oder zu erklären, was etwas ist.",
+    "de_meaning_fa": "به این معنی است که چیزی را با یک نام یا کلمه نام ببرید یا توضیح دهید که آن چیز چیست.",
+    "de_synonyms": [
+        "nennen",
+        "benennen",
+        "beschreiben"
+    ],
+    "de_example_1": "Wir bezeichnen dieses Tier als Hund.",
+    "de_example_fa_1": "ما این حیوان را سگ می‌نامیم.",
+    "de_example_2": "Das Wort 'Apfel' bezeichnet eine Frucht.",
+    "de_example_fa_2": "کلمه 'Apfel' به معنای یک میوه است.",
+    "fa_meaning": "نامیدن، مشخص کردن، توصیف کردن",
+    "en_meaning": "to designate, to describe, to name",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + bezeichnet / bezeichnete",
+    "is_verb": true,
+    "word": "bezeichnen (Der Begriff bezeichnet ..)",
+    "word_query": "bezeichnen"
+}

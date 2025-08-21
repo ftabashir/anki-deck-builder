@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Gießen bedeutet, eine Flüssigkeit, zum Beispiel Wasser, irgendwohin zu schütten oder zu verteilen, oft um Pflanzen zu bewässern.",
+    "de_meaning_fa": "ریختن یعنی یک مایع، مثلاً آب، را جایی ریختن یا پخش کردن، معمولاً برای آبیاری گیاهان.",
+    "de_synonyms": [
+        "bewässern",
+        "schütten",
+        "träufeln"
+    ],
+    "de_example_1": "Ich gieße jeden Tag die Blumen im Garten.",
+    "de_example_fa_1": "من هر روز گل‌های باغ را آب می‌دهم.",
+    "de_example_2": "Bitte gieße das Wasser in das Glas.",
+    "de_example_fa_2": "لطفاً آب را داخل لیوان بریز.",
+    "fa_meaning": "ریختن، آب دادن (به گیاهان)",
+    "en_meaning": "to pour, to water (plants)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + gegossen / goss",
+    "is_verb": true,
+    "word": "gießen (gießt, goss, hat gegossen)",
+    "word_query": "gießen"
+}

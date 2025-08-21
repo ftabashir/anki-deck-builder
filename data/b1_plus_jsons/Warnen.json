@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Warnen bedeutet, jemandem sagen, dass etwas gefährlich oder schlecht sein könnte.",
+    "de_meaning_fa": "هشدار دادن یعنی به کسی بگوییم که چیزی ممکن است خطرناک یا بد باشد.",
+    "de_synonyms": [
+        "hinweisen",
+        "alarmieren",
+        "mahnen"
+    ],
+    "de_example_1": "Die Mutter warnt ihr Kind vor dem heißen Herd.",
+    "de_example_fa_1": "مادر به فرزندش درباره اجاق داغ هشدار می‌دهد.",
+    "de_example_2": "Ich möchte dich vor diesem Hund warnen.",
+    "de_example_fa_2": "می‌خواهم به تو درباره این سگ هشدار بدهم.",
+    "fa_meaning": "هشدار دادن",
+    "en_meaning": "to warn",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gewarnt / warnte",
+    "is_verb": true,
+    "word": "Warnen",
+    "word_query": "Warnen"
+}

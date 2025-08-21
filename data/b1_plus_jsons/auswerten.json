@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Auswerten bedeutet, dass man Informationen oder Daten genau anschaut und daraus wichtige Ergebnisse oder Schlüsse zieht.",
+    "de_meaning_fa": "تجزیه و تحلیل یعنی اینکه شما اطلاعات یا داده‌ها را با دقت بررسی می‌کنید و از آن‌ها نتایج یا نتیجه‌گیری‌های مهم می‌گیرید.",
+    "de_synonyms": [
+        "analysieren",
+        "untersuchen",
+        "bewerten"
+    ],
+    "de_example_1": "Die Lehrerin wird die Tests auswerten.",
+    "de_example_fa_1": "معلم آزمون‌ها را ارزیابی خواهد کرد.",
+    "de_example_2": "Wir müssen die Umfrage auswerten.",
+    "de_example_fa_2": "ما باید نظرسنجی را تجزیه و تحلیل کنیم.",
+    "fa_meaning": "تجزیه و تحلیل کردن، ارزیابی کردن",
+    "en_meaning": "to evaluate, to analyze, to assess",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + ausgewertet / wertete aus",
+    "is_verb": true,
+    "word": "auswerten",
+    "word_query": "auswerten"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Passwort ist ein geheimes Wort oder eine Zeichenfolge, die man benutzt, um sich zum Beispiel am Computer oder im Internet anzumelden.",
+    "de_meaning_fa": "گذرواژه یک کلمه یا رشته مخفی است که برای ورود به رایانه یا اینترنت استفاده می‌شود.",
+    "de_synonyms": [
+        "Kennwort",
+        "Geheimwort",
+        "Code"
+    ],
+    "de_example_1": "Du musst dein Passwort eingeben, um dich anzumelden.",
+    "de_example_fa_1": "برای ورود باید گذرواژه خود را وارد کنی.",
+    "de_example_2": "Bitte wähle ein sicheres Passwort.",
+    "de_example_fa_2": "لطفاً یک گذرواژه ایمن انتخاب کن.",
+    "fa_meaning": "گذرواژه",
+    "en_meaning": "password",
+    "part_of_speech": "Substantiv",
+    "article": "das",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "das PassWort, \"-er",
+    "word_query": "das PassWort"
+}

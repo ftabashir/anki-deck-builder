@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas vergeht, dann dauert es eine Zeit und hört dann auf. Zum Beispiel vergeht die Zeit, wenn du wartest.",
+    "de_meaning_fa": "وقتی چیزی می‌گذرد، مدتی طول می‌کشد و بعد تمام می‌شود. مثلا وقتی منتظر هستی، زمان می‌گذرد.",
+    "de_synonyms": [
+        "ablaufen",
+        "vorübergehen",
+        "entschwinden"
+    ],
+    "de_example_1": "Die Ferien vergehen immer viel zu schnell.",
+    "de_example_fa_1": "تعطیلات همیشه خیلی سریع می‌گذرد.",
+    "de_example_2": "Die Schmerzen vergehen nach einiger Zeit.",
+    "de_example_fa_2": "دردها بعد از مدتی می‌گذرند.",
+    "fa_meaning": "گذشتن، سپری شدن",
+    "en_meaning": "to pass, to go by (especially time)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + vergangen / verging",
+    "is_verb": true,
+    "word": "vergehen (vergeht, verging, ist vergangen) (Die Zeit vergeht schnell)",
+    "word_query": "vergehen"
+}

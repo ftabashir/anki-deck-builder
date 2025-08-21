@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Beschließen bedeutet, dass man gemeinsam oder alleine entscheidet, etwas zu tun.",
+    "de_meaning_fa": "تصمیم گرفتن یعنی اینکه یک نفر یا چند نفر با هم تصمیم می‌گیرند کاری را انجام دهند.",
+    "de_synonyms": [
+        "entscheiden",
+        "festlegen",
+        "bestimmen"
+    ],
+    "de_example_1": "Wir beschließen, heute ins Kino zu gehen.",
+    "de_example_fa_1": "ما تصمیم می‌گیریم امروز به سینما برویم.",
+    "de_example_2": "Der Chef hat beschlossen, das Meeting abzusagen.",
+    "de_example_fa_2": "رئیس تصمیم گرفت جلسه را لغو کند.",
+    "fa_meaning": "تصمیم گرفتن",
+    "en_meaning": "to decide, to resolve",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + beschlossen / beschloss",
+    "is_verb": true,
+    "word": "beschließen (beschließt, beschloss ,hat beschlossen)",
+    "word_query": "beschließen"
+}

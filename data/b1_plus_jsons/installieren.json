@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Installieren bedeutet, ein Programm oder eine Software auf einem Computer oder Handy einrichten, damit man es benutzen kann.",
+    "de_meaning_fa": "نصب کردن یعنی یک برنامه یا نرم‌افزار را روی کامپیوتر یا موبایل راه‌اندازی کنیم تا بتوانیم از آن استفاده کنیم.",
+    "de_synonyms": [
+        "einrichten",
+        "aufspielen",
+        "aufsetzen"
+    ],
+    "de_example_1": "Ich möchte ein neues Spiel auf meinem Computer installieren.",
+    "de_example_fa_1": "من می‌خواهم یک بازی جدید روی کامپیوترم نصب کنم.",
+    "de_example_2": "Bitte installieren Sie das Programm, bevor Sie es benutzen.",
+    "de_example_fa_2": "لطفاً برنامه را قبل از استفاده نصب کنید.",
+    "fa_meaning": "نصب کردن",
+    "en_meaning": "to install",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + installiert / installierte",
+    "is_verb": true,
+    "word": "installieren (ein Programm installieren)",
+    "word_query": "installieren"
+}

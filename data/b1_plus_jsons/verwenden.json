@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas benutzen, um ein Ziel zu erreichen.",
+    "de_meaning_fa": "چیزی را برای رسیدن به هدفی به کار بردن.",
+    "de_synonyms": [
+        "benutzen",
+        "anwenden",
+        "gebrauchen"
+    ],
+    "de_example_1": "Ich verwende mein Handy jeden Tag.",
+    "de_example_fa_1": "من هر روز از تلفن همراهم استفاده می‌کنم.",
+    "de_example_2": "Sie verwendet frische Zutaten zum Kochen.",
+    "de_example_fa_2": "او برای آشپزی از مواد تازه استفاده می‌کند.",
+    "fa_meaning": "استفاده کردن، به کار بردن",
+    "en_meaning": "to use, to employ",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + verwendet / verwendete",
+    "is_verb": true,
+    "word": "verwenden",
+    "word_query": "verwenden"
+}

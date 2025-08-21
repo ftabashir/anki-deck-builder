@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Vorhaben bedeutet, dass man etwas plant oder sich vornimmt, etwas in der Zukunft zu tun.",
+    "de_meaning_fa": "Vorhaben یعنی اینکه کسی برنامه‌ریزی کند یا تصمیم بگیرد در آینده کاری انجام دهد.",
+    "de_synonyms": [
+        "planen",
+        "beabsichtigen",
+        "sich vornehmen"
+    ],
+    "de_example_1": "Ich habe vor, morgen ins Kino zu gehen.",
+    "de_example_fa_1": "من قصد دارم فردا به سینما بروم.",
+    "de_example_2": "Sie hat vor, ein neues Auto zu kaufen.",
+    "de_example_fa_2": "او قصد دارد یک ماشین جدید بخرد.",
+    "fa_meaning": "قصد داشتن، برنامه داشتن، تصمیم داشتن",
+    "en_meaning": "to intend, to plan, to mean to do something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + vorgehabt / hatte vor",
+    "is_verb": true,
+    "word": "vorhaben (hat vor, hatte vor, hat vorgehabt) (vorhaben ,ein Geschäft zu eröffnen)",
+    "word_query": "vorhaben"
+}

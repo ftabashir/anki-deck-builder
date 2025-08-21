@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Eine Kontobewegung ist, wenn Geld auf ein Konto eingezahlt oder abgehoben wird. Es zeigt, wenn sich der Kontostand ändert.",
+    "de_meaning_fa": "یک حرکت حساب به این معنی است که پولی به حساب واریز یا از آن برداشت می‌شود. این نشان می‌دهد که موجودی حساب تغییر کرده است.",
+    "de_synonyms": [
+        "die Transaktion",
+        "der Buchungsvorgang",
+        "die Kontoaktivität"
+    ],
+    "de_example_1": "Jede Kontobewegung wird auf dem Kontoauszug angezeigt.",
+    "de_example_fa_1": "هر حرکت حساب در صورت‌حساب بانکی نمایش داده می‌شود.",
+    "de_example_2": "Ich prüfe regelmäßig meine Kontobewegungen online.",
+    "de_example_fa_2": "من به طور منظم حرکات حسابم را به صورت آنلاین بررسی می‌کنم.",
+    "fa_meaning": "حرکت حساب، تراکنش حساب بانکی",
+    "en_meaning": "account transaction; movement of money in or out of an account",
+    "part_of_speech": "Substantiv",
+    "article": "die",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "die Kontobewegung,-en",
+    "word_query": "die Kontobewegung"
+}

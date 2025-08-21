@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Das Vielfache bedeutet eine Zahl, die durch das Multiplizieren einer anderen Zahl entsteht. Es kann auch allgemein etwas bedeuten, das viel größer oder mehr ist als etwas anderes.",
+    "de_meaning_fa": "مفهوم Vielfache عددی است که با ضرب عدد دیگری به دست می‌آید. همچنین می‌تواند به طور کلی به چیزی اشاره کند که خیلی بزرگ‌تر یا بیشتر از چیز دیگری است.",
+    "de_synonyms": [
+        "Mehrfaches",
+        "Multiplikator",
+        "x-fache"
+    ],
+    "de_example_1": "Der Preis ist heute um ein Vielfaches höher als früher.",
+    "de_example_fa_1": "امروز قیمت چندین برابر بیشتر از گذشته است.",
+    "de_example_2": "Sechs ist ein Vielfaches von drei.",
+    "de_example_fa_2": "عدد شش مضربی از عدد سه است.",
+    "fa_meaning": "مضرب، چندین برابر",
+    "en_meaning": "multiple, something that is many times as much",
+    "part_of_speech": "Substantiv",
+    "article": "das",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "das Vielfache (Sg.) (um ein Vielfaches höher)",
+    "word_query": "das Vielfache"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas, das man hat, an eine andere Person oder Stelle geben oder übergeben.",
+    "de_meaning_fa": "چیزی که داری را به شخص یا مکان دیگری دادن یا تحویل دادن.",
+    "de_synonyms": [
+        "übergeben",
+        "einreichen",
+        "aushändigen"
+    ],
+    "de_example_1": "Ich muss das Paket bei der Post abgeben.",
+    "de_example_fa_1": "من باید بسته را در اداره پست تحویل بدهم.",
+    "de_example_2": "Bitte geben Sie Ihre Hausaufgaben ab.",
+    "de_example_fa_2": "لطفاً تکالیف خود را تحویل دهید.",
+    "fa_meaning": "تحویل دادن، واگذار کردن",
+    "en_meaning": "to hand in, to submit, to give something to someone or somewhere",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "hat abgegeben / gab ab",
+    "is_verb": true,
+    "word": "abgeben (gibt ab, gab ab, hat abgegeben)",
+    "word_query": "abgeben"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Nähen bedeutet, mit Nadel und Faden Stoffe zusammenzumachen.",
+    "de_meaning_fa": "دوختن یعنی با سوزن و نخ پارچه‌ها را به هم وصل کردن.",
+    "de_synonyms": [
+        "zusammennähen",
+        "heften",
+        "stopfen"
+    ],
+    "de_example_1": "Meine Mutter kann sehr gut nähen.",
+    "de_example_fa_1": "مادرم خیلی خوب می‌تواند بدوزد.",
+    "de_example_2": "Ich möchte ein Kleid selbst nähen.",
+    "de_example_fa_2": "می‌خواهم یک لباس را خودم بدوزم.",
+    "fa_meaning": "دوختن",
+    "en_meaning": "to sew",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + genäht / nähte",
+    "is_verb": true,
+    "word": "nähen",
+    "word_query": "nähen"
+}

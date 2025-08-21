@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Verhindern bedeutet, dass man etwas tut, damit etwas anderes nicht passiert.",
+    "de_meaning_fa": "جلوگیری کردن یعنی کاری انجام دهیم تا چیزی اتفاق نیفتد.",
+    "de_synonyms": [
+        "stoppen",
+        "unterbinden",
+        "abhalten"
+    ],
+    "de_example_1": "Ich möchte einen Unfall verhindern.",
+    "de_example_fa_1": "من می‌خواهم از یک تصادف جلوگیری کنم.",
+    "de_example_2": "Sie konnte das Problem nicht verhindern.",
+    "de_example_fa_2": "او نتوانست از این مشکل جلوگیری کند.",
+    "fa_meaning": "جلوگیری کردن",
+    "en_meaning": "to prevent",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + verhindert / verhinderte",
+    "is_verb": true,
+    "word": "verhindern",
+    "word_query": "verhindern"
+}

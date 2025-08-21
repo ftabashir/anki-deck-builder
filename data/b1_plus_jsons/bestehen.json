@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man einen Test besteht, hat man genug richtige Antworten gegeben und den Test geschafft.",
+    "de_meaning_fa": "وقتی کسی یک آزمون را قبول می‌شود، یعنی پاسخ‌های کافی درست داده و آزمون را با موفقیت گذرانده است.",
+    "de_synonyms": [
+        "schaffen",
+        "erfolgreich sein",
+        "durchkommen"
+    ],
+    "de_example_1": "Ich habe die Prüfung bestanden.",
+    "de_example_fa_1": "من امتحان را قبول شدم.",
+    "de_example_2": "Er hat den Deutschtest bestanden.",
+    "de_example_fa_2": "او آزمون زبان آلمانی را قبول شد.",
+    "fa_meaning": "قبول شدن، موفق شدن (در امتحان یا آزمون)",
+    "en_meaning": "to pass (an exam or test)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + bestanden / bestand",
+    "is_verb": true,
+    "word": "bestehen (besteht, bestand, hat bestanden) (einen Test bestehen)",
+    "word_query": "bestehen"
+}

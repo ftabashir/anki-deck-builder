@@ -18,3 +18,8 @@ B2_Kontext_Words_Meanings_Examples = ApkgCollection(
     collection_path="data/collections/B2_Kontext_Words|Meanings|Examples",
     database_name='collection.anki2'
 )
+
+B1_plus_Kontext = ApkgCollection(
+    collection_path="data/collections/b1_plus",
+    database_name='collection.anki2'
+)

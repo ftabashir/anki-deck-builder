@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Konstruieren bedeutet, etwas genau zu planen und zu bauen, zum Beispiel eine Maschine oder ein Gebäude.",
+    "de_meaning_fa": "Konstruieren یعنی چیزی را با دقت برنامه‌ریزی و ساختن، مثلاً یک ماشین یا یک ساختمان.",
+    "de_synonyms": [
+        "bauen",
+        "entwerfen",
+        "herstellen"
+    ],
+    "de_example_1": "Der Ingenieur konstruiert eine neue Brücke.",
+    "de_example_fa_1": "مهندس یک پل جدید طراحی و می‌سازد.",
+    "de_example_2": "Wir müssen das Modell zuerst konstruieren.",
+    "de_example_fa_2": "ما باید ابتدا مدل را بسازیم.",
+    "fa_meaning": "ساختن، طراحی کردن، بنا کردن",
+    "en_meaning": "to construct, to design, to build",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + konstruiert / konstruierte",
+    "is_verb": true,
+    "word": "konstruieren",
+    "word_query": "konstruieren"
+}

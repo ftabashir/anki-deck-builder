@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas, zum Beispiel eine E-Mail oder Nachricht, an eine andere Person oder Stelle schickt.",
+    "de_meaning_fa": "وقتی چیزی مانند یک ایمیل یا پیام را به شخص یا جای دیگری می‌فرستیم.",
+    "de_synonyms": [
+        "verschicken",
+        "senden",
+        "übermitteln"
+    ],
+    "de_example_1": "Ich werde die E-Mail an meinen Chef weiterleiten.",
+    "de_example_fa_1": "من ایمیل را به رئیس خود ارسال خواهم کرد.",
+    "de_example_2": "Bitte leite die Nachricht an Anna weiter.",
+    "de_example_fa_2": "لطفاً پیام را به آنا ارسال کن.",
+    "fa_meaning": "ارسال کردن به، فوروارد کردن به",
+    "en_meaning": "to forward to, to pass on to",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + weitergeleitet / leitete weiter",
+    "is_verb": true,
+    "word": "weiterleiten an (+ Akk.)",
+    "word_query": "weiterleiten an"
+}

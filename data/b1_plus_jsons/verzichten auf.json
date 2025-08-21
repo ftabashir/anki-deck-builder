@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man auf etwas verzichtet, nimmt man es nicht oder benutzt es nicht, obwohl man es haben könnte.",
+    "de_meaning_fa": "وقتی کسی از چیزی صرف نظر می‌کند، آن را نمی‌گیرد یا استفاده نمی‌کند، با اینکه می‌تواند آن را داشته باشد.",
+    "de_synonyms": [
+        "aufgeben",
+        "nicht nehmen",
+        "entbehren"
+    ],
+    "de_example_1": "Ich verzichte heute auf Schokolade.",
+    "de_example_fa_1": "امروز از خوردن شکلات صرف نظر می‌کنم.",
+    "de_example_2": "Er verzichtet aus gesundheitlichen Gründen auf Alkohol.",
+    "de_example_fa_2": "او به دلایل سلامتی از مصرف الکل صرف نظر می‌کند.",
+    "fa_meaning": "صرف نظر کردن از چیزی، چشم‌پوشی کردن",
+    "en_meaning": "to do without something; to give up or forgo something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + verzichtet / verzichtete",
+    "is_verb": true,
+    "word": "verzichten auf (+ Akk.)",
+    "word_query": "verzichten auf"
+}

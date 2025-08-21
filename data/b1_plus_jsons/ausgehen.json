@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ausgehen bedeutet, dass etwas aufhört zu funktionieren, zum Beispiel das Licht oder das Feuer. Es kann auch bedeuten, dass man das Haus verlässt, um sich zu amüsieren.",
+    "de_meaning_fa": "آوس‌گین یعنی چیزی از کار می‌افتد، مثلاً چراغ یا آتش خاموش می‌شود. همچنین می‌تواند به معنی بیرون رفتن برای تفریح باشد.",
+    "de_synonyms": [
+        "erlöschen",
+        "abschalten",
+        "verlassen"
+    ],
+    "de_example_1": "Die Kerze geht aus.",
+    "de_example_fa_1": "شمع خاموش می‌شود.",
+    "de_example_2": "Am Samstag gehe ich mit Freunden aus.",
+    "de_example_fa_2": "شنبه با دوستانم بیرون می‌روم.",
+    "fa_meaning": "خاموش شدن، بیرون رفتن",
+    "en_meaning": "to go out (as in to leave the house for fun) or to go out/off (as in lights or fire going out)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "ist ausgegangen / ging aus",
+    "is_verb": true,
+    "word": "ausgehen (geht aus, ging aus, ist ausgegangen) (Die Lichter gehen aus.)",
+    "word_query": "ausgehen"
+}

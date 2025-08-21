@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Untersuchen bedeutet, etwas genau anzuschauen, um mehr darüber zu erfahren oder um ein Problem zu finden.",
+    "de_meaning_fa": "بررسی کردن یعنی چیزی را با دقت نگاه کردن تا بیشتر درباره آن بدانیم یا مشکلی را پیدا کنیم.",
+    "de_synonyms": [
+        "prüfen",
+        "analysieren",
+        "begutachten"
+    ],
+    "de_example_1": "Der Arzt muss den Patienten untersuchen.",
+    "de_example_fa_1": "پزشک باید بیمار را معاینه کند.",
+    "de_example_2": "Die Polizei untersucht den Unfall.",
+    "de_example_fa_2": "پلیس حادثه را بررسی می‌کند.",
+    "fa_meaning": "بررسی کردن، معاینه کردن",
+    "en_meaning": "to examine, to investigate",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + untersucht / untersuchte",
+    "is_verb": true,
+    "word": "untersuchen",
+    "word_query": "untersuchen"
+}

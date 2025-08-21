@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Leihen bedeutet, dass man jemandem etwas für eine bestimmte Zeit gibt, damit er es benutzen kann. Danach muss es zurückgegeben werden.",
+    "de_meaning_fa": "قرض دادن یعنی اینکه شما چیزی را برای مدت مشخصی به کسی می‌دهید تا از آن استفاده کند و بعد باید آن را پس بدهد.",
+    "de_synonyms": [
+        "ausborgen",
+        "verleihen",
+        "borgen"
+    ],
+    "de_example_1": "Kannst du mir bitte deinen Stift leihen?",
+    "de_example_fa_1": "می‌توانی لطفاً خودکارت را به من قرض بدهی؟",
+    "de_example_2": "Ich habe ein Buch von der Bibliothek geliehen.",
+    "de_example_fa_2": "من یک کتاب از کتابخانه قرض گرفته‌ام.",
+    "fa_meaning": "قرض دادن، امانت دادن",
+    "en_meaning": "to lend, to borrow",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "hat geliehen / lieh",
+    "is_verb": true,
+    "word": "leihen (leiht, lieh ,hat geliehen)",
+    "word_query": "leihen"
+}

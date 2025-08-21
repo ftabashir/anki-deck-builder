@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Interpretieren bedeutet, dass man etwas erklärt oder deutet, zum Beispiel einen Text oder ein Bild, um herauszufinden, was es bedeutet.",
+    "de_meaning_fa": "تفسیر کردن یعنی چیزی را توضیح دادن یا معنی کردن، مثلاً یک متن یا تصویر، تا بفهمیم منظور آن چیست.",
+    "de_synonyms": [
+        "deuten",
+        "erklären",
+        "auslegen"
+    ],
+    "de_example_1": "Man kann ein Gedicht auf verschiedene Arten interpretieren.",
+    "de_example_fa_1": "می‌توان یک شعر را به روش‌های مختلف تفسیر کرد.",
+    "de_example_2": "Die Lehrerin bittet die Schüler, den Text zu interpretieren.",
+    "de_example_fa_2": "معلم از دانش‌آموزان می‌خواهد متن را تفسیر کنند.",
+    "fa_meaning": "تفسیر کردن، معنی کردن",
+    "en_meaning": "to interpret; to explain or give meaning to something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + interpretiert / interpretierte",
+    "is_verb": true,
+    "word": "interpretieren",
+    "word_query": "interpretieren"
+}

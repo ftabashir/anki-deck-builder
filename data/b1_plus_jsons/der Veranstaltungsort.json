@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Veranstaltungsort ist ein Platz oder ein Gebäude, wo eine Veranstaltung stattfindet, zum Beispiel ein Konzert, eine Messe oder ein Treffen.",
+    "de_meaning_fa": "محل برگزاری جایی است که یک رویداد مانند کنسرت، نمایشگاه یا جلسه در آن برگزار می‌شود.",
+    "de_synonyms": [
+        "die Location",
+        "der Ort",
+        "die Stätte"
+    ],
+    "de_example_1": "Das Konzert findet an einem neuen Veranstaltungsort statt.",
+    "de_example_fa_1": "کنسرت در یک محل برگزاری جدید برگزار می‌شود.",
+    "de_example_2": "Der Veranstaltungsort ist leicht mit dem Bus zu erreichen.",
+    "de_example_fa_2": "محل برگزاری به راحتی با اتوبوس قابل دسترسی است.",
+    "fa_meaning": "محل برگزاری رویداد",
+    "en_meaning": "venue; place where an event takes place",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Veranstaltungsort, -e",
+    "word_query": "der Veranstaltungsort"
+}

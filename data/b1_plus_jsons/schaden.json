@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Schaden bedeutet, dass etwas kaputt geht oder schlechter wird.",
+    "de_meaning_fa": "شادن یعنی چیزی خراب شود یا بدتر شود.",
+    "de_synonyms": [
+        "verlieren",
+        "beschädigen",
+        "verletzen"
+    ],
+    "de_example_1": "Zu viel Sonne kann der Haut schaden.",
+    "de_example_fa_1": "آفتاب زیاد می‌تواند به پوست آسیب برساند.",
+    "de_example_2": "Rauchen schadet der Gesundheit.",
+    "de_example_fa_2": "سیگار کشیدن به سلامتی آسیب می‌زند.",
+    "fa_meaning": "آسیب رساندن، ضرر زدن",
+    "en_meaning": "to harm, to damage",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + geschadet / schadete",
+    "is_verb": true,
+    "word": "schaden",
+    "word_query": "schaden"
+}

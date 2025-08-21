@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ablegen bedeutet, etwas an einen bestimmten Platz legen oder speichern, zum Beispiel eine Datei in einem Ordner ablegen.",
+    "de_meaning_fa": "ablegen یعنی چیزی را در یک جای مشخص قرار دادن یا ذخیره کردن، مثلاً یک فایل را در یک پوشه گذاشتن.",
+    "de_synonyms": [
+        "speichern",
+        "einordnen",
+        "unterbringen"
+    ],
+    "de_example_1": "Du sollst die Dokumente im Schrank ablegen.",
+    "de_example_fa_1": "تو باید اسناد را در کمد قرار بدهی.",
+    "de_example_2": "Ich habe die Fotos auf dem Computer abgelegt.",
+    "de_example_fa_2": "من عکس‌ها را در کامپیوتر ذخیره کردم.",
+    "fa_meaning": "قرار دادن یا ذخیره کردن",
+    "en_meaning": "to put down, to store, or to file (e.g., to put files in a folder)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + abgelegt / legte ab",
+    "is_verb": true,
+    "word": "ablegen (Dateien in einem Ordner ablegen)",
+    "word_query": "ablegen"
+}

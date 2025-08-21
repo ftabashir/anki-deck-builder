@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Registrieren bedeutet, dass man etwas bemerkt oder feststellt, oft auch, dass man sich in eine Liste oder Datenbank einträgt.",
+    "de_meaning_fa": "ثبت کردن یعنی اینکه چیزی را متوجه شوید یا آن را یادداشت کنید، اغلب هم به معنای وارد کردن اطلاعات خود در یک لیست یا پایگاه داده است.",
+    "de_synonyms": [
+        "bemerken",
+        "feststellen",
+        "eintragen"
+    ],
+    "de_example_1": "Ich habe registriert, dass du heute sehr ruhig bist.",
+    "de_example_fa_1": "من متوجه شدم که امروز خیلی آرام هستی.",
+    "de_example_2": "Du musst dich auf der Webseite registrieren, um teilnehmen zu können.",
+    "de_example_fa_2": "برای شرکت کردن باید در وب‌سایت ثبت‌نام کنی.",
+    "fa_meaning": "ثبت کردن، متوجه شدن",
+    "en_meaning": "to register, to notice, to realize",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + registriert / registrierte",
+    "is_verb": true,
+    "word": "registrieren (Ich habe registriert, dass ...)",
+    "word_query": "registrieren"
+}

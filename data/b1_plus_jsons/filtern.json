@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Filtern bedeutet, dass man aus vielen Informationen nur die wichtigen auswählt und den Rest weglässt.",
+    "de_meaning_fa": "فیلتر کردن یعنی از بین اطلاعات زیاد فقط اطلاعات مهم را انتخاب کنیم و بقیه را کنار بگذاریم.",
+    "de_synonyms": [
+        "aussortieren",
+        "auswählen",
+        "selektieren"
+    ],
+    "de_example_1": "Du musst die wichtigen Nachrichten filtern.",
+    "de_example_fa_1": "تو باید پیام‌های مهم را فیلتر کنی.",
+    "de_example_2": "Im Internet sollte man Informationen filtern.",
+    "de_example_fa_2": "در اینترنت باید اطلاعات را فیلتر کرد.",
+    "fa_meaning": "فیلتر کردن، گزینش کردن",
+    "en_meaning": "to filter; to select important information and leave out the rest",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gefiltert / filterte",
+    "is_verb": true,
+    "word": "filtern (Informationen filtern)",
+    "word_query": "filtern"
+}

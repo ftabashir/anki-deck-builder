@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Besitzen bedeutet, dass man etwas hat und es einem gehört.",
+    "de_meaning_fa": "Besitzen یعنی اینکه کسی چیزی دارد و آن متعلق به اوست.",
+    "de_synonyms": [
+        "haben",
+        "gehören",
+        "innehaben"
+    ],
+    "de_example_1": "Ich besitze ein rotes Auto.",
+    "de_example_fa_1": "من یک ماشین قرمز دارم.",
+    "de_example_2": "Sie besitzt viele Bücher.",
+    "de_example_fa_2": "او کتاب‌های زیادی دارد.",
+    "fa_meaning": "مالک بودن، داشتن",
+    "en_meaning": "to own, to possess",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + besessen / besaß",
+    "is_verb": true,
+    "word": "besitzen (besitzt, besaß, hat besessen)",
+    "word_query": "besitzen"
+}

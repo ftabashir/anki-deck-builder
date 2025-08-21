@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas auslässt, überspringt oder vergisst man es, zum Beispiel einen Teil einer Geschichte nicht erzählen oder beim Kochen eine Zutat nicht verwenden.",
+    "de_meaning_fa": "وقتی چیزی را auslassen می‌کنید، آن را جا می‌اندازید یا فراموش می‌کنید، مثلاً بخشی از یک داستان را تعریف نمی‌کنید یا هنگام آشپزی یک ماده را استفاده نمی‌کنید.",
+    "de_synonyms": [
+        "überspringen",
+        "weglassen",
+        "ignorieren"
+    ],
+    "de_example_1": "Du hast einen wichtigen Punkt in deinem Bericht ausgelassen.",
+    "de_example_fa_1": "تو یک نکته مهم را در گزارشت جا انداختی.",
+    "de_example_2": "Beim Kuchenbacken habe ich das Salz ausgelassen.",
+    "de_example_fa_2": "هنگام پخت کیک نمک را جا انداختم.",
+    "fa_meaning": "جا انداختن، حذف کردن، نادیده گرفتن",
+    "en_meaning": "to leave out, to omit, to skip",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + ausgelassen / ließ aus",
+    "is_verb": true,
+    "word": "auslassen (lässt aus, ließ aus, hat ausgelassen) (etwas auslassen an)",
+    "word_query": "auslassen"
+}

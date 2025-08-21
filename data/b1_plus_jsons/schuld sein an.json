@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn jemand schuld an etwas ist, bedeutet das, dass er oder sie für etwas Negatives verantwortlich ist.",
+    "de_meaning_fa": "اگر کسی به چیزی مقصر باشد، یعنی او مسئول یک اتفاق منفی است.",
+    "de_synonyms": [
+        "verantwortlich sein für",
+        "die Ursache sein für",
+        "verschulden"
+    ],
+    "de_example_1": "Er ist schuld an dem Unfall.",
+    "de_example_fa_1": "او مقصر این تصادف است.",
+    "de_example_2": "Sie war nicht schuld an dem Fehler.",
+    "de_example_fa_2": "او مقصر آن اشتباه نبود.",
+    "fa_meaning": "مقصر بودن در چیزی / مسئول چیزی بودن",
+    "en_meaning": "to be to blame for something; to be responsible for something (negative)",
+    "part_of_speech": "Verb (feste Wendung)",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + schuld gewesen / war schuld",
+    "is_verb": true,
+    "word": "schuld sein an (+ Dat.)",
+    "word_query": "schuld sein an"
+}

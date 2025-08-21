@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Hochladen bedeutet, dass man eine Datei oder ein Foto von seinem Computer oder Handy ins Internet schickt.",
+    "de_meaning_fa": "Hochladen یعنی اینکه یک فایل یا عکس را از کامپیوتر یا موبایل خود به اینترنت ارسال کنید.",
+    "de_synonyms": [
+        "uploaden",
+        "ins Netz stellen",
+        "übertragen"
+    ],
+    "de_example_1": "Ich möchte ein Foto auf Facebook hochladen.",
+    "de_example_fa_1": "من می‌خواهم یک عکس در فیس‌بوک آپلود کنم.",
+    "de_example_2": "Bitte laden Sie die Datei hier hoch.",
+    "de_example_fa_2": "لطفاً فایل را اینجا بارگذاری کنید.",
+    "fa_meaning": "بارگذاری کردن، آپلود کردن",
+    "en_meaning": "to upload",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + hochgeladen / lud hoch",
+    "is_verb": true,
+    "word": "hochladen",
+    "word_query": "hochladen"
+}

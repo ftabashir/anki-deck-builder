@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Programmieren bedeutet, mit einem Computer eine Aufgabe so zu beschreiben, dass der Computer sie verstehen und ausführen kann.",
+    "de_meaning_fa": "برنامه‌نویسی یعنی اینکه یک کار را به کامپیوتر طوری توضیح دهیم که کامپیوتر بتواند آن را بفهمد و انجام دهد.",
+    "de_synonyms": [
+        "codieren",
+        "Software entwickeln",
+        "Software schreiben"
+    ],
+    "de_example_1": "Ich lerne, wie man programmiert.",
+    "de_example_fa_1": "من یاد می‌گیرم که چطور برنامه‌نویسی کنم.",
+    "de_example_2": "Sie programmiert eine neue App.",
+    "de_example_fa_2": "او یک برنامه جدید را برنامه‌نویسی می‌کند.",
+    "fa_meaning": "برنامه‌نویسی",
+    "en_meaning": "to program (write computer code)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + programmiert / programmierte",
+    "is_verb": true,
+    "word": "programmieren",
+    "word_query": "programmieren"
+}

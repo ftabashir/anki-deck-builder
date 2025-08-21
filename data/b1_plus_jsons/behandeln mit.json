@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Jemanden oder etwas mit einem bestimmten Mittel oder einer Methode heilen oder pflegen.",
+    "de_meaning_fa": "کسی یا چیزی را با یک وسیله یا روش خاص درمان یا مراقبت کردن.",
+    "de_synonyms": [
+        "therapieren",
+        "versorgen",
+        "kurieren"
+    ],
+    "de_example_1": "Der Arzt behandelt den Patienten mit Medikamenten.",
+    "de_example_fa_1": "پزشک بیمار را با دارو درمان می‌کند.",
+    "de_example_2": "Die Wunde wurde mit einer Salbe behandelt.",
+    "de_example_fa_2": "زخم با یک پماد درمان شد.",
+    "fa_meaning": "درمان کردن با",
+    "en_meaning": "to treat with",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + behandelt / behandelte",
+    "is_verb": true,
+    "word": "behandeln mit (+ Dat.)",
+    "word_query": "behandeln mit"
+}

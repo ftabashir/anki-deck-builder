@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas stimmt, ist es richtig oder korrekt.",
+    "de_meaning_fa": "وقتی چیزی درست است، یعنی صحیح یا درست است.",
+    "de_synonyms": [
+        "richtig sein",
+        "korrekt sein",
+        "passen"
+    ],
+    "de_example_1": "Die Antwort stimmt.",
+    "de_example_fa_1": "پاسخ درست است.",
+    "de_example_2": "Etwas stimmt mit dem Auto nicht.",
+    "de_example_fa_2": "یک چیزی در ماشین درست نیست.",
+    "fa_meaning": "درست بودن، صحیح بودن",
+    "en_meaning": "to be correct, to be right",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + gestimmt / stimmte",
+    "is_verb": true,
+    "word": "etw. stimmt (nicht) (Die Rechnung stimmt nicht.)",
+    "word_query": "etw. stimmt"
+}

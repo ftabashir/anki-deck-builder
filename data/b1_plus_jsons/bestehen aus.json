@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas besteht aus verschiedenen Teilen, wenn es aus mehreren Dingen zusammengesetzt ist.",
+    "de_meaning_fa": "وقتی چیزی از بخش‌های مختلف تشکیل شده باشد، می‌گوییم که از چند چیز ساخته شده است.",
+    "de_synonyms": [
+        "zusammengesetzt sein aus",
+        "sich zusammensetzen aus",
+        "gebildet sein aus"
+    ],
+    "de_example_1": "Der Tisch besteht aus Holz.",
+    "de_example_fa_1": "میز از چوب ساخته شده است.",
+    "de_example_2": "Die Klasse besteht aus zwanzig Schülern.",
+    "de_example_fa_2": "کلاس از بیست دانش‌آموز تشکیل شده است.",
+    "fa_meaning": "تشکیل شدن از",
+    "en_meaning": "to consist of",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat bestanden / bestand",
+    "is_verb": true,
+    "word": "bestehen aus (+ Dat.)(besteht, bestand, hat bestanden)",
+    "word_query": "bestehen aus"
+}

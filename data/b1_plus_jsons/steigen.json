@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Steigen bedeutet, dass etwas höher wird oder mehr wird, zum Beispiel eine Zahl oder ein Preis.",
+    "de_meaning_fa": "steigen یعنی چیزی بیشتر یا بالاتر می‌شود، مثلاً یک عدد یا یک قیمت.",
+    "de_synonyms": [
+        "zunehmen",
+        "wachsen",
+        "ansteigen"
+    ],
+    "de_example_1": "Die Temperaturen steigen im Sommer.",
+    "de_example_fa_1": "دمای هوا در تابستان افزایش می‌یابد.",
+    "de_example_2": "Die Preise für Benzin sind wieder gestiegen.",
+    "de_example_fa_2": "قیمت بنزین دوباره بالا رفته است.",
+    "fa_meaning": "افزایش یافتن، بالا رفتن",
+    "en_meaning": "to rise, to increase, to go up",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "sein + gestiegen / stieg",
+    "is_verb": true,
+    "word": "steigen (steigt, stieg, ist gestiegen) (Die Zahl der Flüge steigt wieder.)",
+    "word_query": "steigen"
+}

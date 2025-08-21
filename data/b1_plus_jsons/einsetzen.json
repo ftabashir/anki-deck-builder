@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas benutzen oder verwenden, um ein Ziel zu erreichen.",
+    "de_meaning_fa": "چیزی را برای رسیدن به هدفی به کار بردن یا استفاده کردن.",
+    "de_synonyms": [
+        "verwenden",
+        "benutzen",
+        "anwenden"
+    ],
+    "de_example_1": "Viele Firmen setzen Computer in der Arbeit ein.",
+    "de_example_fa_1": "بسیاری از شرکت‌ها از کامپیوتر در کار استفاده می‌کنند.",
+    "de_example_2": "Die Polizei setzt Hunde zur Suche ein.",
+    "de_example_fa_2": "پلیس از سگ‌ها برای جستجو استفاده می‌کند.",
+    "fa_meaning": "به کار بردن، استفاده کردن",
+    "en_meaning": "to use, to employ, to deploy",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + eingesetzt / setzte ein",
+    "is_verb": true,
+    "word": "einsetzen (Viele Pestizide werden eingesetzt.)",
+    "word_query": "einsetzen"
+}

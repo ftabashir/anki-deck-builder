@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Fahrgast ist eine Person, die mit einem Bus, Zug, Taxi oder einem anderen Fahrzeug mitfährt, aber das Fahrzeug nicht selbst fährt.",
+    "de_meaning_fa": "یک مسافر کسی است که با اتوبوس، قطار، تاکسی یا وسیله نقلیه دیگری سفر می‌کند اما خودش رانندگی نمی‌کند.",
+    "de_synonyms": [
+        "der Passagier",
+        "der Mitfahrer",
+        "der Passagierin"
+    ],
+    "de_example_1": "Der Fahrgast steigt in den Bus ein.",
+    "de_example_fa_1": "مسافر سوار اتوبوس می‌شود.",
+    "de_example_2": "Viele Fahrgäste warten am Bahnhof.",
+    "de_example_fa_2": "مسافران زیادی در ایستگاه قطار منتظر هستند.",
+    "fa_meaning": "مسافر",
+    "en_meaning": "passenger",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Fahrgast, \"-e",
+    "word_query": "der Fahrgast"
+}

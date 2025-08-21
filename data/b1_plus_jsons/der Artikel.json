@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Artikel ist ein Wort wie 'der', 'die' oder 'das', das vor einem Nomen steht. Es zeigt das Geschlecht und den Fall des Nomens an. 'Artikel' kann auch einen Text oder Bericht in einer Zeitung oder Zeitschrift meinen.",
+    "de_meaning_fa": "آرتیکل کلمه‌ای مانند 'der'، 'die' یا 'das' است که قبل از اسم می‌آید و جنسیت و حالت اسم را نشان می‌دهد. 'Artikel' همچنین می‌تواند به معنی یک متن یا گزارش در روزنامه یا مجله باشد.",
+    "de_synonyms": [
+        "Beitrag",
+        "Bericht",
+        "Text"
+    ],
+    "de_example_1": "Der Artikel steht vor dem Nomen.",
+    "de_example_fa_1": "آرتیکل قبل از اسم قرار می‌گیرد.",
+    "de_example_2": "Ich lese einen interessanten Artikel in der Zeitung.",
+    "de_example_fa_2": "من یک مقاله جالب در روزنامه می‌خوانم.",
+    "fa_meaning": "مقاله، یا حرف تعریف (مانند der, die, das)",
+    "en_meaning": "article (as in a newspaper article or grammatical article like 'the')",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Artikel, -",
+    "word_query": "der Artikel"
+}

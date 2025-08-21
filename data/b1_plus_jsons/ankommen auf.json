@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas hängt von einer anderen Sache ab. Es ist nicht immer gleich, sondern verändert sich je nach Situation.",
+    "de_meaning_fa": "یک چیز به چیز دیگری بستگی دارد. همیشه یکسان نیست و بسته به شرایط تغییر می‌کند.",
+    "de_synonyms": [
+        "abhängen von",
+        "liegen an",
+        "sich richten nach"
+    ],
+    "de_example_1": "Ob wir morgen schwimmen gehen, kommt auf das Wetter an.",
+    "de_example_fa_1": "اینکه فردا شنا برویم یا نه، بستگی به هوا دارد.",
+    "de_example_2": "Es kommt auf deine Entscheidung an.",
+    "de_example_fa_2": "این بستگی به تصمیم تو دارد.",
+    "fa_meaning": "بستگی داشتن به",
+    "en_meaning": "to depend on",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "ist angekommen auf / kam an auf",
+    "is_verb": true,
+    "word": "ankommen auf (+Akk)",
+    "word_query": "ankommen auf"
+}

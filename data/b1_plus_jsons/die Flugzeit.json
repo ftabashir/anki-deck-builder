@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Die Flugzeit ist die Zeit, die ein Flugzeug für einen Flug von einem Ort zum anderen braucht.",
+    "de_meaning_fa": "زمان پرواز مدت زمانی است که یک هواپیما برای پرواز از یک مکان به مکان دیگر نیاز دارد.",
+    "de_synonyms": [
+        "Reisedauer",
+        "Flugdauer",
+        "Flugstrecke"
+    ],
+    "de_example_1": "Die Flugzeit von Berlin nach Paris beträgt zwei Stunden.",
+    "de_example_fa_1": "زمان پرواز از برلین به پاریس دو ساعت است.",
+    "de_example_2": "Bitte beachten Sie die Flugzeit auf Ihrem Ticket.",
+    "de_example_fa_2": "لطفاً زمان پرواز را روی بلیط خود بررسی کنید.",
+    "fa_meaning": "زمان پرواز",
+    "en_meaning": "flight time",
+    "part_of_speech": "Substantiv",
+    "article": "die",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "die Flugzeit, -en",
+    "word_query": "die Flugzeit"
+}

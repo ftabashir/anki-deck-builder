@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Sensor ist ein Gerät, das bestimmte Dinge wie Temperatur, Licht oder Bewegung messen und erkennen kann.",
+    "de_meaning_fa": "سنسور دستگاهی است که می‌تواند چیزهایی مانند دما، نور یا حرکت را اندازه‌گیری و تشخیص دهد.",
+    "de_synonyms": [
+        "Messfühler",
+        "Messgerät",
+        "Fühler"
+    ],
+    "de_example_1": "Der Sensor misst die Temperatur im Raum.",
+    "de_example_fa_1": "سنسور دمای اتاق را اندازه‌گیری می‌کند.",
+    "de_example_2": "Ein Auto hat viele Sensoren für die Sicherheit.",
+    "de_example_fa_2": "یک خودرو سنسورهای زیادی برای ایمنی دارد.",
+    "fa_meaning": "سنسور",
+    "en_meaning": "sensor",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Sensor, -en",
+    "word_query": "der Sensor"
+}

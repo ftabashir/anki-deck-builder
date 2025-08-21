@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Reduzieren bedeutet, etwas weniger zu machen oder zu verringern.",
+    "de_meaning_fa": "کاهش دادن یعنی چیزی را کمتر یا کوچک‌تر کردن.",
+    "de_synonyms": [
+        "verringern",
+        "senken",
+        "mindern"
+    ],
+    "de_example_1": "Wir müssen den Müll reduzieren.",
+    "de_example_fa_1": "ما باید زباله را کاهش دهیم.",
+    "de_example_2": "Sie reduziert den Zucker in ihrem Tee.",
+    "de_example_fa_2": "او مقدار شکر در چایش را کاهش می‌دهد.",
+    "fa_meaning": "کاهش دادن",
+    "en_meaning": "to reduce",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + reduziert / reduzierte",
+    "is_verb": true,
+    "word": "reduzieren",
+    "word_query": "reduzieren"
+}

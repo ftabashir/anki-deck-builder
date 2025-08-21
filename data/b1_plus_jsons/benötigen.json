@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas benötigt, heißt das, dass man etwas braucht oder haben muss.",
+    "de_meaning_fa": "وقتی کسی چیزی را benötigt، یعنی به آن نیاز دارد یا باید آن را داشته باشد.",
+    "de_synonyms": [
+        "brauchen",
+        "erfordern",
+        "notwendig haben"
+    ],
+    "de_example_1": "Ich benötige deine Hilfe bei den Hausaufgaben.",
+    "de_example_fa_1": "من به کمک تو برای تکالیف نیاز دارم.",
+    "de_example_2": "Wir benötigen mehr Zeit für das Projekt.",
+    "de_example_fa_2": "ما به زمان بیشتری برای پروژه نیاز داریم.",
+    "fa_meaning": "نیاز داشتن، احتیاج داشتن",
+    "en_meaning": "to need, to require",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + benötigt / benötigte",
+    "is_verb": true,
+    "word": "benötigen",
+    "word_query": "benötigen"
+}
