@@ -1,13 +1,13 @@
 import time
 import os
 import json
-import re
 import genanki
 from pydantic import BaseModel
 
 import apkg_collections
 from apkg_audio import add_audio
 from apkg import print_field_names, get_cursor, search_notes_for_word, get_field_names, get_notes
+from file_utils import safe_filename
 from format_duration import format_duration
 from ollama_api import call_ollama
 from openai_api import call_openai
@@ -105,12 +105,6 @@ def run_prompts(prompts, word):
     for prompt_key, prompt in prompts.items():
         result[prompt_key] = run_prompt(prompt_key, prompt, word)
     return result
-
-
-def safe_filename(text, replacement="_"):
-    # Remove invalid characters
-    return re.sub(r'[<>:"/\\|?*\n\r\t]', replacement, text).strip()
-
 
 def create_json_files(words, jsons_directory):
     _times.clear()

@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 from apkg_b2_kontext import create_json_files, update_json_files, gen_anki, ApkgParams, create_json_files_with_openai
+from file_utils import safe_filename
 
 
 def read_words(file_path):
