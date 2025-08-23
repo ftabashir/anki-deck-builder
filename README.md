@@ -55,7 +55,7 @@
       - tts_models/de/thorsten/vits
         - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--vits/model_file.pth
         - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--thorsten--vits/config.json
-      - tts_models/de/css10/vits-ne[config.json](../../Library/Application%20Support/tts/tts_models--de--css10--vits-neon/config.json)on
+      - tts_models/de/css10/vits-neon
         - Model's license - bsd-3-clause https://opensource.org/licenses 
         - Model file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--css10--vits-neon/model_file.pth.tar
         - Config file: /Users/f.tabashir/Library/Application Support/tts/tts_models--de--css10--vits-neon/config.json
