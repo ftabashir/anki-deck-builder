@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Krankheitserreger ist ein sehr kleines Lebewesen, wie Bakterien oder Viren, das Krankheiten beim Menschen oder bei Tieren verursachen kann.",
+    "de_meaning_fa": "یک بیماری‌زا موجود زنده بسیار کوچکی است، مانند باکتری‌ها یا ویروس‌ها، که می‌تواند باعث بیماری در انسان یا حیوانات شود.",
+    "de_synonyms": [
+        "der Erreger",
+        "das Virus",
+        "das Bakterium"
+    ],
+    "de_example_1": "Viele Krankheitserreger werden durch die Luft übertragen.",
+    "de_example_fa_1": "بسیاری از بیماری‌زاها از طریق هوا منتقل می‌شوند.",
+    "de_example_2": "Händewaschen hilft, Krankheitserreger zu vermeiden.",
+    "de_example_fa_2": "شستن دست‌ها به جلوگیری از بیماری‌زاها کمک می‌کند.",
+    "fa_meaning": "عامل بیماری‌زا",
+    "en_meaning": "pathogen (a germ or microorganism that causes disease)",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Krankheitserreger,",
+    "word_query": "der Krankheitserreger"
+}

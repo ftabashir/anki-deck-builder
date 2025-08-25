@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas ist ohne Probleme oder Schwierigkeiten passiert.",
+    "de_meaning_fa": "چیزی بدون مشکل یا سختی اتفاق افتاده است.",
+    "de_synonyms": [
+        "reibungslos ablaufen",
+        "problemlos verlaufen",
+        "gut gehen"
+    ],
+    "de_example_1": "Die Prüfung ist gut verlaufen.",
+    "de_example_fa_1": "امتحان به خوبی پیش رفت.",
+    "de_example_2": "Das Treffen ist gut verlaufen.",
+    "de_example_fa_2": "جلسه به خوبی برگزار شد.",
+    "fa_meaning": "خوب پیش رفتن",
+    "en_meaning": "to go well; to turn out well",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Sehr häufig",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + gut verlaufen / verlief gut",
+    "is_verb": true,
+    "word": "gut verlaufen",
+    "word_query": "gut verlaufen"
+}

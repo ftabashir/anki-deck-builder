@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas dosieren bedeutet, die richtige Menge von etwas zu bestimmen und zu geben, zum Beispiel bei Medikamenten.",
+    "de_meaning_fa": "دوز دادن چیزی یعنی مقدار درست آن را تعیین و مصرف کردن، مثلاً در مورد داروها.",
+    "de_synonyms": [
+        "abmessen",
+        "portionieren",
+        "verabreichen"
+    ],
+    "de_example_1": "Der Arzt muss die Tabletten genau dosieren.",
+    "de_example_fa_1": "پزشک باید قرص‌ها را دقیقاً دوزبندی کند.",
+    "de_example_2": "Man sollte das Medikament richtig dosieren.",
+    "de_example_fa_2": "باید دارو را به درستی دوزبندی کرد.",
+    "fa_meaning": "دوز دادن چیزی، مخصوصاً دارو یا مواد دیگر",
+    "en_meaning": "to dose something; to measure and give the correct amount (especially of medicine)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + dosiert / dosierte",
+    "is_verb": true,
+    "word": "etw. dosieren (Tabletten dosieren)",
+    "word_query": "etw. dosieren"
+}

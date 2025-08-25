@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas oder jemand plötzlich nicht mehr da ist, also man es nicht mehr sehen oder finden kann.",
+    "de_meaning_fa": "وقتی چیزی یا کسی ناگهان دیگر وجود ندارد، یعنی دیگر نمی‌توان آن را دید یا پیدا کرد.",
+    "de_synonyms": [
+        "weggehen",
+        "sich auflösen",
+        "verloren gehen"
+    ],
+    "de_example_1": "Mein Hund ist gestern verschwunden.",
+    "de_example_fa_1": "سگ من دیروز ناپدید شد.",
+    "de_example_2": "Die Sonne verschwindet hinter den Wolken.",
+    "de_example_fa_2": "خورشید پشت ابرها ناپدید می‌شود.",
+    "fa_meaning": "ناپدید شدن",
+    "en_meaning": "to disappear",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + verschwunden / verschwand",
+    "is_verb": true,
+    "word": "verschwinden (verschwindet, verschwand, ist verschwunden)",
+    "word_query": "verschwinden"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Eine Betriebsstörung ist ein Problem oder Fehler, der dazu führt, dass eine Maschine, ein Gerät oder ein System nicht richtig funktioniert.",
+    "de_meaning_fa": "اختلال در عملکرد به معنای مشکلی است که باعث می‌شود یک دستگاه، ماشین یا سیستم به درستی کار نکند.",
+    "de_synonyms": [
+        "die Störung",
+        "die Fehlfunktion",
+        "der Ausfall"
+    ],
+    "de_example_1": "Wegen einer Betriebsstörung fährt der Zug heute nicht.",
+    "de_example_fa_1": "به دلیل یک اختلال در عملکرد، امروز قطار حرکت نمی‌کند.",
+    "de_example_2": "Die Betriebsstörung wurde schnell behoben.",
+    "de_example_fa_2": "اختلال عملکرد به سرعت برطرف شد.",
+    "fa_meaning": "اختلال عملکرد، نقص فنی",
+    "en_meaning": "operational malfunction, technical fault, or disruption in operation",
+    "part_of_speech": "Substantiv",
+    "article": "die",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "die Betriebsstörung, en",
+    "word_query": "die Betriebsstörung"
+}

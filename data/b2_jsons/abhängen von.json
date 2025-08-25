@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas hängt von etwas ab, wenn es nur passiert oder möglich ist, wenn eine andere Sache passiert oder existiert.",
+    "de_meaning_fa": "یک چیز به چیز دیگری وابسته است، یعنی فقط زمانی اتفاق می‌افتد یا ممکن است که چیز دیگر اتفاق بیفتد یا وجود داشته باشد.",
+    "de_synonyms": [
+        "abhängig sein von",
+        "bestimmen durch",
+        "sich richten nach"
+    ],
+    "de_example_1": "Das Wetter hängt von der Jahreszeit ab.",
+    "de_example_fa_1": "هوا به فصل سال بستگی دارد.",
+    "de_example_2": "Ob wir gehen, hängt von dir ab.",
+    "de_example_fa_2": "اینکه ما برویم، به تو بستگی دارد.",
+    "fa_meaning": "وابسته بودن به",
+    "en_meaning": "to depend on",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat abgehangen / hing ab",
+    "is_verb": true,
+    "word": "abhängen von (+ Dat.) (hängt ab, hing ab, hat abgehangen)",
+    "word_query": "abhängen von"
+}

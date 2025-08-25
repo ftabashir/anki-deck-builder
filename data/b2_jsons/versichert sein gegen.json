@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man gegen etwas versichert ist, hat man eine Versicherung, die im Schadensfall hilft, zum Beispiel bei einem Unfall oder Diebstahl.",
+    "de_meaning_fa": "وقتی کسی در برابر چیزی بیمه است، یعنی بیمه‌ای دارد که در صورت خسارت مثلاً در تصادف یا دزدی کمک می‌کند.",
+    "de_synonyms": [
+        "geschützt sein vor",
+        "abgesichert sein gegen",
+        "eine Versicherung haben für"
+    ],
+    "de_example_1": "Ich bin gegen Diebstahl versichert.",
+    "de_example_fa_1": "من در برابر دزدی بیمه هستم.",
+    "de_example_2": "Man sollte gegen Unfälle versichert sein.",
+    "de_example_fa_2": "آدم باید در برابر حوادث بیمه باشد.",
+    "fa_meaning": "در برابر چیزی بیمه بودن",
+    "en_meaning": "to be insured against something",
+    "part_of_speech": "Verb (feste Wendung mit Adjektiv und Präposition)",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + versichert gewesen / war versichert",
+    "is_verb": true,
+    "word": "versichert sein gegen (+ Akk.)",
+    "word_query": "versichert sein gegen"
+}

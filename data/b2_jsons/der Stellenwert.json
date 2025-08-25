@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Der Stellenwert ist die Bedeutung oder Wichtigkeit, die etwas in einem bestimmten Zusammenhang hat. In der Mathematik ist es der Wert einer Ziffer je nach ihrer Position in einer Zahl.",
+    "de_meaning_fa": "Stellenwert یعنی اهمیتی که چیزی در یک موقعیت خاص دارد. در ریاضیات، ارزش یک رقم بسته به جایگاهش در عدد است.",
+    "de_synonyms": [
+        "Bedeutung",
+        "Wichtigkeit",
+        "Rang"
+    ],
+    "de_example_1": "Jede Ziffer in einer Zahl hat einen eigenen Stellenwert.",
+    "de_example_fa_1": "هر رقم در یک عدد ارزش مکانی خاص خود را دارد.",
+    "de_example_2": "Der Stellenwert von Bildung ist in unserer Gesellschaft sehr hoch.",
+    "de_example_fa_2": "ارزش آموزش در جامعه ما بسیار بالاست.",
+    "fa_meaning": "ارزش مکانی، اهمیت، جایگاه",
+    "en_meaning": "place value, significance, importance",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Stellenwert, -e",
+    "word_query": "der Stellenwert"
+}

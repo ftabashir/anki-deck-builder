@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Jemand stellt Fragen, um zu prüfen, ob eine andere Person etwas gelernt oder verstanden hat.",
+    "de_meaning_fa": "کسی سوال می‌پرسد تا بررسی کند که فرد دیگری چیزی را یاد گرفته یا فهمیده است.",
+    "de_synonyms": [
+        "prüfen",
+        "testen",
+        "ausfragen"
+    ],
+    "de_example_1": "Der Lehrer fragt die Vokabeln ab.",
+    "de_example_fa_1": "معلم لغات را می‌پرسد.",
+    "de_example_2": "Ich werde morgen in Mathe abgefragt.",
+    "de_example_fa_2": "فردا از من در ریاضی سوال پرسیده می‌شود.",
+    "fa_meaning": "چیزی را پرسیدن یا امتحان گرفتن",
+    "en_meaning": "to quiz someone on something; to test knowledge by asking questions",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + abgefragt / fragte ab",
+    "is_verb": true,
+    "word": "etw. abfragen",
+    "word_query": "etw. abfragen"
+}

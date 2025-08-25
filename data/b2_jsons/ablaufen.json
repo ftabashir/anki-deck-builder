@@ -1,0 +1,23 @@
+{
+    "de_meaning": "‚Ablaufen‘ bedeutet, dass etwas zu Ende geht oder dass ein Prozess passiert. Es kann auch heißen, dass etwas nicht mehr gültig ist.",
+    "de_meaning_fa": "‚Ablaufen‘ یعنی چیزی تمام می‌شود یا یک روند اتفاق می‌افتد. همچنین می‌تواند به معنی منقضی شدن چیزی باشد.",
+    "de_synonyms": [
+        "enden",
+        "vergehen",
+        "zu Ende gehen"
+    ],
+    "de_example_1": "Die Frist läuft morgen ab.",
+    "de_example_fa_1": "مهلت فردا تمام می‌شود.",
+    "de_example_2": "Wie läuft die Prüfung ab?",
+    "de_example_fa_2": "امتحان چطور برگزار می‌شود؟",
+    "fa_meaning": "منقضی شدن، تمام شدن، سپری شدن",
+    "en_meaning": "to expire, to run out, to proceed",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + abgelaufen / lief ab",
+    "is_verb": true,
+    "word": "ablaufen (läuft ab,lief ab, ist abgelaufen)(Wie läuft das ab?)",
+    "word_query": "ablaufen"
+}

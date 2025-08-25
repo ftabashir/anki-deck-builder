@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas verträgt, bekommt man davon keine Probleme oder Beschwerden. Zum Beispiel: Wenn man ein Medikament verträgt, fühlt man sich danach nicht schlecht.",
+    "de_meaning_fa": "وقتی کسی چیزی را تحمل می‌کند، از آن مشکل یا ناراحتی پیدا نمی‌کند. مثلاً اگر کسی یک دارو را تحمل کند، بعد از آن احساس بدی ندارد.",
+    "de_synonyms": [
+        "tolerieren",
+        "aushalten",
+        "ertragen"
+    ],
+    "de_example_1": "Mein Bruder verträgt Milch nicht gut.",
+    "de_example_fa_1": "برادرم شیر را خوب تحمل نمی‌کند.",
+    "de_example_2": "Ich habe das neue Medikament gut vertragen.",
+    "de_example_fa_2": "من داروی جدید را خوب تحمل کردم.",
+    "fa_meaning": "تحمل کردن، سازگار بودن با چیزی (مثلاً دارو یا غذا)",
+    "en_meaning": "to tolerate or handle something well (for example, a medicine or food) without problems",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + vertragen / vertrug",
+    "is_verb": true,
+    "word": "etw. vertragen (verträgt, vertrug, hat vertragen) (ein Medikament gut vertragen)",
+    "word_query": "etw. vertragen"
+}

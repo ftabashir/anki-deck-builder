@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man Hilfe oder Informationen braucht, kann man eine Person oder eine Stelle fragen. Das nennt man 'sich wenden an'.",
+    "de_meaning_fa": "وقتی کسی به کمک یا اطلاعات نیاز دارد، می‌تواند از یک فرد یا یک اداره سؤال کند. این را 'sich wenden an' می‌گویند.",
+    "de_synonyms": [
+        "fragen",
+        "kontaktieren",
+        "sich melden bei"
+    ],
+    "de_example_1": "Wenn du Fragen hast, kannst du dich an den Lehrer wenden.",
+    "de_example_fa_1": "اگر سؤال داری، می‌توانی از معلم کمک بگیری.",
+    "de_example_2": "Ich wende mich an die Polizei, wenn ich ein Problem habe.",
+    "de_example_fa_2": "وقتی مشکلی دارم، به پلیس مراجعه می‌کنم.",
+    "fa_meaning": "مراجعه کردن به کسی یا جایی برای کمک یا اطلاعات",
+    "en_meaning": "to turn to someone or something for help or information",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat sich gewandt / wandte sich",
+    "is_verb": true,
+    "word": "sich wenden an (+ Akk.)",
+    "word_query": "sich wenden an"
+}

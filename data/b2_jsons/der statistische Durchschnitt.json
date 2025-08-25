@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Der statistische Durchschnitt ist eine Zahl, die zeigt, wie viel etwas im Mittelwert ist, wenn man alle Werte zusammenzählt und durch die Anzahl der Werte teilt.",
+    "de_meaning_fa": "میانگین آماری عددی است که نشان می‌دهد مقدار متوسط یک چیز چقدر است، زمانی که همه مقادیر با هم جمع شده و بر تعداد مقادیر تقسیم می‌شوند.",
+    "de_synonyms": [
+        "der Mittelwert",
+        "das Mittel",
+        "der Durchschnittswert"
+    ],
+    "de_example_1": "Der statistische Durchschnitt der Noten in der Klasse ist 2,5.",
+    "de_example_fa_1": "میانگین آماری نمرات در کلاس ۲٫۵ است.",
+    "de_example_2": "Im statistischen Durchschnitt essen die Deutschen viel Brot.",
+    "de_example_fa_2": "به طور میانگین آماری، آلمانی‌ها نان زیادی می‌خورند.",
+    "fa_meaning": "میانگین آماری",
+    "en_meaning": "statistical average",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der statistische Durchschnitt",
+    "word_query": "der statistische Durchschnitt"
+}

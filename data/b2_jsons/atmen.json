@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Atmen bedeutet, Luft durch die Nase oder den Mund in die Lunge zu holen und wieder auszulassen.",
+    "de_meaning_fa": "نفس کشیدن یعنی هوا را از طریق بینی یا دهان به ریه‌ها وارد و خارج کنیم.",
+    "de_synonyms": [
+        "einatmen",
+        "ausatmen",
+        "schnaufen"
+    ],
+    "de_example_1": "Ich atme tief ein.",
+    "de_example_fa_1": "من عمیق نفس می‌کشم.",
+    "de_example_2": "Bitte atme ruhig.",
+    "de_example_fa_2": "لطفاً آرام نفس بکش.",
+    "fa_meaning": "نفس کشیدن",
+    "en_meaning": "to breathe",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A1",
+    "perfekt_präteritum": "haben + geatmet / atmete",
+    "is_verb": true,
+    "word": "atmen",
+    "word_query": "atmen"
+}

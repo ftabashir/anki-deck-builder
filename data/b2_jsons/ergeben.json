@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas ergibt sich, wenn ein Ergebnis durch eine Rechnung, Untersuchung oder Situation herauskommt.",
+    "de_meaning_fa": "وقتی چیزی از یک محاسبه، بررسی یا وضعیت به دست می‌آید، گفته می‌شود که چیزی حاصل می‌شود.",
+    "de_synonyms": [
+        "resultieren",
+        "herauskommen",
+        "folgen"
+    ],
+    "de_example_1": "Die Rechnung ergibt 20 Euro.",
+    "de_example_fa_1": "حساب ۲۰ یورو می‌شود.",
+    "de_example_2": "Die Untersuchung hat ergeben, dass alles in Ordnung ist.",
+    "de_example_fa_2": "بررسی نشان داد که همه چیز مرتب است.",
+    "fa_meaning": "حاصل شدن، نتیجه دادن",
+    "en_meaning": "to result in, to yield, to show (as a result)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + ergeben / ergab",
+    "is_verb": true,
+    "word": "ergeben (ergibt, ergab, hat ergeben) (Die Umfrage hat ergeben, dass ...)",
+    "word_query": "ergeben"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas lösen bedeutet, eine Antwort oder eine Lösung für ein Problem zu finden.",
+    "de_meaning_fa": "حل کردن یعنی برای یک مشکل یک پاسخ یا راه حل پیدا کردن.",
+    "de_synonyms": [
+        "beheben",
+        "klären",
+        "bearbeiten"
+    ],
+    "de_example_1": "Ich kann das Problem lösen.",
+    "de_example_fa_1": "من می‌توانم این مشکل را حل کنم.",
+    "de_example_2": "Wir müssen die Aufgabe lösen.",
+    "de_example_fa_2": "ما باید این وظیفه را حل کنیم.",
+    "fa_meaning": "حل کردن",
+    "en_meaning": "to solve",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + gelöst / löste",
+    "is_verb": true,
+    "word": "lösen (ein Problem lösen)",
+    "word_query": "lösen"
+}

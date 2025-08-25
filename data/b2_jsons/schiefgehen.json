@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas schiefgeht, passiert es nicht so, wie man es geplant hat. Es gibt ein Problem oder einen Fehler.",
+    "de_meaning_fa": "وقتی چیزی schiefgeht، آنطور که برنامه‌ریزی شده بود پیش نمی‌رود و مشکلی یا اشتباهی پیش می‌آید.",
+    "de_synonyms": [
+        "misslingen",
+        "fehlschlagen",
+        "danebengehen"
+    ],
+    "de_example_1": "Der Plan ist schiefgegangen.",
+    "de_example_fa_1": "برنامه خراب شد.",
+    "de_example_2": "Alles kann manchmal schiefgehen.",
+    "de_example_fa_2": "همه چیز گاهی اوقات ممکن است خراب شود.",
+    "fa_meaning": "خراب شدن، اشتباه پیش رفتن",
+    "en_meaning": "to go wrong, to fail",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "sein + schiefgegangen / ging schief",
+    "is_verb": true,
+    "word": "schiefgehen (geht schief, ging schief, ist schiefgegangen)",
+    "word_query": "schiefgehen"
+}

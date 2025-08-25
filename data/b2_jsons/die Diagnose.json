@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Eine Diagnose ist die Feststellung, welche Krankheit oder welches Problem eine Person hat.",
+    "de_meaning_fa": "تشخیص یعنی مشخص کردن اینکه یک فرد چه بیماری یا مشکلی دارد.",
+    "de_synonyms": [
+        "Befund",
+        "Erkennung",
+        "Feststellung"
+    ],
+    "de_example_1": "Nach der Untersuchung stellt die Ärztin eine Diagnose.",
+    "de_example_fa_1": "بعد از معاینه، پزشک یک تشخیص می‌دهد.",
+    "de_example_2": "Die Diagnose hilft, die richtige Behandlung zu finden.",
+    "de_example_fa_2": "تشخیص به پیدا کردن درمان مناسب کمک می‌کند.",
+    "fa_meaning": "تشخیص",
+    "en_meaning": "diagnosis",
+    "part_of_speech": "Substantiv",
+    "article": "die",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "die Diagnose, -n (Der Arzt stellt eine Diagnose.)",
+    "word_query": "die Diagnose"
+}

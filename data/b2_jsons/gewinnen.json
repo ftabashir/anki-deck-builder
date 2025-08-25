@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man gewinnt, ist man besser als die anderen oder bekommt einen Preis.",
+    "de_meaning_fa": "وقتی کسی برنده می‌شود، بهتر از دیگران است یا جایزه‌ای می‌گیرد.",
+    "de_synonyms": [
+        "siegen",
+        "erreichen",
+        "erlangen"
+    ],
+    "de_example_1": "Er gewinnt das Spiel.",
+    "de_example_fa_1": "او بازی را می‌برد.",
+    "de_example_2": "Wir haben im Lotto gewonnen.",
+    "de_example_fa_2": "ما در لاتاری برنده شدیم.",
+    "fa_meaning": "برنده شدن",
+    "en_meaning": "to win",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "hat gewonnen / gewann",
+    "is_verb": true,
+    "word": "gewinnen (gewinnt, gewann, hat gewonnen)",
+    "word_query": "gewinnen"
+}

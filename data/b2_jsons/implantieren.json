@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Implantieren bedeutet, dass man etwas, wie zum Beispiel einen Chip, in den Körper einsetzt, meistens durch eine Operation.",
+    "de_meaning_fa": "کاشت به این معناست که چیزی مانند یک چیپ را معمولاً از طریق عمل جراحی در بدن قرار دهند.",
+    "de_synonyms": [
+        "einsetzen",
+        "einpflanzen",
+        "einbringen"
+    ],
+    "de_example_1": "Der Arzt kann einen Chip unter die Haut implantieren.",
+    "de_example_fa_1": "پزشک می‌تواند یک چیپ را زیر پوست بکارد.",
+    "de_example_2": "Manche Menschen lassen sich einen Herzschrittmacher implantieren.",
+    "de_example_fa_2": "برخی افراد یک ضربان‌ساز قلب را در بدن خود قرار می‌دهند.",
+    "fa_meaning": "کاشت، وارد کردن (مثلاً کاشت چیپ در بدن)",
+    "en_meaning": "to implant (for example, to have a chip implanted in the body)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Uncommon",
+    "cefr_level": "B2",
+    "perfekt_präteritum": "haben + implantiert / implantierte",
+    "is_verb": true,
+    "word": "implantieren (einen Chip implantieren lassen)",
+    "word_query": "implantieren"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Erkennen bedeutet, dass man etwas oder jemanden sieht und weiß, was oder wer es ist.",
+    "de_meaning_fa": "شناختن یعنی اینکه چیزی یا کسی را ببینی و بدانی چیست یا کیست.",
+    "de_synonyms": [
+        "wahrnehmen",
+        "bemerken",
+        "identifizieren"
+    ],
+    "de_example_1": "Ich erkenne meine Freundin auf dem Foto.",
+    "de_example_fa_1": "من دوستم را در عکس می‌شناسم.",
+    "de_example_2": "Er hat den Fehler sofort erkannt.",
+    "de_example_fa_2": "او فوراً اشتباه را تشخیص داد.",
+    "fa_meaning": "شناختن، تشخیص دادن",
+    "en_meaning": "to recognize, to realize, to identify",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + erkannt / erkannte",
+    "is_verb": true,
+    "word": "erkennen (erkennt, erkannt, hat erkannt)",
+    "word_query": "erkennen"
+}

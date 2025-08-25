@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Studiengang ist ein festgelegtes Programm an einer Hochschule, bei dem man bestimmte Fächer lernt und am Ende einen Abschluss bekommt.",
+    "de_meaning_fa": "یک رشته تحصیلی برنامه‌ای مشخص در دانشگاه است که در آن فرد دروس خاصی را می‌خواند و در پایان مدرک می‌گیرد.",
+    "de_synonyms": [
+        "das Studienfach",
+        "die Fachrichtung",
+        "das Studium"
+    ],
+    "de_example_1": "Mein Studiengang ist Maschinenbau.",
+    "de_example_fa_1": "رشته تحصیلی من مهندسی مکانیک است.",
+    "de_example_2": "Für diesen Studiengang braucht man gute Noten.",
+    "de_example_fa_2": "برای این رشته تحصیلی به نمرات خوب نیاز است.",
+    "fa_meaning": "رشته تحصیلی دانشگاهی",
+    "en_meaning": "degree program; course of study",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Studiengang. \"-e",
+    "word_query": "der Studiengang. \"-e"
+}

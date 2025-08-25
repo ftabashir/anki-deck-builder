@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas, zum Beispiel eine Nachricht oder eine E-Mail, von einer Person an eine andere Person schickt.",
+    "de_meaning_fa": "وقتی چیزی، مثلاً یک پیام یا ایمیل، را از یک نفر به نفر دیگری می‌فرستیم.",
+    "de_synonyms": [
+        "übermitteln",
+        "senden",
+        "verschicken"
+    ],
+    "de_example_1": "Kannst du mir die E-Mail bitte weiterleiten?",
+    "de_example_fa_1": "می‌توانی لطفاً ایمیل را برای من فوروارد کنی؟",
+    "de_example_2": "Ich werde die Information an meinen Kollegen weiterleiten.",
+    "de_example_fa_2": "من اطلاعات را به همکارم منتقل خواهم کرد.",
+    "fa_meaning": "ارسال کردن، فوروارد کردن",
+    "en_meaning": "to forward (e.g., a message or email) to someone else",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + weitergeleitet / leitete weiter",
+    "is_verb": true,
+    "word": "weiterleiten",
+    "word_query": "weiterleiten"
+}

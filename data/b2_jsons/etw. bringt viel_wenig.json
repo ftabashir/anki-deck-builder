@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas viel bringt, bedeutet das, dass es sehr nützlich ist oder einen großen Vorteil hat. Wenn etwas wenig bringt, ist es nicht sehr nützlich oder hilft kaum.",
+    "de_meaning_fa": "وقتی چیزی زیاد می‌آورد، یعنی خیلی مفید است یا سود زیادی دارد. وقتی چیزی کم می‌آورد، یعنی خیلی مفید نیست یا کمک زیادی نمی‌کند.",
+    "de_synonyms": [
+        "etw. ist nützlich",
+        "etw. hilft",
+        "etw. lohnt sich"
+    ],
+    "de_example_1": "Das Buch hat mir viel gebracht.",
+    "de_example_fa_1": "این کتاب برای من خیلی مفید بود.",
+    "de_example_2": "Das Gespräch hat wenig gebracht.",
+    "de_example_fa_2": "این گفتگو فایده کمی داشت.",
+    "fa_meaning": "چیزی مفید بودن یا نبودن؛ سود داشتن یا نداشتن.",
+    "en_meaning": "Something is useful or beneficial (or not).",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat gebracht / brachte",
+    "is_verb": true,
+    "word": "etw. bringt viel/wenig (bringt, brachte, hat gebracht) (Der Kurs hat mir viel gebracht.)",
+    "word_query": "etw. bringt viel/wenig"
+}

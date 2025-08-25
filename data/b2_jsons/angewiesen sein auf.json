@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Jemand ist auf eine andere Person oder Sache angewiesen, weil er sie braucht oder ohne sie nicht auskommt.",
+    "de_meaning_fa": "کسی به فرد یا چیزی دیگر وابسته است، زیرا به آن نیاز دارد یا بدون آن نمی‌تواند ادامه دهد.",
+    "de_synonyms": [
+        "abhängig sein",
+        "sich verlassen auf",
+        "gebrauchen"
+    ],
+    "de_example_1": "Ich bin auf meine Freunde angewiesen, um Hilfe zu bekommen.",
+    "de_example_fa_1": "من برای دریافت کمک به دوستانم وابسته هستم.",
+    "de_example_2": "Viele ältere Menschen sind auf Pflege angewiesen.",
+    "de_example_fa_2": "بسیاری از افراد مسن به مراقبت نیاز دارند.",
+    "fa_meaning": "وابسته بودن به کسی یا چیزی برای نیاز یا پشتیبانی.",
+    "en_meaning": "To depend on someone or something because you need them or cannot do without them.",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + angewiesen / angewies",
+    "is_verb": true,
+    "word": "angewiesen sein auf (+ akk.)",
+    "word_query": "angewiesen sein auf"
+}

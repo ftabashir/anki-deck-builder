@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Sich an etwas gewöhnen bedeutet, dass etwas am Anfang fremd oder ungewohnt ist, aber mit der Zeit wird es normal für dich.",
+    "de_meaning_fa": "عادت کردن به چیزی یعنی در ابتدا چیزی برایت ناآشنا یا عجیب است، اما با گذشت زمان برایت عادی می‌شود.",
+    "de_synonyms": [
+        "sich anpassen an",
+        "sich einstellen auf",
+        "vertraut werden mit"
+    ],
+    "de_example_1": "Ich muss mich an das neue Klima gewöhnen.",
+    "de_example_fa_1": "باید به آب و هوای جدید عادت کنم.",
+    "de_example_2": "Kinder gewöhnen sich schnell an eine neue Schule.",
+    "de_example_fa_2": "کودکان به سرعت به یک مدرسه جدید عادت می‌کنند.",
+    "fa_meaning": "عادت کردن به",
+    "en_meaning": "to get used to",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + sich gewöhnt / gewöhnte sich",
+    "is_verb": true,
+    "word": "sich gewöhnen an (+ Akk.) (Daran muss ich mich erst gewöhnen)",
+    "word_query": "sich gewöhnen an"
+}

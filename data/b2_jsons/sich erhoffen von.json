@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man sich etwas von jemandem oder etwas erhofft, wünscht man sich, dass etwas Bestimmtes passiert oder bekommt, und hofft darauf.",
+    "de_meaning_fa": "وقتی کسی از کسی یا چیزی انتظاری دارد، آرزو می‌کند که اتفاق خاصی بیفتد یا چیزی به دست بیاورد و به آن امید دارد.",
+    "de_synonyms": [
+        "erwarten",
+        "hoffen auf",
+        "sich wünschen"
+    ],
+    "de_example_1": "Ich erhoffe mir von dem Kurs bessere Noten.",
+    "de_example_fa_1": "من از این دوره انتظار نمرات بهتری دارم.",
+    "de_example_2": "Sie erhoffen sich von der Reise neue Erfahrungen.",
+    "de_example_fa_2": "آن‌ها از این سفر انتظار تجربیات جدید دارند.",
+    "fa_meaning": "انتظار داشتن یا امید داشتن به چیزی از کسی یا چیزی",
+    "en_meaning": "to hope or expect something from someone or something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B2",
+    "perfekt_präteritum": "haben + sich erhofft / erhoffte sich",
+    "is_verb": true,
+    "word": "sich erhoffen von (+ Dat.)",
+    "word_query": "sich erhoffen von"
+}

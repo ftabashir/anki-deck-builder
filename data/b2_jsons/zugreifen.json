@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Zugreifen bedeutet, dass man etwas nimmt oder auf etwas zugreift, zum Beispiel auf Informationen oder Daten.",
+    "de_meaning_fa": "zugreifen یعنی چیزی را برداشتن یا به چیزی دسترسی پیدا کردن، مثلاً به اطلاعات یا داده‌ها.",
+    "de_synonyms": [
+        "nehmen",
+        "sich bedienen",
+        "erlangen"
+    ],
+    "de_example_1": "Du kannst auf die Dateien zugreifen.",
+    "de_example_fa_1": "تو می‌توانی به فایل‌ها دسترسی پیدا کنی.",
+    "de_example_2": "Bitte greifen Sie zu, das Essen ist fertig.",
+    "de_example_fa_2": "لطفاً بردارید، غذا آماده است.",
+    "fa_meaning": "دسترسی پیدا کردن، برداشتن",
+    "en_meaning": "to access, to help oneself, to take",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat zugegriffen / griff zu",
+    "is_verb": true,
+    "word": "zugreifen (greift zu, griff zu, hat zugegriffen) (auf Daten zugreifen)",
+    "word_query": "zugreifen"
+}

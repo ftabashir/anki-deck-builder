@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas nachweisen bedeutet, dass man zeigt oder beweist, dass man etwas hat oder etwas gemacht hat, zum Beispiel mit einem Dokument.",
+    "de_meaning_fa": "اثبات کردن چیزی یعنی اینکه نشان دهید یا ثابت کنید که چیزی دارید یا کاری انجام داده‌اید، مثلاً با یک مدرک.",
+    "de_synonyms": [
+        "belegen",
+        "zeigen",
+        "beweisen"
+    ],
+    "de_example_1": "Ich muss meine Deutschkenntnisse nachweisen.",
+    "de_example_fa_1": "من باید مهارت زبان آلمانی خود را اثبات کنم.",
+    "de_example_2": "Kannst du deine Identität nachweisen?",
+    "de_example_fa_2": "آیا می‌توانی هویت خود را اثبات کنی؟",
+    "fa_meaning": "اثبات کردن چیزی، ارائه مدرک برای چیزی",
+    "en_meaning": "to prove or to provide evidence of something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + nachgewiesen / wies nach",
+    "is_verb": true,
+    "word": "etw. nachlweisen (lch muss mein Abitur nachweisen.)",
+    "word_query": "etw. nachlweisen"
+}

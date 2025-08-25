@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn man etwas nicht rechtzeitig schafft oder nicht dabei ist, zum Beispiel einen Bus oder eine Gelegenheit.",
+    "de_meaning_fa": "وقتی که چیزی را به موقع انجام نمی‌دهید یا در جایی حضور ندارید، مثلاً اتوبوس یا یک فرصت.",
+    "de_synonyms": [
+        "übersehen",
+        "versäumen",
+        "entgehen"
+    ],
+    "de_example_1": "Ich habe den Zug verpasst.",
+    "de_example_fa_1": "من قطار را از دست دادم.",
+    "de_example_2": "Du darfst die Chance nicht verpassen.",
+    "de_example_fa_2": "تو نباید این فرصت را از دست بدهی.",
+    "fa_meaning": "از دست دادن، جا ماندن",
+    "en_meaning": "to miss (e.g., a bus, an opportunity)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + verpasst / verpasste",
+    "is_verb": true,
+    "word": "verpassen",
+    "word_query": "verpassen"
+}

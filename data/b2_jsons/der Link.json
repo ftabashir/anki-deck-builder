@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Ein Link ist eine Internetadresse, auf die man klicken kann, um zu einer anderen Webseite zu kommen.",
+    "de_meaning_fa": "لینک یک نشانی اینترنتی است که می‌توان روی آن کلیک کرد تا به یک صفحه وب دیگر بروید.",
+    "de_synonyms": [
+        "die Verknüpfung",
+        "die Internetadresse",
+        "die Verbindung"
+    ],
+    "de_example_1": "Klick bitte auf den Link, um mehr Informationen zu bekommen.",
+    "de_example_fa_1": "لطفاً روی لینک کلیک کن تا اطلاعات بیشتری دریافت کنی.",
+    "de_example_2": "Ich habe dir einen Link per E-Mail geschickt.",
+    "de_example_fa_2": "من یک لینک برایت از طریق ایمیل فرستادم.",
+    "fa_meaning": "لینک (پیوند اینترنتی)",
+    "en_meaning": "link (internet address you can click to go to another webpage)",
+    "part_of_speech": "Substantiv",
+    "article": "der",
+    "frequency": "Very common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "",
+    "is_verb": false,
+    "word": "der Link, -S (auf einen Link klicken)",
+    "word_query": "der Link"
+}

@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Festlegen bedeutet, etwas genau bestimmen oder entscheiden, wie etwas sein soll.",
+    "de_meaning_fa": "فست‌لگن یعنی چیزی را دقیقاً مشخص یا تعیین کردن که چگونه باید باشد.",
+    "de_synonyms": [
+        "bestimmen",
+        "vereinbaren",
+        "definieren"
+    ],
+    "de_example_1": "Wir müssen einen Termin festlegen.",
+    "de_example_fa_1": "ما باید یک قرار ملاقات تعیین کنیم.",
+    "de_example_2": "Die Regeln wurden festgelegt.",
+    "de_example_fa_2": "قوانین مشخص شدند.",
+    "fa_meaning": "تعیین کردن، مشخص کردن",
+    "en_meaning": "to determine, to set, to define",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + festgelegt / legte fest",
+    "is_verb": true,
+    "word": "festlegen (zu festgelegten Zeiten)",
+    "word_query": "festlegen"
+}

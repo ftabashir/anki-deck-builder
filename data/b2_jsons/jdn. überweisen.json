@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn ein Arzt eine Person zu einem anderen Arzt schickt, zum Beispiel zu einem Spezialisten.",
+    "de_meaning_fa": "وقتی یک پزشک شخصی را به پزشک دیگری، مثلاً یک متخصص، می‌فرستد.",
+    "de_synonyms": [
+        "weiterleiten",
+        "verweisen",
+        "an einen Spezialisten schicken"
+    ],
+    "de_example_1": "Der Hausarzt hat mich zum Augenarzt überwiesen.",
+    "de_example_fa_1": "پزشک عمومی من را به چشم‌پزشک ارجاع داد.",
+    "de_example_2": "Die Ärztin überweist den Patienten ins Krankenhaus.",
+    "de_example_fa_2": "پزشک زن بیمار را به بیمارستان ارجاع می‌دهد.",
+    "fa_meaning": "ارجاع دادن کسی (مثلاً بیمار) به پزشک دیگر یا متخصص",
+    "en_meaning": "to refer someone (e.g., a patient) to another doctor or specialist",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat überwiesen / überwies",
+    "is_verb": true,
+    "word": "jdn. überweisen (überweist, überwies, hat überwiesen) (einen Patienten zur Fachärztin überweisen)",
+    "word_query": "jdn. überweisen"
+}

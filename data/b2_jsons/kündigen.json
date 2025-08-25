@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Kündigen bedeutet, dass man sagt, dass man nicht mehr in einer Firma arbeiten möchte oder dass man einen Vertrag beenden will.",
+    "de_meaning_fa": "کوندیگن یعنی اعلام کردن که دیگر نمی‌خواهید در یک شرکت کار کنید یا می‌خواهید یک قرارداد را تمام کنید.",
+    "de_synonyms": [
+        "entlassen",
+        "beenden",
+        "aufgeben"
+    ],
+    "de_example_1": "Ich möchte meine Stelle kündigen.",
+    "de_example_fa_1": "من می‌خواهم شغلم را ترک کنم.",
+    "de_example_2": "Er hat gestern seinen Vertrag gekündigt.",
+    "de_example_fa_2": "او دیروز قراردادش را فسخ کرد.",
+    "fa_meaning": "فسخ کردن، استعفا دادن، ترک کار",
+    "en_meaning": "to resign, to quit, to terminate (a job or contract)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gekündigt / kündigte",
+    "is_verb": true,
+    "word": "kündigen (die Stelle kündigen)",
+    "word_query": "kündigen"
+}

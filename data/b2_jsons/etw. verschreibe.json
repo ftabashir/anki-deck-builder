@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn ein Arzt jemandem ein Medikament verschreibt, sagt er, welches Medikament die Person nehmen soll.",
+    "de_meaning_fa": "وقتی یک پزشک دارویی را تجویز می‌کند، می‌گوید که فرد باید چه دارویی مصرف کند.",
+    "de_synonyms": [
+        "anordnen",
+        "verordnen",
+        "empfehlen"
+    ],
+    "de_example_1": "Der Arzt verschreibt mir ein neues Medikament.",
+    "de_example_fa_1": "پزشک برای من یک داروی جدید تجویز می‌کند.",
+    "de_example_2": "Sie verschreibt dem Patienten Ruhe und viel Wasser.",
+    "de_example_fa_2": "او برای بیمار استراحت و نوشیدن آب زیاد تجویز می‌کند.",
+    "fa_meaning": "تجویز کردن (دارو یا درمان توسط پزشک)",
+    "en_meaning": "to prescribe something (usually medicine or treatment)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat verschrieben / verschrieb",
+    "is_verb": true,
+    "word": "etw. verschreibe (verschreibt, verschrieb, hat verschrieben)",
+    "word_query": "etw. verschreibe"
+}

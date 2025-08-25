@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas zu etwas anderem dazugeben oder hinzufügen, zum Beispiel Informationen an eine E-Mail anhängen.",
+    "de_meaning_fa": "چیزی را به چیز دیگری اضافه یا پیوست کردن، مثلاً اطلاعاتی را به یک ایمیل ضمیمه کردن.",
+    "de_synonyms": [
+        "hinzufügen",
+        "beifügen",
+        "anhängen"
+    ],
+    "de_example_1": "Bitte fügen Sie die Datei an die E-Mail an.",
+    "de_example_fa_1": "لطفاً فایل را به ایمیل پیوست کنید.",
+    "de_example_2": "Er hat einen Kommentar an den Bericht angefügt.",
+    "de_example_fa_2": "او یک نظر به گزارش اضافه کرد.",
+    "fa_meaning": "پیوست کردن، اضافه کردن",
+    "en_meaning": "to attach, to add, to append",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + angefügt / fügte an",
+    "is_verb": true,
+    "word": "anfügen (angefügte Information)",
+    "word_query": "anfügen"
+}

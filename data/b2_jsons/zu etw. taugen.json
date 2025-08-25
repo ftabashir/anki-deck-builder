@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Wenn etwas zu etwas taugt, kann man es dafür benutzen oder es ist dafür geeignet.",
+    "de_meaning_fa": "اگر چیزی به درد چیزی می‌خورد، می‌توان از آن برای آن کار استفاده کرد یا برای آن مناسب است.",
+    "de_synonyms": [
+        "geeignet sein",
+        "brauchbar sein",
+        "nützlich sein"
+    ],
+    "de_example_1": "Dieses Messer taugt zum Schneiden von Brot.",
+    "de_example_fa_1": "این چاقو برای بریدن نان به درد می‌خورد.",
+    "de_example_2": "Er taugt nicht zum Autofahren.",
+    "de_example_fa_2": "او برای رانندگی مناسب نیست.",
+    "fa_meaning": "به درد چیزی خوردن، برای کاری مفید یا مناسب بودن",
+    "en_meaning": "to be useful for something; to be suitable for something",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + getaugt / taugte",
+    "is_verb": true,
+    "word": "zu etw. taugen (= für etw. nützlich sein)",
+    "word_query": "zu etw. taugen"
+}

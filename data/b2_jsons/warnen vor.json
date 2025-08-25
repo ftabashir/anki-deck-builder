@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Jemanden oder etwas vor Gefahr oder Problemen warnen, damit er/sie/es vorsichtig ist.",
+    "de_meaning_fa": "افراد یا چیزی را از خطر یا مشکلات هشدار دادن تا احتیاط کنند.",
+    "de_synonyms": [
+        "warnen",
+        "absolut vorsehen",
+        "hinweisen"
+    ],
+    "de_example_1": "Der Lehrer warnt die Schüler vor den Gefahren im Labor.",
+    "de_example_fa_1": "معلم به دانش‌آموزان درباره خطرات آزمایشگاه هشدار می‌دهد.",
+    "de_example_2": "Der Verkehrswarnschild warnt vor einer gefährlichen Kurve.",
+    "de_example_fa_2": "تابلوی هشدار ترافیک از پیچ خطرناک هشدار می‌دهد.",
+    "fa_meaning": "هشدار دادن به کسی یا چیزی درباره خطر یا مشکل.",
+    "en_meaning": "To inform someone or something about danger or problems so that they can be careful.",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Fairly common",
+    "cefr_level": "A2",
+    "perfekt_präteritum": "haben + gewarnt / warnte",
+    "is_verb": true,
+    "word": "warnen vor (+ Dat.)",
+    "word_query": "warnen vor"
+}

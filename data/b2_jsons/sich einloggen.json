@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Sich einloggen bedeutet, dass man seinen Benutzernamen und sein Passwort eingibt, um Zugang zu einem Computer, einer Webseite oder einem Programm zu bekommen.",
+    "de_meaning_fa": "سیش اینلاگن یعنی نام کاربری و رمز عبور خود را وارد کنید تا به یک کامپیوتر، وب‌سایت یا برنامه دسترسی پیدا کنید.",
+    "de_synonyms": [
+        "sich anmelden",
+        "einsteigen",
+        "sich einwählen"
+    ],
+    "de_example_1": "Du musst dich einloggen, um deine E-Mails zu lesen.",
+    "de_example_fa_1": "تو باید وارد شوی تا ایمیل‌هایت را بخوانی.",
+    "de_example_2": "Ich kann mich nicht einloggen, weil ich mein Passwort vergessen habe.",
+    "de_example_fa_2": "من نمی‌توانم وارد شوم، چون رمز عبورم را فراموش کرده‌ام.",
+    "fa_meaning": "وارد شدن (با نام کاربری و رمز عبور)",
+    "en_meaning": "to log in (with username and password)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "hat sich eingeloggt / loggte sich ein",
+    "is_verb": true,
+    "word": "sich einloggen",
+    "word_query": "sich einloggen"
+}

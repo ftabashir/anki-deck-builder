@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Etwas erfassen bedeutet, etwas genau aufschreiben oder in ein System eintragen, zum Beispiel die Arbeitszeiten von Mitarbeitern.",
+    "de_meaning_fa": "چیزی را ثبت کردن یعنی چیزی را دقیقاً یادداشت کردن یا در یک سیستم وارد کردن، مثلاً ساعات کاری کارکنان.",
+    "de_synonyms": [
+        "aufzeichnen",
+        "eintragen",
+        "dokumentieren"
+    ],
+    "de_example_1": "Ich muss meine Arbeitszeiten jeden Tag erfassen.",
+    "de_example_fa_1": "من باید هر روز ساعات کاری خود را ثبت کنم.",
+    "de_example_2": "Die Firma erfasst alle Überstunden der Mitarbeiter.",
+    "de_example_fa_2": "شرکت تمام اضافه‌کاری‌های کارکنان را ثبت می‌کند.",
+    "fa_meaning": "ثبت کردن، وارد کردن (مثلاً ثبت ساعات کاری)",
+    "en_meaning": "to record or to enter something (for example, to record working hours)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + erfasst / erfasste",
+    "is_verb": true,
+    "word": "etwas erfassen(Arbeitszeiten erfassen)",
+    "word_query": "etwas erfassen(Arbeitszeiten erfassen)"
+}

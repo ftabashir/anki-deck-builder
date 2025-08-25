@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Bestätigen bedeutet, dass man sagt oder zeigt, dass etwas richtig oder wahr ist.",
+    "de_meaning_fa": "تایید کردن یعنی اینکه بگوییم یا نشان دهیم چیزی درست یا صحیح است.",
+    "de_synonyms": [
+        "bejahen",
+        "zusagen",
+        "anerkennen"
+    ],
+    "de_example_1": "Können Sie bitte Ihre E-Mail-Adresse bestätigen?",
+    "de_example_fa_1": "می‌توانید لطفاً آدرس ایمیل خود را تأیید کنید؟",
+    "de_example_2": "Der Chef hat den Termin bestätigt.",
+    "de_example_fa_2": "رئیس وقت ملاقات را تأیید کرد.",
+    "fa_meaning": "تأیید کردن",
+    "en_meaning": "to confirm",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + bestätigt / bestätigte",
+    "is_verb": true,
+    "word": "bestätigen",
+    "word_query": "bestätigen"
+}

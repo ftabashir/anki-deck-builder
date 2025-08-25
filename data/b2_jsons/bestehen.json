@@ -1,0 +1,23 @@
+{
+    "de_meaning": "Das Wort 'bestehen' bedeutet, dass etwas existiert, weiterlebt oder erfolgreich ist.",
+    "de_meaning_fa": "کلمه 'bestehen' به معنای وجود داشتن، ادامه داشتن یا موفق بودن است.",
+    "de_synonyms": [
+        "existieren",
+        "fortsetzen",
+        "gelingen"
+    ],
+    "de_example_1": "Das Angebot soll langfristig bestehen.",
+    "de_example_fa_1": "پیشنهاد باید برای مدت طولانی باقی بماند.",
+    "de_example_2": "Er hat die Prüfung bestanden.",
+    "de_example_fa_2": "او در آزمون موفق شد.",
+    "fa_meaning": "وجود داشتن یا ادامه یافتن چیزی.",
+    "en_meaning": "To exist, continue, or be successful.",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + bestanden / bestand",
+    "is_verb": true,
+    "word": "bestehen (besteht, bestand, hat bestanden) (Das Angebot soll langfristig bestehen.)",
+    "word_query": "bestehen"
+}
