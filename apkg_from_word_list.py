@@ -43,19 +43,19 @@ def find_duplicates():
 
 if __name__ == '__main__':
     # kapitel = 12
-    file_path = f"./data/b1_plus.txt"
-    apkg_path = f"./data/collections/b1_plus.apkg"
-    jsons_directory = f"./data/b1_plus_jsons"
-    Path(jsons_directory).mkdir(parents=True, exist_ok=True)
-    words = read_words(file_path)
+    # file_path = f"./data/b2_1_6.txt"
+    apkg_path = f"./data/collections/b2.apkg"
+    jsons_directory = f"./data/b2_jsons"
+    # Path(jsons_directory).mkdir(parents=True, exist_ok=True)
+    # words = read_words(file_path)
     # create_json_files(words, jsons_directory)
     # update_json_files(words, jsons_directory)
-    create_json_files_with_openai(words, jsons_directory)
+    # create_json_files_with_openai(words, jsons_directory)
 
     apkg_params = ApkgParams(
-        model_name=f'B1+ Kontext',
-        model_id=1707400100,
-        deck_name=f'B1+ Kontext Deck (OpenAI)',
-        deck_id=2159500500,
+        model_name=f'B2 Kontext',
+        model_id=1717400100,
+        deck_name=f'B2 Kontext Deck',
+        deck_id=2169500500,
     )
     gen_anki(apkg_params, jsons_directory, apkg_path)

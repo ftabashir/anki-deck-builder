@@ -456,15 +456,15 @@ def find_redundant_words(collection):
 
 def b2_apkg_params():
     return ApkgParams(
-        model_name=f'B1+ Kontext',
-        model_id=1707400100,
-        deck_name=f'B1+ Kontext Deck',
-        deck_id=2159500500,
+        model_name=f'B2 Kontext',
+        model_id=1717400100,
+        deck_name=f'B2 Kontext Deck',
+        deck_id=2169500500,
     )
 
 
 if __name__ == '__main__':
-    collection = apkg_collections.B1_plus_Kontext
+    collection = apkg_collections.B2
     # jsons_directory = './data/b1_plus_jsons'
     apkg_path = f'{collection.collection_path}.apkg'
     # words = all_words(collection)
@@ -474,10 +474,6 @@ if __name__ == '__main__':
     # gen_anki(jsons_directory, apkg_path)
 
     b2_kontext = create_anki_model(apkg_params)
-    b2_kontext_deck = genanki.Deck(
-        deck_id=apkg_params.deck_id,
-        name=apkg_params.deck_name,
-    )
     add_audio(
         collection=collection,
         model_id=b2_kontext.model_id + 1,
@@ -485,7 +481,7 @@ if __name__ == '__main__':
         old_model_fields=b2_kontext.fields,
         old_card_template=b2_kontext.templates[0],
         old_card_css=b2_kontext.css,
-        deck_id=b2_kontext_deck.deck_id + 1,
-        deck_name=f'{b2_kontext_deck.name} with Audio',
+        deck_id=apkg_params.deck_id + 1,
+        deck_name=f'{apkg_params.deck_name} with Audio',
         with_lib='coqui', # piper or coqui
     )
