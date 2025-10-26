@@ -1,7 +1,16 @@
 from openai import OpenAI
 import json
+import os
+from dotenv import load_dotenv
 
-API_KEY = ''
+# Load environment variables from .env file
+load_dotenv()
+
+# Get API key from environment variable
+API_KEY = os.getenv("OPENAI_API_KEY")
+if not API_KEY:
+    raise ValueError("OPENAI_API_KEY not found in environment variables. Please create a .env file with your API key.")
+
 client = OpenAI(api_key=API_KEY)
 
 
