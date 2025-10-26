@@ -112,7 +112,7 @@ def add_audio(collection, model_id, model_name, old_model_fields, old_card_templ
         fields = flds.split('\x1f')  # Fields are separated by unit separator
         new_fields = [f for f in fields]
 
-        audio_fields = ['word_query', 'de_example_sentence_1', 'de_example_sentence_2']
+        audio_fields = ['word_query_expanded', 'de_example_sentence_1', 'de_example_sentence_2']
         start = time.time()
         for audio_field in audio_fields:
             field_index = field_names.index(audio_field)

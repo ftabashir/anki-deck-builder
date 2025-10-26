@@ -299,6 +299,7 @@ def template_css():
 def b2_kontext_fields():
     return [
         {'name': 'word_query'},
+        {'name': 'word_query_expanded'},
         {'name': 'word'},
         {'name': 'de_meaning'},
         {'name': 'de_meaning_fa'},
@@ -319,11 +320,12 @@ def b2_kontext_fields():
     ]
 
 
-def b2_kontext_fields_data(word_query, word, de_meaning, de_meaning_fa, de_synonyms, de_example_1, de_example_fa_1,
+def b2_kontext_fields_data(word_query, word_query_expanded, word, de_meaning, de_meaning_fa, de_synonyms, de_example_1, de_example_fa_1,
                            de_example_2, de_example_fa_2, fa_meaning, en_meaning, part_of_speech, frequency_de,
                            frequency_emoji, cefr_level, perfekt_präteritum, is_verb, color_class):
     return [
         word_query,
+        word_query_expanded,
         word,
         de_meaning,
         de_meaning_fa,
@@ -403,6 +405,7 @@ def gen_anki(apkg_params: ApkgParams, jsons_directory, apkg_path):
 
                 fields = b2_kontext_fields_data(
                     word_query=data.get('word_query', ''),
+                    word_query_expanded=data.get('word_query_expanded', ''),
                     word=data.get('word', ''),
                     de_meaning=data.get('de_meaning', ''),
                     de_meaning_fa=data.get('de_meaning_fa', ''),
