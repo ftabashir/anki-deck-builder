@@ -1,6 +1,11 @@
+import json
+import os
 import sqlite3
 
 from pydantic import BaseModel
+
+from apkg_from_word_list import read_words
+from file_utils import safe_filename
 
 DB_FILE = "./data/verbs.db"
 
@@ -37,7 +42,7 @@ def _search_verb(conn, infinitive):
 
 
 def search_verb(conn, infinitive):
-    results = search_verb(conn, infinitive)
+    results = _search_verb(conn, infinitive)
     verbs = [
         Verb(
             Infinitive=r[0],
@@ -91,4 +96,47 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    conn = connect_db()
+
+    kapitel = 7
+    file_path = f"./data/b2_kontext_kapitel_{kapitel}.txt"
+    jsons_directory = f"./data/b2_kontext_kapitel_{kapitel}_jsons_openai"
+    words = read_words(file_path)
+
+    for index, word in enumerate(words):
+        word_query = word.split(',')[0]
+        word_query = word_query.split(' (')[0]
+        word_query = word_query.replace('|', '')
+        word_query = word_query.strip()
+
+        # if index > 500:
+        #     break
+
+        file_path = f'{jsons_directory}/{safe_filename(word_query)}.json'
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                word_data = json.load(f)
+                if word_data['is_verb']:
+                    perfekt_präteritum = word_data['perfekt_präteritum'].split('/')
+                    infinitive = word_data['word_query']
+                    verb_matches = search_verb(conn, infinitive)
+                    exact_match = [verb for verb in verb_matches if verb.Infinitive == infinitive]
+                    if len(verb_matches) > 0:
+                        print("-" * 20)
+                        print(f"{len(verb_matches)} matches for {infinitive}, {len(exact_match)} exact matches")
+                        if len(exact_match) == 1:
+                            verb_matches = exact_match
+                            print('Only exact match is printed.')
+                        for verb in verb_matches:
+                            print("-" * 20)
+                            print("[Infinitive]")
+                            print(verb.Infinitive)
+                            print("[Präteritum]")
+                            print(verb.Präteritum_ich)
+                            print(perfekt_präteritum[1].strip())
+                            print("[Perfekt]")
+                            print(f"{verb.Hilfsverb} {verb.Partizip_II}")
+                            print(perfekt_präteritum[0].strip())
+                            print()
+                    else:
+                        print(f"No match for {infinitive}")
