@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat aufgerissen / riss auf",
     "is_verb": true,
     "word": "etwas aufreißen (reißt auf, riss auf, hat aufgerissen) (Ich reiße die Tür auf.)",
-    "word_query": "etwas aufreißen"
+    "word_query": "etwas aufreißen",
+    "word_query_expanded": "etwas aufreißen"
 }

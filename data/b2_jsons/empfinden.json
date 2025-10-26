@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + empfunden / empfand",
     "is_verb": true,
     "word": "empfinden (empfindet, empfand, hat empfunden)",
-    "word_query": "empfinden"
+    "word_query": "empfinden",
+    "word_query_expanded": "empfinden"
 }

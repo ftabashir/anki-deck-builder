@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verfolgt / verfolgte",
     "is_verb": true,
     "word": "verfolgen (ein Ziel verfolgen)",
-    "word_query": "verfolgen"
+    "word_query": "verfolgen",
+    "word_query_expanded": "verfolgen"
 }

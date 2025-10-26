@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + bezogen / bezog",
     "is_verb": true,
     "word": "beziehen von (+ Dat.) (etwas von lokalen Herstellern beziehen)",
-    "word_query": "beziehen von"
+    "word_query": "beziehen von",
+    "word_query_expanded": "beziehen von"
 }

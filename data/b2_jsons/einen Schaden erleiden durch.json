@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + einen Schaden erlitten / erlitt einen Schaden",
     "is_verb": true,
     "word": "einen Schaden erleiden durch (+ Akk.)",
-    "word_query": "einen Schaden erleiden durch"
+    "word_query": "einen Schaden erleiden durch",
+    "word_query_expanded": "einen Schaden erleiden durch"
 }

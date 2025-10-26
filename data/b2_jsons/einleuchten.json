@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + eingeleuchtet / leuchtete ein",
     "is_verb": true,
     "word": "einleuchten (Das leuchtet mir ein.)",
-    "word_query": "einleuchten"
+    "word_query": "einleuchten",
+    "word_query_expanded": "einleuchten"
 }

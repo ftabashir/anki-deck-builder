@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat freigegeben / gab frei",
     "is_verb": true,
     "word": "den Weg freigeben (gibt frei, gab frei, hat freigegeben)",
-    "word_query": "den Weg freigeben"
+    "word_query": "den Weg freigeben",
+    "word_query_expanded": "den Weg freigeben"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat bestritten / bestritt",
     "is_verb": true,
     "word": "bestreiten (bestreitet, bestritt, hat bestritten)",
-    "word_query": "bestreiten"
+    "word_query": "bestreiten",
+    "word_query_expanded": "bestreiten"
 }

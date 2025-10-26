@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gebracht / brachte",
     "is_verb": true,
     "word": "jdm. etwas/nichts bringen (= jdm. etwas/nichts nützen) (Das bringt mir nichts.)",
-    "word_query": "jdm. etwas/nichts bringen"
+    "word_query": "jdm. etwas/nichts bringen",
+    "word_query_expanded": "jemandem etwas/nichts bringen"
 }

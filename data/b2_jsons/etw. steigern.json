@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gesteigert / steigerte",
     "is_verb": true,
     "word": "etw. steigern",
-    "word_query": "etw. steigern"
+    "word_query": "etw. steigern",
+    "word_query_expanded": "etwas steigern"
 }

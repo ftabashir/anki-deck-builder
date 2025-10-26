@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + angestarrt / starrte an",
     "is_verb": true,
     "word": "(sich) anstarren",
-    "word_query": "(sich) anstarren"
+    "word_query": "(sich) anstarren",
+    "word_query_expanded": "(sich) anstarren"
 }

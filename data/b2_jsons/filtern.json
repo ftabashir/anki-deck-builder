@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gefiltert / filterte",
     "is_verb": true,
     "word": "filtern",
-    "word_query": "filtern"
+    "word_query": "filtern",
+    "word_query_expanded": "filtern"
 }

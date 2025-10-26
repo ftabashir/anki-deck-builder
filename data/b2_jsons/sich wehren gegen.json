@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich gewehrt / wehrte sich",
     "is_verb": true,
     "word": "sich wehren gegen (+ Akk.)",
-    "word_query": "sich wehren gegen"
+    "word_query": "sich wehren gegen",
+    "word_query_expanded": "sich wehren gegen"
 }

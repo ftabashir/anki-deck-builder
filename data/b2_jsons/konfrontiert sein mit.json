@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + konfrontiert gewesen / war konfrontiert",
     "is_verb": true,
     "word": "konfrontiert sein mit (+ Dat.)",
-    "word_query": "konfrontiert sein mit"
+    "word_query": "konfrontiert sein mit",
+    "word_query_expanded": "konfrontiert sein mit"
 }

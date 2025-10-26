@@ -19,5 +19,6 @@
     "perfekt_präteritum": "",
     "is_verb": false,
     "word": "der Link, -S (auf einen Link klicken)",
-    "word_query": "der Link"
+    "word_query": "der Link",
+    "word_query_expanded": "der Link"
 }

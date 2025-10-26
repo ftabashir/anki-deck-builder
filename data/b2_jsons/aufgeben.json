@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat aufgegeben / gab auf",
     "is_verb": true,
     "word": "aufgeben (gibt auf, gab auf, hat aufgegeben)",
-    "word_query": "aufgeben"
+    "word_query": "aufgeben",
+    "word_query_expanded": "aufgeben"
 }

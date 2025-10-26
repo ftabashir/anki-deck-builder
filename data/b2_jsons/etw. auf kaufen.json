@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + auf gekauft / kaufte auf",
     "is_verb": true,
     "word": "etw. auf kaufen (= alles von etwas kaufen)",
-    "word_query": "etw. auf kaufen"
+    "word_query": "etw. auf kaufen",
+    "word_query_expanded": "etwas auf kaufen"
 }

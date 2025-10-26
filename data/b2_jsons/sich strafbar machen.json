@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + sich strafbar gemacht / machte sich strafbar",
     "is_verb": true,
     "word": "sich strafbar machen (= eine Straftat begehen)",
-    "word_query": "sich strafbar machen"
+    "word_query": "sich strafbar machen",
+    "word_query_expanded": "sich strafbar machen"
 }

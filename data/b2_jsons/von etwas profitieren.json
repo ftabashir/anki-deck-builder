@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + profitiert / profitierte",
     "is_verb": true,
     "word": "von etwas profitieren (Wir würden davon profitieren, wenn ...)",
-    "word_query": "von etwas profitieren"
+    "word_query": "von etwas profitieren",
+    "word_query_expanded": "von etwas profitieren"
 }

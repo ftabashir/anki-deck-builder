@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat gewonnen / gewann",
     "is_verb": true,
     "word": "gewinnen (gewinnt, gewann, hat gewonnen)",
-    "word_query": "gewinnen"
+    "word_query": "gewinnen",
+    "word_query_expanded": "gewinnen"
 }

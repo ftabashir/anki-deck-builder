@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + eine Vorlesung gehalten / hielt eine Vorlesung",
     "is_verb": true,
     "word": "eine Vorlesung halten",
-    "word_query": "eine Vorlesung halten"
+    "word_query": "eine Vorlesung halten",
+    "word_query_expanded": "eine Vorlesung halten"
 }

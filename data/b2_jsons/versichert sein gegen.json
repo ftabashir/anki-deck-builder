@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + versichert gewesen / war versichert",
     "is_verb": true,
     "word": "versichert sein gegen (+ Akk.)",
-    "word_query": "versichert sein gegen"
+    "word_query": "versichert sein gegen",
+    "word_query_expanded": "versichert sein gegen"
 }

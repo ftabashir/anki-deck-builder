@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gewarnt / warnte",
     "is_verb": true,
     "word": "warnen vor (+ Dat.)",
-    "word_query": "warnen vor"
+    "word_query": "warnen vor",
+    "word_query_expanded": "warnen vor"
 }

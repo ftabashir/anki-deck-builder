@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat gefroren / fror",
     "is_verb": true,
     "word": "frieren (friert, fror, hat gefroren)",
-    "word_query": "frieren"
+    "word_query": "frieren",
+    "word_query_expanded": "frieren"
 }

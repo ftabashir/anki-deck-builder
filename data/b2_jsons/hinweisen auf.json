@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat hingewiesen / wies hin",
     "is_verb": true,
     "word": "hinweisen auf (+ Akk.)(weist hin, wies hin, hat hingewiesen)",
-    "word_query": "hinweisen auf"
+    "word_query": "hinweisen auf",
+    "word_query_expanded": "hinweisen auf"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erkannt / erkannte",
     "is_verb": true,
     "word": "erkennen (erkennt, erkannt, hat erkannt)",
-    "word_query": "erkennen"
+    "word_query": "erkennen",
+    "word_query_expanded": "erkennen"
 }

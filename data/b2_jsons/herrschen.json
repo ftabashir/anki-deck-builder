@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + geherrscht / herrschte",
     "is_verb": true,
     "word": "herrschen",
-    "word_query": "herrschen"
+    "word_query": "herrschen",
+    "word_query_expanded": "herrschen"
 }

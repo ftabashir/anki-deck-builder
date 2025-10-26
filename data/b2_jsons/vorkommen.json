@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + vorgekommen / kam vor",
     "is_verb": true,
     "word": "vorkommen (kommt vor, kam vor, ist vorgekommen) (Das kommt mir komisch vor)",
-    "word_query": "vorkommen"
+    "word_query": "vorkommen",
+    "word_query_expanded": "vorkommen"
 }

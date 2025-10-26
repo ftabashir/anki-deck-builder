@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + hinbekommen / bekam hin",
     "is_verb": true,
     "word": "hinbekommen (Du bekommst das bestimmt hin.)",
-    "word_query": "hinbekommen"
+    "word_query": "hinbekommen",
+    "word_query_expanded": "hinbekommen"
 }

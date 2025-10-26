@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + angeschafft / schaffte an",
     "is_verb": true,
     "word": "anschaffen",
-    "word_query": "anschaffen"
+    "word_query": "anschaffen",
+    "word_query_expanded": "anschaffen"
 }

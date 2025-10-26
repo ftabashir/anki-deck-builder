@@ -19,5 +19,6 @@
     "perfekt_präteritum": "leiden + gelitten / litt",
     "is_verb": true,
     "word": "leiden unter (+ Dat.) (leidet, litt, hat gelitten) (Die Wirtschaft leidet unter dem Fachkräfte- mangel.)",
-    "word_query": "leiden unter"
+    "word_query": "leiden unter",
+    "word_query_expanded": "leiden unter"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat behalten / behielt",
     "is_verb": true,
     "word": "behalten (behält,behielt, hat behalten)(Manche Wörter kann ich schlecht behalten.)",
-    "word_query": "behalten"
+    "word_query": "behalten",
+    "word_query_expanded": "behalten"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + ausgenutzt / nutzte aus",
     "is_verb": true,
     "word": "jdn./etw. ausnutzen",
-    "word_query": "jdn./etw. ausnutzen"
+    "word_query": "jdn./etw. ausnutzen",
+    "word_query_expanded": "jemanden/etwas ausnutzen"
 }

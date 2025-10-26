@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat eingebracht / brachte ein",
     "is_verb": true,
     "word": "einbringen (bringt ein, brachte ein, hat eingebracht) (Ideen einbringen)",
-    "word_query": "einbringen"
+    "word_query": "einbringen",
+    "word_query_expanded": "einbringen"
 }

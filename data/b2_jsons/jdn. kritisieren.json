@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + kritisiert / kritisierte",
     "is_verb": true,
     "word": "jdn. kritisieren",
-    "word_query": "jdn. kritisieren"
+    "word_query": "jdn. kritisieren",
+    "word_query_expanded": "jemanden kritisieren"
 }

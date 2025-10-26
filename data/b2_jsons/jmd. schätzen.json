@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + geschätzt / schätzte",
     "is_verb": true,
     "word": "jmd. schätzen",
-    "word_query": "jmd. schätzen"
+    "word_query": "jmd. schätzen",
+    "word_query_expanded": "jemand schätzen"
 }

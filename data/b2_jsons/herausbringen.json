@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat herausgebracht / brachte heraus",
     "is_verb": true,
     "word": "herausbringen (bringt heraus, brachte heraus,hat herausgebracht) (ein Album heraus- bringen)",
-    "word_query": "herausbringen"
+    "word_query": "herausbringen",
+    "word_query_expanded": "herausbringen"
 }

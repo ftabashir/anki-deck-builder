@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + vorangegangen / ging voran",
     "is_verb": true,
     "word": "mit gutem Beispiel vorangehen (geht voran, ging voran, ist vorangegangen)",
-    "word_query": "mit gutem Beispiel vorangehen"
+    "word_query": "mit gutem Beispiel vorangehen",
+    "word_query_expanded": "mit gutem Beispiel vorangehen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + teilgehabt / hatte teil",
     "is_verb": true,
     "word": "teilhaben an (+ Dat.)",
-    "word_query": "teilhaben an"
+    "word_query": "teilhaben an",
+    "word_query_expanded": "teilhaben an"
 }

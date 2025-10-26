@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat abgehangen / hing ab",
     "is_verb": true,
     "word": "abhängen von (+ Dat.) (hängt ab, hing ab, hat abgehangen)",
-    "word_query": "abhängen von"
+    "word_query": "abhängen von",
+    "word_query_expanded": "abhängen von"
 }

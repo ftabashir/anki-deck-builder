@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + bereut / bereute",
     "is_verb": true,
     "word": "etw. bereuen",
-    "word_query": "etw. bereuen"
+    "word_query": "etw. bereuen",
+    "word_query_expanded": "etwas bereuen"
 }

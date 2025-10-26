@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erhalten / erhielt",
     "is_verb": true,
     "word": "erhalten (erhält ,erhielt, hat erhalten)(einen Preis erhalten)",
-    "word_query": "erhalten"
+    "word_query": "erhalten",
+    "word_query_expanded": "erhalten"
 }

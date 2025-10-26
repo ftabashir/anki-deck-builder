@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + getickt / tickte",
     "is_verb": true,
     "word": "ticken (wie jnd. tickt)",
-    "word_query": "ticken"
+    "word_query": "ticken",
+    "word_query_expanded": "ticken"
 }

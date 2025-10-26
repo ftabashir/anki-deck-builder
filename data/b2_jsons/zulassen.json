@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat zugelassen / ließ zu",
     "is_verb": true,
     "word": "zulassen (lässt zu, ließ zu, hat zugelassen) (Das Auto wurde schon zugelassen.)",
-    "word_query": "zulassen"
+    "word_query": "zulassen",
+    "word_query_expanded": "zulassen"
 }

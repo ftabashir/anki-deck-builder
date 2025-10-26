@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + bestanden / bestand",
     "is_verb": true,
     "word": "bestehen (besteht, bestand, hat bestanden) (Das Angebot soll langfristig bestehen.)",
-    "word_query": "bestehen"
+    "word_query": "bestehen",
+    "word_query_expanded": "bestehen"
 }

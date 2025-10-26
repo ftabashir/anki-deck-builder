@@ -19,5 +19,6 @@
     "perfekt_präteritum": "",
     "is_verb": false,
     "word": "ausstehend (ausstehende Zahlungen)",
-    "word_query": "ausstehend"
+    "word_query": "ausstehend",
+    "word_query_expanded": "ausstehend"
 }

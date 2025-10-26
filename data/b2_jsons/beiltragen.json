@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + beigetragen / trug bei",
     "is_verb": true,
     "word": "beiltragen (trägt bei, trug bei, hat beigetragen)",
-    "word_query": "beiltragen"
+    "word_query": "beiltragen",
+    "word_query_expanded": "beiltragen"
 }

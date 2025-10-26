@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + kontaktiert / kontaktierte",
     "is_verb": true,
     "word": "jdn. kontaktieren",
-    "word_query": "jdn. kontaktieren"
+    "word_query": "jdn. kontaktieren",
+    "word_query_expanded": "jemanden kontaktieren"
 }

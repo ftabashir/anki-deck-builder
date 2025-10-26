@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erzielt / erzielte",
     "is_verb": true,
     "word": "erzielen (+ Akk.)(einen Erfolg erzielen)",
-    "word_query": "erzielen"
+    "word_query": "erzielen",
+    "word_query_expanded": "erzielen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + gekommen / kam",
     "is_verb": true,
     "word": "Sprechstunde kommen",
-    "word_query": "Sprechstunde kommen"
+    "word_query": "Sprechstunde kommen",
+    "word_query_expanded": "Sprechstunde kommen"
 }

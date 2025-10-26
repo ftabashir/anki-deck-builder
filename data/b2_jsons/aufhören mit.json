@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + aufgehört / hörte auf",
     "is_verb": true,
     "word": "aufhören mit (+ Dat.)",
-    "word_query": "aufhören mit"
+    "word_query": "aufhören mit",
+    "word_query_expanded": "aufhören mit"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat vorangebracht / brachte voran",
     "is_verb": true,
     "word": "voranbringen (bringt voran, brachte voran, hat vorangebracht)",
-    "word_query": "voranbringen"
+    "word_query": "voranbringen",
+    "word_query_expanded": "voranbringen"
 }

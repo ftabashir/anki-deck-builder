@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + geahnt / ahnte",
     "is_verb": true,
     "word": "ahnen (Du ahnst ja nicht, was passiert ist)",
-    "word_query": "ahnen"
+    "word_query": "ahnen",
+    "word_query_expanded": "ahnen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + gut gelaufen / lief gut",
     "is_verb": true,
     "word": "gut laufen (Das Gespräch lief gut)",
-    "word_query": "gut laufen"
+    "word_query": "gut laufen",
+    "word_query_expanded": "gut laufen"
 }

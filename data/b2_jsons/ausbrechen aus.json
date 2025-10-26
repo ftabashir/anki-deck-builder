@@ -19,5 +19,6 @@
     "perfekt_präteritum": "ist ausgebrochen / brach aus",
     "is_verb": true,
     "word": "ausbrechen aus (+ Dat.) (bricht aus, brach aus,ist ausgebrochen) (aus einem Teufelskreis ausbrechen)",
-    "word_query": "ausbrechen aus"
+    "word_query": "ausbrechen aus",
+    "word_query_expanded": "ausbrechen aus"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erleichtert / erleichterte",
     "is_verb": true,
     "word": "erleichtern = leichter machen",
-    "word_query": "erleichtern = leichter machen"
+    "word_query": "erleichtern = leichter machen",
+    "word_query_expanded": "erleichtern = leichter machen"
 }

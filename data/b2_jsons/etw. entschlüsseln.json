@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + entschlüsselt / entschlüsselte",
     "is_verb": true,
     "word": "etw. entschlüsseln (= versuchen, etwas zu verstehen)",
-    "word_query": "etw. entschlüsseln"
+    "word_query": "etw. entschlüsseln",
+    "word_query_expanded": "etwas entschlüsseln"
 }

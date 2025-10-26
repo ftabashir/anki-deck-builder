@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + beurteilt / beurteilte",
     "is_verb": true,
     "word": "beurteilen (Soweit ich das beurteilen kann.)",
-    "word_query": "beurteilen"
+    "word_query": "beurteilen",
+    "word_query_expanded": "beurteilen"
 }

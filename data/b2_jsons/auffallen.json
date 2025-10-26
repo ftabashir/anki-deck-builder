@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + aufgefallen / fiel auf",
     "is_verb": true,
     "word": "auffallen (fällt auf, fiel auf, ist aufgefallen)",
-    "word_query": "auffallen"
+    "word_query": "auffallen",
+    "word_query_expanded": "auffallen"
 }

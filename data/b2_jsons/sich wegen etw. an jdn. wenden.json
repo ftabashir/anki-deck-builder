@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich an jemanden gewandt / wandte sich an jemanden",
     "is_verb": true,
     "word": "sich wegen etw. an jdn. wenden",
-    "word_query": "sich wegen etw. an jdn. wenden"
+    "word_query": "sich wegen etw. an jdn. wenden",
+    "word_query_expanded": "sich wegen etwas an jemanden wenden"
 }

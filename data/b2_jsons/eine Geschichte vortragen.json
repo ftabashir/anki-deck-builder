@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat vorgetragen / trug vor",
     "is_verb": true,
     "word": "eine Geschichte vortragen (trägt vor, trug vor, hat vorgetragen)",
-    "word_query": "eine Geschichte vortragen"
+    "word_query": "eine Geschichte vortragen",
+    "word_query_expanded": "eine Geschichte vortragen"
 }

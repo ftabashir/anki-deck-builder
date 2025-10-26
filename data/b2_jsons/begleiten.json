@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + begleitet / begleitete",
     "is_verb": true,
     "word": "begleiten (jdn. auf der Gitarre begleiten)",
-    "word_query": "begleiten"
+    "word_query": "begleiten",
+    "word_query_expanded": "begleiten"
 }

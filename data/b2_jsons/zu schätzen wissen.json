@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + zu schätzen gewusst / wusste zu schätzen",
     "is_verb": true,
     "word": "zu schätzen wissen (Ich weiß das zu schätzen.)",
-    "word_query": "zu schätzen wissen"
+    "word_query": "zu schätzen wissen",
+    "word_query_expanded": "zu schätzen wissen"
 }

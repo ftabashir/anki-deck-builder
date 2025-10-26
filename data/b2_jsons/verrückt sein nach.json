@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + verrückt gewesen / war verrückt",
     "is_verb": false,
     "word": "verrückt sein nach (+ Dat.)",
-    "word_query": "verrückt sein nach"
+    "word_query": "verrückt sein nach",
+    "word_query_expanded": "verrückt sein nach"
 }

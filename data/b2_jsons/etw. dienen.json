@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gedient / diente",
     "is_verb": true,
     "word": "etw. dienen",
-    "word_query": "etw. dienen"
+    "word_query": "etw. dienen",
+    "word_query_expanded": "etwas dienen"
 }

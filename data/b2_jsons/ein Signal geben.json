@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + ein Signal gegeben / gab ein Signal",
     "is_verb": true,
     "word": "ein Signal geben",
-    "word_query": "ein Signal geben"
+    "word_query": "ein Signal geben",
+    "word_query_expanded": "ein Signal geben"
 }

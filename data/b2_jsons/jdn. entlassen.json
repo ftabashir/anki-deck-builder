@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat entlassen / entließ",
     "is_verb": true,
     "word": "jdn. entlassen (entlässt, entließ, hat entlassen)",
-    "word_query": "jdn. entlassen"
+    "word_query": "jdn. entlassen",
+    "word_query_expanded": "jemanden entlassen"
 }

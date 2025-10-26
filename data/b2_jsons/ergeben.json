@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + ergeben / ergab",
     "is_verb": true,
     "word": "ergeben (ergibt, ergab, hat ergeben) (Die Umfrage hat ergeben, dass ...)",
-    "word_query": "ergeben"
+    "word_query": "ergeben",
+    "word_query_expanded": "ergeben"
 }

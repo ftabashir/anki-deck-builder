@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat überwiesen / überwies",
     "is_verb": true,
     "word": "jdn. überweisen (überweist, überwies, hat überwiesen) (einen Patienten zur Fachärztin überweisen)",
-    "word_query": "jdn. überweisen"
+    "word_query": "jdn. überweisen",
+    "word_query_expanded": "jemanden überweisen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + gelungen / gelang",
     "is_verb": true,
     "word": "gelingen (gelingt, gelang, ist gelungen) (Das ist ihm gut gelungen.)",
-    "word_query": "gelingen"
+    "word_query": "gelingen",
+    "word_query_expanded": "gelingen"
 }

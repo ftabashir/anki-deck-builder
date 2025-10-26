@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich ausgekannt / kannte sich aus",
     "is_verb": true,
     "word": "sich mit etw. auskennen (kennt sich aus, kannte sich aus, hat sich ausgekannt)",
-    "word_query": "sich mit etw. auskennen"
+    "word_query": "sich mit etw. auskennen",
+    "word_query_expanded": "sich mit etwas auskennen"
 }

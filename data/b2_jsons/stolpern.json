@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + gestolpert / stolperte",
     "is_verb": true,
     "word": "stolpern",
-    "word_query": "stolpern"
+    "word_query": "stolpern",
+    "word_query_expanded": "stolpern"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat eingebunden / band ein",
     "is_verb": true,
     "word": "einbinden (bindet ein, band ein, hat eingebunden) (einen Mitarbeiter einbinden)",
-    "word_query": "einbinden"
+    "word_query": "einbinden",
+    "word_query_expanded": "einbinden"
 }

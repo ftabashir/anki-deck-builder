@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verzichtet / verzichtete",
     "is_verb": true,
     "word": "verzichten auf (+ Akk.)",
-    "word_query": "verzichten auf"
+    "word_query": "verzichten auf",
+    "word_query_expanded": "verzichten auf"
 }

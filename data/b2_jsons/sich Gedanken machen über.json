@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + sich Gedanken gemacht / machte sich Gedanken",
     "is_verb": true,
     "word": "sich Gedanken machen über (+ Akk.)",
-    "word_query": "sich Gedanken machen über"
+    "word_query": "sich Gedanken machen über",
+    "word_query_expanded": "sich Gedanken machen über"
 }

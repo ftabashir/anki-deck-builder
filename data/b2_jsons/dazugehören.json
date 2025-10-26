@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + dazugehört / gehörte dazu",
     "is_verb": true,
     "word": "dazugehören",
-    "word_query": "dazugehören"
+    "word_query": "dazugehören",
+    "word_query_expanded": "dazugehören"
 }

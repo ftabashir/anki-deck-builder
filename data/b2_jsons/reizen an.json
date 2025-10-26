@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gereizt / reizte",
     "is_verb": true,
     "word": "reizen an (+ Akk.) (An dem Angebot reizen mich die neuen Aufgaben)",
-    "word_query": "reizen an"
+    "word_query": "reizen an",
+    "word_query_expanded": "reizen an"
 }

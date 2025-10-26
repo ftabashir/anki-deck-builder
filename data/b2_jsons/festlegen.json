@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + festgelegt / legte fest",
     "is_verb": true,
     "word": "festlegen (zu festgelegten Zeiten)",
-    "word_query": "festlegen"
+    "word_query": "festlegen",
+    "word_query_expanded": "festlegen"
 }

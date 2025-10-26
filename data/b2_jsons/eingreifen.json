@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat eingegriffen / griff ein",
     "is_verb": true,
     "word": "eingreifen (greift ein,griff ein, hat eingegriffen)",
-    "word_query": "eingreifen"
+    "word_query": "eingreifen",
+    "word_query_expanded": "eingreifen"
 }

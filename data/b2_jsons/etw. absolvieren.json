@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + absolviert / absolvierte",
     "is_verb": true,
     "word": "etw. absolvieren (eine Prüfung absolvieren)",
-    "word_query": "etw. absolvieren"
+    "word_query": "etw. absolvieren",
+    "word_query_expanded": "etwas absolvieren"
 }

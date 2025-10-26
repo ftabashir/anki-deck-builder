@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verzichtet / verzichtete",
     "is_verb": true,
     "word": "auf etw. verzichten",
-    "word_query": "auf etw. verzichten"
+    "word_query": "auf etw. verzichten",
+    "word_query_expanded": "auf etwas verzichten"
 }

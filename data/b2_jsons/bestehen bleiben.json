@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + bestehen geblieben / blieb bestehen",
     "is_verb": true,
     "word": "bestehen bleiben (die Tatsache bleibt bestehen)",
-    "word_query": "bestehen bleiben"
+    "word_query": "bestehen bleiben",
+    "word_query_expanded": "bestehen bleiben"
 }

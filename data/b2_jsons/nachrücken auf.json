@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + nachgerückt / rückte nach",
     "is_verb": true,
     "word": "nach|rücken auf (+ akk.) (auf eine freie Stelle nachrücken)",
-    "word_query": "nachrücken auf"
+    "word_query": "nachrücken auf",
+    "word_query_expanded": "nachrücken auf"
 }

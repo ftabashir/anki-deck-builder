@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + tätig gewesen / war tätig",
     "is_verb": true,
     "word": "tätig sein in/bei (+ Dat.)",
-    "word_query": "tätig sein in/bei"
+    "word_query": "tätig sein in/bei",
+    "word_query_expanded": "tätig sein in/bei"
 }

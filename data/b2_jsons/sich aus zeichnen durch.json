@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + sich ausgezeichnet / zeichnete sich aus",
     "is_verb": true,
     "word": "sich aus zeichnen durch (+ Akk.)",
-    "word_query": "sich aus zeichnen durch"
+    "word_query": "sich aus zeichnen durch",
+    "word_query_expanded": "sich aus zeichnen durch"
 }

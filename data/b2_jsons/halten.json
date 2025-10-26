@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat gehalten / hielt",
     "is_verb": true,
     "word": "halten (hält, hielt, hat gehalten) (Das hält für immer.)",
-    "word_query": "halten"
+    "word_query": "halten",
+    "word_query_expanded": "halten"
 }

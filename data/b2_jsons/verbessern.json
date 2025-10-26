@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verbessert / verbesserte",
     "is_verb": true,
     "word": "verbessern",
-    "word_query": "verbessern"
+    "word_query": "verbessern",
+    "word_query_expanded": "verbessern"
 }

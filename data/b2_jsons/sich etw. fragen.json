@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + sich gefragt / fragte sich",
     "is_verb": true,
     "word": "sich etw. fragen (Ich frage mich, warum wir streiten.)",
-    "word_query": "sich etw. fragen"
+    "word_query": "sich etw. fragen",
+    "word_query_expanded": "sich etwas fragen"
 }

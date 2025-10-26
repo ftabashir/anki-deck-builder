@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + geatmet / atmete",
     "is_verb": true,
     "word": "atmen",
-    "word_query": "atmen"
+    "word_query": "atmen",
+    "word_query_expanded": "atmen"
 }

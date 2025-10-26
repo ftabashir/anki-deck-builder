@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + ausgelaufen / lief aus",
     "is_verb": true,
     "word": "auslaufen (läuft aus, lief aus, ist ausgelaufen)(der Vertrag läuft aus)",
-    "word_query": "auslaufen"
+    "word_query": "auslaufen",
+    "word_query_expanded": "auslaufen"
 }

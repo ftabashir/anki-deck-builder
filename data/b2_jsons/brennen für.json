@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gebrannt / brannte",
     "is_verb": true,
     "word": "brennen für (+ Akk.) (brennt, brannte, hat gebrannt) (= begeistert sein von + Dat.)",
-    "word_query": "brennen für"
+    "word_query": "brennen für",
+    "word_query_expanded": "brennen für"
 }

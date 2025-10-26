@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erinnert / erinnerte",
     "is_verb": true,
     "word": "jdn. an etw. erinnern",
-    "word_query": "jdn. an etw. erinnern"
+    "word_query": "jdn. an etw. erinnern",
+    "word_query_expanded": "jemanden an etwas erinnern"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verfügt / verfügte",
     "is_verb": true,
     "word": "verfügen über (+ Akk.) (= besitzen/haben)",
-    "word_query": "verfügen über"
+    "word_query": "verfügen über",
+    "word_query_expanded": "verfügen über"
 }

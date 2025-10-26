@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gefallen / fiel",
     "is_verb": true,
     "word": "die Wahl fällt auf (+ Akk.) (Unsere Wahl ist auf die erste Bewerberin gefallen.)",
-    "word_query": "die Wahl fällt auf"
+    "word_query": "die Wahl fällt auf",
+    "word_query_expanded": "die Wahl fällt auf"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + in Erfüllung gegangen / ging in Erfüllung",
     "is_verb": true,
     "word": "in Erfüllung gehen (Mein Traum ist in Erfüllung gegangen)",
-    "word_query": "in Erfüllung gehen"
+    "word_query": "in Erfüllung gehen",
+    "word_query_expanded": "in Erfüllung gehen"
 }

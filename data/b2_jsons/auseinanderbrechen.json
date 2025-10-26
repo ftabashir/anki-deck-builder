@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + auseinandergebrochen / brach auseinander",
     "is_verb": true,
     "word": "auseinander|brechen (bricht auseinander ,brach auseinander, ist auseinandergebrochen)",
-    "word_query": "auseinanderbrechen"
+    "word_query": "auseinanderbrechen",
+    "word_query_expanded": "auseinanderbrechen"
 }

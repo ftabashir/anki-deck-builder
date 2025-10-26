@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat erfunden / erfand",
     "is_verb": true,
     "word": "erfinden (erfindet, erfand, hat erfunden)",
-    "word_query": "erfinden"
+    "word_query": "erfinden",
+    "word_query_expanded": "erfinden"
 }

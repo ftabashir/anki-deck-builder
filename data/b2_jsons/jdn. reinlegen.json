@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + reingelegt / legte rein",
     "is_verb": true,
     "word": "jdn. reinlegen (Da bin ich echt reingelegt worden!)",
-    "word_query": "jdn. reinlegen"
+    "word_query": "jdn. reinlegen",
+    "word_query_expanded": "jemanden reinlegen"
 }

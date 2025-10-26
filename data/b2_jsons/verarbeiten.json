@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verarbeitet / verarbeitete",
     "is_verb": true,
     "word": "verarbeiten",
-    "word_query": "verarbeiten"
+    "word_query": "verarbeiten",
+    "word_query_expanded": "verarbeiten"
 }

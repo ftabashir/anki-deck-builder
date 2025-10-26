@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat vermieden / vermied",
     "is_verb": true,
     "word": "vermeiden (vermeidet, vermied, hat vermieden) (Das sollte man vermeiden.)",
-    "word_query": "vermeiden"
+    "word_query": "vermeiden",
+    "word_query_expanded": "vermeiden"
 }

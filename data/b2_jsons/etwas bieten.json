@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat geboten / bot",
     "is_verb": true,
     "word": "etwas bieten (bietet,bot, hat geboten)",
-    "word_query": "etwas bieten"
+    "word_query": "etwas bieten",
+    "word_query_expanded": "etwas bieten"
 }

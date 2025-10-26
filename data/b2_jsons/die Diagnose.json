@@ -19,5 +19,6 @@
     "perfekt_präteritum": "",
     "is_verb": false,
     "word": "die Diagnose, -n (Der Arzt stellt eine Diagnose.)",
-    "word_query": "die Diagnose"
+    "word_query": "die Diagnose",
+    "word_query_expanded": "die Diagnose"
 }

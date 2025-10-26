@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat gezwungen / zwang",
     "is_verb": true,
     "word": "jdn. zwingen (zwingt, zwang, hat gezwungen) (Niemand sollte gezwungen werden.)",
-    "word_query": "jdn. zwingen"
+    "word_query": "jdn. zwingen",
+    "word_query_expanded": "jemanden zwingen"
 }

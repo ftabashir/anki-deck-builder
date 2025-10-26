@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + überlastet gewesen / war überlastet",
     "is_verb": true,
     "word": "überlastet sein",
-    "word_query": "überlastet sein"
+    "word_query": "überlastet sein",
+    "word_query_expanded": "überlastet sein"
 }

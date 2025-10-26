@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + belegt / belegte",
     "is_verb": true,
     "word": "etw. belegen (Studien belegen, dass... = Studien weisen nach)",
-    "word_query": "etw. belegen"
+    "word_query": "etw. belegen",
+    "word_query_expanded": "etwas belegen"
 }

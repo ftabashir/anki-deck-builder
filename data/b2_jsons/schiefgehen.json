@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + schiefgegangen / ging schief",
     "is_verb": true,
     "word": "schiefgehen (geht schief, ging schief, ist schiefgegangen)",
-    "word_query": "schiefgehen"
+    "word_query": "schiefgehen",
+    "word_query_expanded": "schiefgehen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gepresst / presste",
     "is_verb": true,
     "word": "pressen (die Hände in den Rücken pressen)",
-    "word_query": "pressen"
+    "word_query": "pressen",
+    "word_query_expanded": "pressen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verringert / verringerte",
     "is_verb": true,
     "word": "verringern",
-    "word_query": "verringern"
+    "word_query": "verringern",
+    "word_query_expanded": "verringern"
 }

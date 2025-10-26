@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + verpasst / verpasste",
     "is_verb": true,
     "word": "verpassen",
-    "word_query": "verpassen"
+    "word_query": "verpassen",
+    "word_query_expanded": "verpassen"
 }

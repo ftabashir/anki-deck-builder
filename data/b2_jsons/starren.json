@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gestarrt / starrte",
     "is_verb": true,
     "word": "starren",
-    "word_query": "starren"
+    "word_query": "starren",
+    "word_query_expanded": "starren"
 }

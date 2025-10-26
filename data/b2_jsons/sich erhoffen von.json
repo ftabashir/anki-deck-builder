@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + sich erhofft / erhoffte sich",
     "is_verb": true,
     "word": "sich erhoffen von (+ Dat.)",
-    "word_query": "sich erhoffen von"
+    "word_query": "sich erhoffen von",
+    "word_query_expanded": "sich erhoffen von"
 }

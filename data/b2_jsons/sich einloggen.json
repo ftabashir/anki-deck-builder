@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich eingeloggt / loggte sich ein",
     "is_verb": true,
     "word": "sich einloggen",
-    "word_query": "sich einloggen"
+    "word_query": "sich einloggen",
+    "word_query_expanded": "sich einloggen"
 }

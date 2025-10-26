@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat weitergegeben / gab weiter",
     "is_verb": true,
     "word": "Informationen weitergeben (gibt weiter, gab weiter, hat weitergegeben)",
-    "word_query": "Informationen weitergeben"
+    "word_query": "Informationen weitergeben",
+    "word_query_expanded": "Informationen weitergeben"
 }

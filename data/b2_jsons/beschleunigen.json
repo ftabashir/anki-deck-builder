@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat beschleunigt / beschleunigte",
     "is_verb": true,
     "word": "beschleunigen (greift ein, griff ein, hat eingegriffen)",
-    "word_query": "beschleunigen"
+    "word_query": "beschleunigen",
+    "word_query_expanded": "beschleunigen"
 }

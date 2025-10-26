@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + stehengeblieben / blieb stehen",
     "is_verb": true,
     "word": "stehen bleiben (bleibt stehen, blieb stehen, ist stehengeblieben)",
-    "word_query": "stehen bleiben"
+    "word_query": "stehen bleiben",
+    "word_query_expanded": "stehen bleiben"
 }

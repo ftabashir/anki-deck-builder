@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + geschadet / schadete",
     "is_verb": true,
     "word": "schaden",
-    "word_query": "schaden"
+    "word_query": "schaden",
+    "word_query_expanded": "schaden"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + abgelaufen / lief ab",
     "is_verb": true,
     "word": "ablaufen (läuft ab,lief ab, ist abgelaufen)(Wie läuft das ab?)",
-    "word_query": "ablaufen"
+    "word_query": "ablaufen",
+    "word_query_expanded": "ablaufen"
 }

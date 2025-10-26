@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + nachgesehen / sah nach",
     "is_verb": true,
     "word": "nachsehen (sieht nach, sah nach, hat nachgesehen)",
-    "word_query": "nachsehen"
+    "word_query": "nachsehen",
+    "word_query_expanded": "nachsehen"
 }

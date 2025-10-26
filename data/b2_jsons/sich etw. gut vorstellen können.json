@@ -19,5 +19,6 @@
     "perfekt_präteritum": "können + sich etw. gut vorgestellt haben / konnte sich etw. gut vorstellen",
     "is_verb": true,
     "word": "sich etw. gut vorstellen können",
-    "word_query": "sich etw. gut vorstellen können"
+    "word_query": "sich etw. gut vorstellen können",
+    "word_query_expanded": "sich etwas gut vorstellen können"
 }

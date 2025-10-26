@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + angewendet / wendete an",
     "is_verb": true,
     "word": "anwenden (Tipps anwenden)",
-    "word_query": "anwenden"
+    "word_query": "anwenden",
+    "word_query_expanded": "anwenden"
 }

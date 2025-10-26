@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat nachvollzogen / vollzog nach",
     "is_verb": true,
     "word": "etw. nachvollziehen (vollzieht nach, vollzog nach, hat nachvollzogen)",
-    "word_query": "etw. nachvollziehen"
+    "word_query": "etw. nachvollziehen",
+    "word_query_expanded": "etwas nachvollziehen"
 }

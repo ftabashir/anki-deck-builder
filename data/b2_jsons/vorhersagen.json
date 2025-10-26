@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat vorhergesagt / sagte vorher",
     "is_verb": true,
     "word": "vorhersagen (sagt vorher, sagte vorher, hat vorhergesagt)",
-    "word_query": "vorhersagen"
+    "word_query": "vorhersagen",
+    "word_query_expanded": "vorhersagen"
 }

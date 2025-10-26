@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gegründet / gründete",
     "is_verb": true,
     "word": "gründen (eine Firma gründen)",
-    "word_query": "gründen"
+    "word_query": "gründen",
+    "word_query_expanded": "gründen"
 }

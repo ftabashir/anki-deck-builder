@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + verschwunden / verschwand",
     "is_verb": true,
     "word": "verschwinden (verschwindet, verschwand, ist verschwunden)",
-    "word_query": "verschwinden"
+    "word_query": "verschwinden",
+    "word_query_expanded": "verschwinden"
 }

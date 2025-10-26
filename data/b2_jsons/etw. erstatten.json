@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + erstattet / erstattete",
     "is_verb": true,
     "word": "etw. erstatten (ich habe mein Geld erstattet bekormmen.)",
-    "word_query": "etw. erstatten"
+    "word_query": "etw. erstatten",
+    "word_query_expanded": "etwas erstatten"
 }

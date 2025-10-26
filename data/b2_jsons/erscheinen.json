@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + erschienen / erschien",
     "is_verb": true,
     "word": "erscheinen (erscheint, erschien, ist erschienen) (einige Karikaturen sind in Büchern erschienen)",
-    "word_query": "erscheinen"
+    "word_query": "erscheinen",
+    "word_query_expanded": "erscheinen"
 }

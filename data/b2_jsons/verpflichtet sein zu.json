@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + verpflichtet gewesen / war verpflichtet",
     "is_verb": true,
     "word": "verpflichtet sein zu (+ Dat.)",
-    "word_query": "verpflichtet sein zu"
+    "word_query": "verpflichtet sein zu",
+    "word_query_expanded": "verpflichtet sein zu"
 }

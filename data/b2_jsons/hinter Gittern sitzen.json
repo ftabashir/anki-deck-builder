@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gesessen / saß",
     "is_verb": true,
     "word": "hinter Gittern sitzen (sitzen, saB,hat gesessen)",
-    "word_query": "hinter Gittern sitzen"
+    "word_query": "hinter Gittern sitzen",
+    "word_query_expanded": "hinter Gittern sitzen"
 }

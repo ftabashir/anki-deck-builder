@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich gewandt / wandte sich",
     "is_verb": true,
     "word": "sich wenden an (+ Akk.)",
-    "word_query": "sich wenden an"
+    "word_query": "sich wenden an",
+    "word_query_expanded": "sich wenden an"
 }

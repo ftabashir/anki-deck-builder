@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + implantiert / implantierte",
     "is_verb": true,
     "word": "implantieren (einen Chip implantieren lassen)",
-    "word_query": "implantieren"
+    "word_query": "implantieren",
+    "word_query_expanded": "implantieren"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + abgefragt / fragte ab",
     "is_verb": true,
     "word": "etw. abfragen",
-    "word_query": "etw. abfragen"
+    "word_query": "etw. abfragen",
+    "word_query_expanded": "etwas abfragen"
 }

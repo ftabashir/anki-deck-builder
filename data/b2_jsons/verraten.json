@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat verraten / verriet",
     "is_verb": true,
     "word": "verraten (verrät, verriet, hat verraten)",
-    "word_query": "verraten"
+    "word_query": "verraten",
+    "word_query_expanded": "verraten"
 }

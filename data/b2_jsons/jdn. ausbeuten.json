@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + ausgebeutet / beutete aus",
     "is_verb": true,
     "word": "jdn. ausbeuten",
-    "word_query": "jdn. ausbeuten"
+    "word_query": "jdn. ausbeuten",
+    "word_query_expanded": "jemanden ausbeuten"
 }

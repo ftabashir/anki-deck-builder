@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + aufgetreten / trat auf",
     "is_verb": true,
     "word": "auftreten (tritt auf, trat auf, ist aufgetreten) (Schmerzen treten auf)",
-    "word_query": "auftreten"
+    "word_query": "auftreten",
+    "word_query_expanded": "auftreten"
 }

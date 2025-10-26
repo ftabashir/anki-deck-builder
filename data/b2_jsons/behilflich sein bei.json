@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + behilflich gewesen / war behilflich",
     "is_verb": true,
     "word": "behilflich sein bei (+ Dat.)",
-    "word_query": "behilflich sein bei"
+    "word_query": "behilflich sein bei",
+    "word_query_expanded": "behilflich sein bei"
 }

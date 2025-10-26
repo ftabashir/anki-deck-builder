@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + befürchtet / befürchtete",
     "is_verb": true,
     "word": "etw. befürchten (Er befürchtet, seine Stelle zu verlieren.)",
-    "word_query": "etw. befürchten"
+    "word_query": "etw. befürchten",
+    "word_query_expanded": "etwas befürchten"
 }

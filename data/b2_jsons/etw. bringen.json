@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gebracht / brachte",
     "is_verb": true,
     "word": "etw. bringen (Bringt das etwas?)",
-    "word_query": "etw. bringen"
+    "word_query": "etw. bringen",
+    "word_query_expanded": "etwas bringen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat sich versprochen / versprach sich",
     "is_verb": true,
     "word": "sich versprechen von (+ Dat.) (verspricht, versprach, hat versprochen) (Von dem Job verspreche ich mir weniger Stress.)",
-    "word_query": "sich versprechen von"
+    "word_query": "sich versprechen von",
+    "word_query_expanded": "sich versprechen von"
 }

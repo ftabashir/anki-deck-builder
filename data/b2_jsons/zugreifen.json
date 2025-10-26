@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat zugegriffen / griff zu",
     "is_verb": true,
     "word": "zugreifen (greift zu, griff zu, hat zugegriffen) (auf Daten zugreifen)",
-    "word_query": "zugreifen"
+    "word_query": "zugreifen",
+    "word_query_expanded": "zugreifen"
 }

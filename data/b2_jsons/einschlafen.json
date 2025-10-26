@@ -19,5 +19,6 @@
     "perfekt_präteritum": "sein + eingeschlafen / schlief ein",
     "is_verb": true,
     "word": "einschlafen",
-    "word_query": "einschlafen"
+    "word_query": "einschlafen",
+    "word_query_expanded": "einschlafen"
 }

@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat entsprochen / entsprach",
     "is_verb": true,
     "word": "entsprechen (+ Dat.)(entspricht, entsprach,hat entsprochen)(dem Durchschnitt entsprechen)",
-    "word_query": "entsprechen"
+    "word_query": "entsprechen",
+    "word_query_expanded": "entsprechen"
 }

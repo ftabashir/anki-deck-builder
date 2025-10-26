@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + genehmigt / genehmigte",
     "is_verb": false,
     "word": "genehmigt (ohne Änderungen genehmigt)",
-    "word_query": "genehmigt"
+    "word_query": "genehmigt",
+    "word_query_expanded": "genehmigt"
 }

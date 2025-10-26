@@ -19,5 +19,6 @@
     "perfekt_präteritum": "hat erschaffen / erschuf",
     "is_verb": true,
     "word": "erschaffen (erschafft,erschuf, hat erschaffen)",
-    "word_query": "erschaffen"
+    "word_query": "erschaffen",
+    "word_query_expanded": "erschaffen"
 }

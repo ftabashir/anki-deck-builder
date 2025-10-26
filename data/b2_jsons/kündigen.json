@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gekündigt / kündigte",
     "is_verb": true,
     "word": "kündigen (die Stelle kündigen)",
-    "word_query": "kündigen"
+    "word_query": "kündigen",
+    "word_query_expanded": "kündigen"
 }

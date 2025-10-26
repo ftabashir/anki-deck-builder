@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + gebunden / band",
     "is_verb": true,
     "word": "jmd. binden an (+ Akk.)",
-    "word_query": "jmd. binden an"
+    "word_query": "jmd. binden an",
+    "word_query_expanded": "jemand binden an"
 }

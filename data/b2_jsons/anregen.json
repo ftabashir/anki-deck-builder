@@ -19,5 +19,6 @@
     "perfekt_präteritum": "haben + angeregt / regte an",
     "is_verb": true,
     "word": "anregen (die Fantasie anregen)",
-    "word_query": "anregen"
+    "word_query": "anregen",
+    "word_query_expanded": "anregen"
 }
