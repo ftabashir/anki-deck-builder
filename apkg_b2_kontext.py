@@ -246,27 +246,27 @@ def card_template():
         'afmt': """
                 {{FrontSide}}<hr>
                 <div><b>🧠 Bedeutung (DE)</b> <br/> {{de_meaning}}
-                <div style="color: #999999; font-size: 16px;text-align: right;">{{de_meaning_fa}}</div>
+                <div style="color: #999999; font-size: 16px; direction: rtl; unicode-bidi: embed;">{{de_meaning_fa}}</div>
                 </div><br/>
-                <div><b>💬 Beispiel</b> <br/> 
+                <div><b>💬 Beispiel</b> <br/>
                 <ul style="margin-top: 0px;">
                 {{#de_example_sentence_1}}
                 <li style="font-size: 16px;">{{de_example_sentence_1}}
                 {{#de_example_sentence_fa_1}}
-                <br/><div style="color: #999999; font-size: 16px;text-align: right;">{{de_example_sentence_fa_1}}</div>
+                <br/><div style="color: #999999; font-size: 16px; direction: rtl; unicode-bidi: embed;">{{de_example_sentence_fa_1}}</div>
                 {{/de_example_sentence_fa_1}}
                 </li>
                 {{/de_example_sentence_1}}
                 {{#de_example_sentence_2}}
                 <li style="margin-top: 8px;font-size: 16px;">{{de_example_sentence_2}}
                 {{#de_example_sentence_fa_2}}
-                <br/><div style="color: #999999; font-size: 16px;text-align: right;">{{de_example_sentence_fa_2}}</div>
+                <br/><div style="color: #999999; font-size: 16px; direction: rtl; unicode-bidi: embed;">{{de_example_sentence_fa_2}}</div>
                 {{/de_example_sentence_fa_2}}
                 </li>
                 {{/de_example_sentence_2}}
                 </ul>
                 </div><br/>
-                <div><b>🇮🇷 Bedeutung (FA)</b> <br/> {{fa_meaning}}</div><br/>
+                <div><b>🇮🇷 Bedeutung (FA)</b> <br/> <span style="direction: rtl; unicode-bidi: embed; display: inline-block;">{{fa_meaning}}</span></div><br/>
                 <div><b>🔁 Synonyme</b> <br/> {{de_synonyms}}</div><br/>
                 <div><b>🇬🇧 Bedeutung (EN)</b> <br/> {{en_meaning}}</div><br/><br/>
                 <div><b>🧩 Wortart:</b> {{part_of_speech}}</div>
