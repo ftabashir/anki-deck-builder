@@ -471,17 +471,17 @@ if __name__ == '__main__':
     # create_json_files(words, jsons_directory)
     # update_json_files(words, jsons_directory)
     apkg_params = b2_apkg_params()
-    gen_anki(apkg_params, jsons_directory, apkg_path)
+    # gen_anki(apkg_params, jsons_directory, apkg_path)
 
-    # b2_kontext = create_anki_model(apkg_params)
-    # add_audio(
-    #     collection=collection,
-    #     model_id=b2_kontext.model_id + 1,
-    #     model_name=b2_kontext.name + "|Audio",
-    #     old_model_fields=b2_kontext.fields,
-    #     old_card_template=b2_kontext.templates[0],
-    #     old_card_css=b2_kontext.css,
-    #     deck_id=apkg_params.deck_id + 1,
-    #     deck_name=f'{apkg_params.deck_name} with Audio',
-    #     with_lib='coqui', # piper or coqui
-    # )
+    b2_kontext = create_anki_model(apkg_params)
+    add_audio(
+        collection=collection,
+        model_id=b2_kontext.model_id + 1,
+        model_name=b2_kontext.name + "|Audio",
+        old_model_fields=b2_kontext.fields,
+        old_card_template=b2_kontext.templates[0],
+        old_card_css=b2_kontext.css,
+        deck_id=apkg_params.deck_id + 1,
+        deck_name=f'{apkg_params.deck_name} with Audio',
+        with_lib='coqui', # piper or coqui
+    )
