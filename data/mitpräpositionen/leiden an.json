@@ -1,0 +1,24 @@
+{
+    "de_meaning": "Leiden an bedeutet, dass man eine Krankheit oder ein gesundheitliches Problem hat.",
+    "de_meaning_fa": "leiden an به این معنی است که یک بیماری یا مشکل سلامتی دارید.",
+    "de_synonyms": [
+        "krank sein an",
+        "erkrankt sein an",
+        "haben"
+    ],
+    "de_example_1": "Er leidet an einer schweren Krankheit.",
+    "de_example_fa_1": "او به یک بیماری شدید مبتلا است.",
+    "de_example_2": "Sie leidet an Diabetes.",
+    "de_example_fa_2": "او دیابت دارد.",
+    "fa_meaning": "به چیزی مبتلا بودن، از چیزی رنج بردن",
+    "en_meaning": "to suffer from (an illness)",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gelitten / litt",
+    "is_verb": true,
+    "word": "leiden an",
+    "word_query": "leiden an",
+    "word_query_expanded": "leiden an"
+}

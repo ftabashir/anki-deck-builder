@@ -27,3 +27,8 @@ B2 = ApkgCollection(
     collection_path="data/collections/b2",
     database_name='collection.anki2'
 )
+
+B2_mitpräpositionen = ApkgCollection(
+    collection_path="data/collections/b2_mitpräpositionen",
+    database_name='collection.anki2'
+)

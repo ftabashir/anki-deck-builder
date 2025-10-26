@@ -1,0 +1,24 @@
+{
+    "de_meaning": "Liegen an bedeutet, dass etwas die Ursache oder der Grund für eine Situation oder ein Problem ist.",
+    "de_meaning_fa": "liegen an به این معنی است که چیزی علت یا دلیل یک موقعیت یا مشکل است.",
+    "de_synonyms": [
+        "zurückzuführen sein auf",
+        "herrühren von",
+        "verursacht werden durch"
+    ],
+    "de_example_1": "Das liegt an dem schlechten Wetter.",
+    "de_example_fa_1": "این به خاطر هوای بد است.",
+    "de_example_2": "Es liegt nicht an dir.",
+    "de_example_fa_2": "تقصیر تو نیست.",
+    "fa_meaning": "به خاطر چیزی بودن، به علت چیزی بودن",
+    "en_meaning": "to be due to / to be because of",
+    "part_of_speech": "Verb",
+    "article": "",
+    "frequency": "Very common",
+    "cefr_level": "B1",
+    "perfekt_präteritum": "haben + gelegen / lag",
+    "is_verb": true,
+    "word": "liegen an",
+    "word_query": "liegen an",
+    "word_query_expanded": "liegen an"
+}
